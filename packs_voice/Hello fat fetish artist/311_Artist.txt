@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “whhHHHAT?!”"
+image="311_Artist.png"
+dub_timestamps=[68.422]
+dub_characters=["Artist"]

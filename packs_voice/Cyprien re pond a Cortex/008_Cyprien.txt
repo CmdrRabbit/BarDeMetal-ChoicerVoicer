@@ -1,0 +1,6 @@
+[data]
+
+caption="Laisse moi deviner, tu chercherais pas des amis"
+image="008_Cyprien.jpg"
+dub_timestamps=[17.117]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Mais qu'est ce que c'est que ce son ?”"
+image="01_Guzz.png"
+dub_timestamps=[7.322]
+dub_characters=["Guzz"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="On appren tout sur toi rien que sur la"
+image="022_Cyprien.jpg"
+dub_timestamps=[46.799]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “And so I cry, sometimes, when I lie in bed”"
+image="01_He-Man.png"
+dub_timestamps=[2.553]
+dub_characters=["He-Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Is this the pizza guy, or Stan Stanmanson?"
+image="037_Master_Prank_Caller.jpg"
+dub_timestamps=[106.800]
+dub_characters=["Master Prank Caller"]

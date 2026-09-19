@@ -1,0 +1,6 @@
+[data]
+
+caption="[Lord Verity] “(they call me- ow!”"
+image="202_Lord Verity.png"
+dub_timestamps=[3.288]
+dub_characters=["Lord Verity"]

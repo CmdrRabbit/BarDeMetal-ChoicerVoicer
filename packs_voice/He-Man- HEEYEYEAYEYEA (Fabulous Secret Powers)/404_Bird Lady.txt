@@ -1,0 +1,6 @@
+[data]
+
+caption="[Bird Lady] “your feelings”"
+image="404_Bird Lady.png"
+dub_timestamps=[110.919]
+dub_characters=["Bird Lady"]

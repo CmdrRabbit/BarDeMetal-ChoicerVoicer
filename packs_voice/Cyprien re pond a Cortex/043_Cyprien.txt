@@ -1,0 +1,6 @@
+[data]
+
+caption="Ma mère ma toujours interdis de taper sur les handicapés (ah bah non)"
+image="043_Cyprien.jpg"
+dub_timestamps=[94.048]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “I- I'm not telling you... you are going to make fun of me-”"
+image="14_Moony.png"
+dub_timestamps=[964.775]
+dub_characters=["Moony"]

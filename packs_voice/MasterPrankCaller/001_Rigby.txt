@@ -1,0 +1,6 @@
+[data]
+
+caption="Alright, now let’s prank the master prank caller"
+image="001_Rigby.jpg"
+dub_timestamps=[0.000]
+dub_characters=["Rigby"]

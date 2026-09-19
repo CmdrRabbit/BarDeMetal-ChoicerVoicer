@@ -1,0 +1,6 @@
+[data]
+
+caption="[Merchant] “Buenas, comadre! ¿No Le gustaría algunos dulces pa' guardar este momentazo? ¡Dulces pa' su jefecita y su perro pues!”"
+image="501_Merchant.png"
+dub_timestamps=[217.763]
+dub_characters=["Merchant"]

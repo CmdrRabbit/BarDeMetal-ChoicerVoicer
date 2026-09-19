@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “I'm no retrobate by any means!”"
+image="08_Joker.png"
+dub_timestamps=[41.742]
+dub_characters=["Joker"]

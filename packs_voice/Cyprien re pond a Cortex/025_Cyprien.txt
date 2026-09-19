@@ -1,0 +1,6 @@
+[data]
+
+caption="La seule scène sur laquelle tu monte"
+image="025_Cyprien.jpg"
+dub_timestamps=[53.058]
+dub_characters=["Cyprien"]

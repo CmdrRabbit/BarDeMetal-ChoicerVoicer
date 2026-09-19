@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “MMNo time for puns!”"
+image="03_Papyrus.png"
+dub_timestamps=[11.645]
+dub_characters=["Papyrus"]

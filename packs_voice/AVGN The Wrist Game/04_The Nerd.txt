@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “You'd be so cool, going around wearing this thing.”"
+image="04_The Nerd.png"
+dub_timestamps=[7.253]
+dub_characters=["The Nerd"]

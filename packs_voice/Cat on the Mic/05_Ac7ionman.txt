@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “Bro, shut the FUCK UP!!”"
+image="05_Ac7ionman.png"
+dub_timestamps=[10.169]
+dub_characters=["Ac7ionman"]

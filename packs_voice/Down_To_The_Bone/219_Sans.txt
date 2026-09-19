@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You've cut this story, down to the bone!”"
+image="219_Sans.png"
+dub_timestamps=[93.199]
+dub_characters=["Sans"]

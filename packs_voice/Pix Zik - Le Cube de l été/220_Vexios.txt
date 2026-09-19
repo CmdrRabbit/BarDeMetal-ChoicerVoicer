@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “*finis la phrase de Guzz* -prendre dans mes bras !”"
+image="220_Vexios.png"
+dub_timestamps=[118.060]
+dub_characters=["Vexios"]

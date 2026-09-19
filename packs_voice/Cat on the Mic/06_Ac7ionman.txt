@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “THAT'S NOT A CAT!”"
+image="06_Ac7ionman.png"
+dub_timestamps=[12.269]
+dub_characters=["Ac7ionman"]

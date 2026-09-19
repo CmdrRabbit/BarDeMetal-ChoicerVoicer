@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “We can relate to your Determination!”"
+image="14_Papyrus.png"
+dub_timestamps=[59.690]
+dub_characters=["Papyrus"]

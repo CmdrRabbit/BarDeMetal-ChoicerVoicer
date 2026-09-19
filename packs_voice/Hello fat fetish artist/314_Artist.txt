@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “I'LL BURY YOU ALIVE, YOU SON OF A BITCH!!!!”"
+image="314_Artist.png"
+dub_timestamps=[73.593]
+dub_characters=["Artist"]

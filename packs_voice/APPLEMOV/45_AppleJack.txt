@@ -1,0 +1,6 @@
+[data]
+
+caption="[AppleJack] “*munching*”"
+image="45_AppleJack.png"
+dub_timestamps=[122.152]
+dub_characters=["AppleJack"]

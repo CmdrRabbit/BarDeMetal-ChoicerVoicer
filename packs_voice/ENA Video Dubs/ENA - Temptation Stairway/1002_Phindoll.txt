@@ -1,0 +1,7 @@
+[data]
+
+caption="[Phindoll] “Hey, you're pretty acute for a newbie, but now's not the time for me to go off on a tangent.
+”"
+image="1002_Phindoll.png"
+dub_timestamps=[709.057]
+dub_characters=["Phindoll"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mariya] “A… mā? Anta wa gōkaku dekirudeshou ne? Watashi wa anta no koto-suki janaikedo. Massugu susunde tsugi wa migi. san-Banme no ana o erabi nasai.”"
+image="804_Mariya.png"
+dub_timestamps=[628.636]
+dub_characters=["Mariya"]

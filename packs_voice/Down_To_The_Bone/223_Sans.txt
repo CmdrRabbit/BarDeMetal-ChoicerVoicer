@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Thanks to the fall!”"
+image="223_Sans.png"
+dub_timestamps=[110.032]
+dub_characters=["Sans"]

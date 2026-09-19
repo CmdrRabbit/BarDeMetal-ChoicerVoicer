@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Not so sure you'll get em' with that.”"
+image="248_Sans.png"
+dub_timestamps=[236.935]
+dub_characters=["Sans"]

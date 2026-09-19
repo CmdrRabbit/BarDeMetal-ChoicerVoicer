@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Oauis bon bah c'est bon hein, j'ai pas eu le temps de me coiffer ce matin hein. Bon OK, même si j'ai pas de cheveux mais bon c'est pas une raison. En plus...*coupé*”"
+image="206_Vexios.png"
+dub_timestamps=[34.872]
+dub_characters=["Vexios"]

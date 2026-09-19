@@ -1,0 +1,6 @@
+[data]
+
+caption="[Merchant] “Turrón, turrón, turrón, turrón, turrón, turrón, turrón, turrón, turrón! Turrón!”"
+image="503_Merchant.png"
+dub_timestamps=[236.577]
+dub_characters=["Merchant"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Your consequences aren't easy to swallow.”"
+image="19_Papyrus.png"
+dub_timestamps=[83.627]
+dub_characters=["Papyrus"]

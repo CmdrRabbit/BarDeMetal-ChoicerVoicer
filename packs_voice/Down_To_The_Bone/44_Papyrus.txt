@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “If you survive this prison,”"
+image="44_Papyrus.png"
+dub_timestamps=[222.826]
+dub_characters=["Papyrus"]

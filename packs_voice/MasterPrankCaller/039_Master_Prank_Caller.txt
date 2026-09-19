@@ -1,0 +1,6 @@
+[data]
+
+caption="I warned you to leave me alone. Now i’m gonna prank you so hard, you’re BOTH gonna poo a duke."
+image="039_Master_Prank_Caller.jpg"
+dub_timestamps=[111.230]
+dub_characters=["Master Prank Caller"]

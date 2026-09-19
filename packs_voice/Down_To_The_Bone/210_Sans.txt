@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Call me what you want, I got thick skin!”"
+image="210_Sans.png"
+dub_timestamps=[49.691]
+dub_characters=["Sans"]

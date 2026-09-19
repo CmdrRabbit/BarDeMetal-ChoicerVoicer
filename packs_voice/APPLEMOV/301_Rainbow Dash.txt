@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rainbow Dash] “Wooahh, Apple Jack! Eat all those apples, you're gonna get a wicked bad tummy ache!”"
+image="301_Rainbow Dash.png"
+dub_timestamps=[18.589]
+dub_characters=["Rainbow Dash"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Is your heart full of evil?”"
+image="28_Papyrus.png"
+dub_timestamps=[122.149]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gabo] “DRINK THE BLOOD AND SMOKE THE BANANA, YES.”"
+image="903_Gabo.png"
+dub_timestamps=[638.408]
+dub_characters=["Gabo"]

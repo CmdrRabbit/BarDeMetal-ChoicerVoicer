@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “How are things, Dolphin?”"
+image="413_ENA Happy.png"
+dub_timestamps=[734.510]
+dub_characters=["ENA Happy"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “You know, it smells like I'll finally be able to make my wish! C'mon, ENA. JENA. (sighs) C'mon! Don't ruin my moment. ”"
+image="03_Moony.png"
+dub_timestamps=[21.880]
+dub_characters=["Moony"]

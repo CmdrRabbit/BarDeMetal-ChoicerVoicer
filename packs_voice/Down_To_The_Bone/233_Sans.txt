@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “I am The Mastermind, he's my accomplice!”"
+image="233_Sans.png"
+dub_timestamps=[155.538]
+dub_characters=["Sans"]

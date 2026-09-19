@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “YOU SON OF A BITCH!!”"
+image="312_Artist.png"
+dub_timestamps=[69.382]
+dub_characters=["Artist"]

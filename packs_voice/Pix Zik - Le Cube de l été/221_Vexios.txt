@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Hé mais j'y peux rien, c'est l'nain là !”"
+image="221_Vexios.png"
+dub_timestamps=[121.464]
+dub_characters=["Vexios"]

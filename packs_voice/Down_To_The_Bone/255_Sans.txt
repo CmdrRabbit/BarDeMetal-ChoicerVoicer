@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “We can play again if you sell your soul!”"
+image="255_Sans.png"
+dub_timestamps=[265.990]
+dub_characters=["Sans"]

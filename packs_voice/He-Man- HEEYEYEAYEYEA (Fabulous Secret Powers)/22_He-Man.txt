@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “...in this institution”"
+image="22_He-Man.png"
+dub_timestamps=[66.919]
+dub_characters=["He-Man"]

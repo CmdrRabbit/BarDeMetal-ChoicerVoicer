@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You might even decide to start talking to flowers!”"
+image="37_Papyrus.png"
+dub_timestamps=[170.048]
+dub_characters=["Papyrus"]

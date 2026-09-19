@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “Yes.”"
+image="13_Moony.png"
+dub_timestamps=[960.224]
+dub_characters=["Moony"]

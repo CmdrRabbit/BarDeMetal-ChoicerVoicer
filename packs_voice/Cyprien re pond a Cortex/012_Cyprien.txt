@@ -1,0 +1,6 @@
+[data]
+
+caption="Mais Bastien tu dis avoir crée ta marque de vêtement"
+image="012_Cyprien.jpg"
+dub_timestamps=[26.814]
+dub_characters=["Cyprien"]

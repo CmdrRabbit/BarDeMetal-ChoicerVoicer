@@ -1,0 +1,6 @@
+[data]
+
+caption="On était ensemble au CP mais"
+image="019_Cyprien.jpg"
+dub_timestamps=[40.896]
+dub_characters=["Cyprien"]

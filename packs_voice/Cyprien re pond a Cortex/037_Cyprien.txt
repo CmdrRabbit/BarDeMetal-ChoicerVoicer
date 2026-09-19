@@ -1,0 +1,6 @@
+[data]
+
+caption="Pas la peine de me répondre tellement ton niveau est minable"
+image="037_Cyprien.jpg"
+dub_timestamps=[79.286]
+dub_characters=["Cyprien"]

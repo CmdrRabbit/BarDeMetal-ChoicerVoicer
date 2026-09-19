@@ -1,0 +1,6 @@
+[data]
+
+caption="[Duncan] “your feelings”"
+image="503_Duncan.png"
+dub_timestamps=[110.953]
+dub_characters=["Duncan"]

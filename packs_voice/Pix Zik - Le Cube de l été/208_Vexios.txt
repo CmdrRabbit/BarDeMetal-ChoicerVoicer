@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Tu crois ?”"
+image="208_Vexios.png"
+dub_timestamps=[46.810]
+dub_characters=["Vexios"]

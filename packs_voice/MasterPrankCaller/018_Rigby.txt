@@ -1,0 +1,6 @@
+[data]
+
+caption="I don’t know."
+image="018_Rigby.jpg"
+dub_timestamps=[48.800]
+dub_characters=["Rigby"]

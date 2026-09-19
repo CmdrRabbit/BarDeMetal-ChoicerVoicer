@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Maiiiis non, je parle de la plage. Y a plus personne ! Y a pas de nana qui danse, RIEN !”"
+image="07_Guzz.png"
+dub_timestamps=[39.810]
+dub_characters=["Guzz"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Mais qu'est-ce qui t'prend Vexios là ? T'es complètement relou !”"
+image="21_Guzz.png"
+dub_timestamps=[118.960]
+dub_characters=["Guzz"]

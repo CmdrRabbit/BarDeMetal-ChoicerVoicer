@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “When I catch this child, can it be that hard?”"
+image="41_Papyrus.png"
+dub_timestamps=[188.413]
+dub_characters=["Papyrus"]

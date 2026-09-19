@@ -1,0 +1,6 @@
+[data]
+
+caption="All you have to do is send MAD to seven fifty five fifty five"
+image="008_Narrator.jpg"
+dub_timestamps=[21.201]
+dub_characters=["Narrator"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “I, The Great Papyrus! Challenge you to try getting by us!”"
+image="30_Papyrus.png"
+dub_timestamps=[127.139]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Leave me alone!”"
+image="50_Papyrus.png"
+dub_timestamps=[242.937]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You could show mercy to us!”"
+image="27_Papyrus.png"
+dub_timestamps=[117.373]
+dub_characters=["Papyrus"]

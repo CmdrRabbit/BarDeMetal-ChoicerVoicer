@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu fais partir des quels, j'ai ma"
+image="033_Cyprien.jpg"
+dub_timestamps=[70.497]
+dub_characters=["Cyprien"]

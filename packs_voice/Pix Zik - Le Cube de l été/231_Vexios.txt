@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Eeeeet... bon bah et DÉMERDE toi !”"
+image="231_Vexios.png"
+dub_timestamps=[234.800]
+dub_characters=["Vexios"]

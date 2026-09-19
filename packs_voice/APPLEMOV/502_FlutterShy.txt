@@ -1,0 +1,6 @@
+[data]
+
+caption="[FlutterShy] “This I gotta see!”"
+image="502_FlutterShy.png"
+dub_timestamps=[42.048]
+dub_characters=["FlutterShy"]

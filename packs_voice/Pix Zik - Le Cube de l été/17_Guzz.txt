@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Et il faut tout de suite lui- *coupé par Vexios*”"
+image="17_Guzz.png"
+dub_timestamps=[101.970]
+dub_characters=["Guzz"]

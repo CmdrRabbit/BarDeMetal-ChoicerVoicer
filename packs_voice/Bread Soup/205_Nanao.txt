@@ -1,0 +1,6 @@
+[data]
+
+caption="“I dice bread, fry it in oil, then boil it in water.”"
+image="205_Nanao.png"
+dub_timestamps=[40.700]
+dub_characters=["Nanao"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Woah, this guy’s good. I dunno, maybe we shouldn’t do this."
+image="020_Mordecai.jpg"
+dub_timestamps=[54.000]
+dub_characters=["Mordecai"]

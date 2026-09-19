@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brick Frog] “... I suppose you are here to...”"
+image="302_Brick Frog.png"
+dub_timestamps=[140.132]
+dub_characters=["Brick Frog"]

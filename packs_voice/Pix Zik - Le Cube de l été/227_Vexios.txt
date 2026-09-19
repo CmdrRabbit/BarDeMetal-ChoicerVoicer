@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “C'est le cube, de l'été ! C'est - le - cube, de l'été !”"
+image="227_Vexios.png"
+dub_timestamps=[203.000]
+dub_characters=["Vexios"]

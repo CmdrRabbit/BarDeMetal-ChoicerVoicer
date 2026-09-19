@@ -1,0 +1,6 @@
+[data]
+
+caption="“KIIIYAAAAHHHHH!!!!!”"
+image="210_Nanao.png"
+dub_timestamps=[96.164]
+dub_characters=["Nanao"]

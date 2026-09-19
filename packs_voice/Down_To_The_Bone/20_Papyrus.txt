@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Who's the real monster? Now you should know!”"
+image="20_Papyrus.png"
+dub_timestamps=[88.367]
+dub_characters=["Papyrus"]

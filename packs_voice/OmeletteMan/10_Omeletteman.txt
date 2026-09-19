@@ -1,0 +1,6 @@
+[data]
+
+caption="“Easy, kids!”"
+image="10_Omeletteman.jpg"
+dub_timestamps=[37.920]
+dub_characters=["Omeletteman"]

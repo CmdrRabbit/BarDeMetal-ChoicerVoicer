@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “ATTENTION, DERRIÈRE TOI !”"
+image="13_Guzz.png"
+dub_timestamps=[81.522]
+dub_characters=["Guzz"]

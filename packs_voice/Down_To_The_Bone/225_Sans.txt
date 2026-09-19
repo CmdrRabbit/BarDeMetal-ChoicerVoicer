@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Or turn all of us to dust..”"
+image="225_Sans.png"
+dub_timestamps=[119.536]
+dub_characters=["Sans"]

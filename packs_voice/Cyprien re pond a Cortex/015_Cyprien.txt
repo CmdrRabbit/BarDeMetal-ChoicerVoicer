@@ -1,0 +1,6 @@
+[data]
+
+caption="Insulter les gens pour exister, je sais que c'est tentant"
+image="015_Cyprien.jpg"
+dub_timestamps=[32.281]
+dub_characters=["Cyprien"]

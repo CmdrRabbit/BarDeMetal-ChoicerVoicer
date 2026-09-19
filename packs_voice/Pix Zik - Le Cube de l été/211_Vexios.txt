@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Faut pas s'étonner si les gens désertent les plages. M'Parle plus d'ça, moi ça m'donne des l-l-l-l-l-l-l-l-l-l-l-l-l-l-l-lag !”"
+image="211_Vexios.png"
+dub_timestamps=[73.139]
+dub_characters=["Vexios"]

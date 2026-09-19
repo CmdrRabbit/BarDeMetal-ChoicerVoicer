@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Someday, I'll join The Royal Guard!”"
+image="40_Papyrus.png"
+dub_timestamps=[184.682]
+dub_characters=["Papyrus"]

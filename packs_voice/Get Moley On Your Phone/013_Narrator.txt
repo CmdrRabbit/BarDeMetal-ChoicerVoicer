@@ -1,0 +1,6 @@
+[data]
+
+caption="Remember it's jamster.com"
+image="013_Narrator.jpg"
+dub_timestamps=[28.438]
+dub_characters=["Narrator"]

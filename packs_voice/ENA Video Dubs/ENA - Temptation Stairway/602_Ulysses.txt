@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ulysses] “-years.”"
+image="602_Ulysses.png"
+dub_timestamps=[370.926]
+dub_characters=["Ulysses"]

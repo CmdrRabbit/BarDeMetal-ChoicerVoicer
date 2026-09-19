@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “FOR REVOLUTIA-HOON”"
+image="25_He-Man.png"
+dub_timestamps=[81.169]
+dub_characters=["He-Man"]

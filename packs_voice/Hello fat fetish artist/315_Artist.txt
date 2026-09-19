@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “DON'T MAKE FUN OF MY CRAFT!”"
+image="315_Artist.png"
+dub_timestamps=[75.829]
+dub_characters=["Artist"]

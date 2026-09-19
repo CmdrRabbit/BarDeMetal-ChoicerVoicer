@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “I am The Mastermind, he's my accomplice!”"
+image="35_Papyrus.png"
+dub_timestamps=[155.538]
+dub_characters=["Papyrus"]

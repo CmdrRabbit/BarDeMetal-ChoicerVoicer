@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Alors j'me mets à chanter, à danser, et une fille vient m'interpeller”"
+image="12_Guzz.png"
+dub_timestamps=[60.155]
+dub_characters=["Guzz"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Good luck ever getting out!”"
+image="26_Papyrus.png"
+dub_timestamps=[112.303]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “C'est le signal !”"
+image="02_Guzz.png"
+dub_timestamps=[9.390]
+dub_characters=["Guzz"]

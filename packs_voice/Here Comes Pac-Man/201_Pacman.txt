@@ -1,0 +1,6 @@
+[data]
+
+caption="[Pacman] “Yo, yo, yo, yo, yoooo! What it is, motherfuckers?”"
+image="201_Pacman.png"
+dub_timestamps=[3.142]
+dub_characters=["Pacman"]

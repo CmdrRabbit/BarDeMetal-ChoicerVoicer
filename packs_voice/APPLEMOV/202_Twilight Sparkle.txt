@@ -1,0 +1,6 @@
+[data]
+
+caption="[Twilight Sparkle] “Man! I never seen a pony eat so many apples!”"
+image="202_Twilight Sparkle.png"
+dub_timestamps=[12.856]
+dub_characters=["Twilight Sparkle"]

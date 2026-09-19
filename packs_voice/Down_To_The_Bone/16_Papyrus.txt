@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Humans betrayed us and left us burnin'”"
+image="16_Papyrus.png"
+dub_timestamps=[69.202]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “On y va !”"
+image="05_Guzz.png"
+dub_timestamps=[23.890]
+dub_characters=["Guzz"]

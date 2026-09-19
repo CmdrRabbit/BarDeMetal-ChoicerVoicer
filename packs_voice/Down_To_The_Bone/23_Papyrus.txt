@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “The last line of the chorus is a pun!”"
+image="23_Papyrus.png"
+dub_timestamps=[99.633]
+dub_characters=["Papyrus"]

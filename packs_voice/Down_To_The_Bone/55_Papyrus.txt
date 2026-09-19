@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “We can play again if you sell your soul!”"
+image="55_Papyrus.png"
+dub_timestamps=[265.990]
+dub_characters=["Papyrus"]

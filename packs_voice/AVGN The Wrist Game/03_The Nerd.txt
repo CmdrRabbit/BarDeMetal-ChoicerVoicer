@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “Yeah this is the hot shit right here.”"
+image="03_The Nerd.png"
+dub_timestamps=[4.695]
+dub_characters=["The Nerd"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mariya] “Nande son'nani banana mi teru no? Anta sore-sukina no? Aku shumi ne!”"
+image="801_Mariya.png"
+dub_timestamps=[604.232]
+dub_characters=["Mariya"]

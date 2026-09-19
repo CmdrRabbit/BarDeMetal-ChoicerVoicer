@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Swag ? Elles ont que ce mot à la bouche ! C'était déjà comme ça quand elles portaient des couches !”"
+image="210_Vexios.png"
+dub_timestamps=[67.600]
+dub_characters=["Vexios"]

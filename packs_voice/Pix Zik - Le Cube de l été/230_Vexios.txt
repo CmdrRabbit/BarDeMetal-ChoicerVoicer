@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Tu veux que Porto lèche ton portable ? Et bien, achète un portable et... *se fais couper par Porto*”"
+image="230_Vexios.png"
+dub_timestamps=[229.539]
+dub_characters=["Vexios"]

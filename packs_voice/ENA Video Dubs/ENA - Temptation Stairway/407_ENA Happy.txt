@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Hark! I belive I'm in dire need of your services to learn my current whereabouts.”"
+image="407_ENA Happy.png"
+dub_timestamps=[333.081]
+dub_characters=["ENA Happy"]

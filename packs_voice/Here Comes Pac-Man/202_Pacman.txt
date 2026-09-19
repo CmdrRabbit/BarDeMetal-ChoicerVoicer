@@ -1,0 +1,6 @@
+[data]
+
+caption="[Pacman] “Me, you bitches! I'm high on crack! Wanna free base?”"
+image="202_Pacman.png"
+dub_timestamps=[8.759]
+dub_characters=["Pacman"]

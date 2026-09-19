@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mariya] “Nanite koto? ! Sore wa anta to chigau ajidakedo!”"
+image="803_Mariya.png"
+dub_timestamps=[622.188]
+dub_characters=["Mariya"]

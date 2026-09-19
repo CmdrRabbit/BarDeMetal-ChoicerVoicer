@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “I try, all the time...”"
+image="21_He-Man.png"
+dub_timestamps=[62.886]
+dub_characters=["He-Man"]

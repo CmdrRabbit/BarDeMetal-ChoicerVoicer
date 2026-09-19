@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brody Foxx] “...to X. BOX. LIIIIVVEEEEE!!!”"
+image="03_Brody Foxx.png"
+dub_timestamps=[5.913]
+dub_characters=["Brody Foxx"]

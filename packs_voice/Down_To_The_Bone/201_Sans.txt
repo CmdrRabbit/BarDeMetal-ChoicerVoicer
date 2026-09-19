@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “*Snoring* Wha- What is it dude? *Long sigh*”"
+image="201_Sans.png"
+dub_timestamps=[3.778]
+dub_characters=["Sans"]

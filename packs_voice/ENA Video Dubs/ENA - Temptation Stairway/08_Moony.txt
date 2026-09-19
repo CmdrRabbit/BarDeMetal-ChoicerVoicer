@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “Augh... so it goes...”"
+image="08_Moony.png"
+dub_timestamps=[79.334]
+dub_characters=["Moony"]

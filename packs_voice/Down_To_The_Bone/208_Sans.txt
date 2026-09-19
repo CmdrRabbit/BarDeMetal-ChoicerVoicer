@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Hey! Papyrus, mind your manners.”"
+image="208_Sans.png"
+dub_timestamps=[40.258]
+dub_characters=["Sans"]

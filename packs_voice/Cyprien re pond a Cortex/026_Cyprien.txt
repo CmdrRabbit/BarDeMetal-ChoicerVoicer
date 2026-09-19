@@ -1,0 +1,6 @@
+[data]
+
+caption="C'est sur un bateau mouche"
+image="026_Cyprien.jpg"
+dub_timestamps=[54.631]
+dub_characters=["Cyprien"]

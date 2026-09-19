@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “(distant) Hey, yey, y-”"
+image="38_He-Man.png"
+dub_timestamps=[116.553]
+dub_characters=["He-Man"]

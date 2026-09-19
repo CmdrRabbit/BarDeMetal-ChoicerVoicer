@@ -1,0 +1,6 @@
+[data]
+
+caption="“He bakes cookies like nobody can.”"
+image="203_Omeletteman2.jpg"
+dub_timestamps=[12.030]
+dub_characters=["Omeletteman2"]

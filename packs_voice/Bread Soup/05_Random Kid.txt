@@ -1,0 +1,6 @@
+[data]
+
+caption="“Bread? That's what's in the soup?”"
+image="05_Random Kid.png"
+dub_timestamps=[36.395]
+dub_characters=["Random Kid"]

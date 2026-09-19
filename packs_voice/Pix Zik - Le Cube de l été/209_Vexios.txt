@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Euuuuum... bah vas y, commence à chanter ça va le faire venir !”"
+image="209_Vexios.png"
+dub_timestamps=[49.840]
+dub_characters=["Vexios"]

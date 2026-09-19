@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Arrête de finir mes- *coupé par Vexios*”"
+image="19_Guzz.png"
+dub_timestamps=[112.260]
+dub_characters=["Guzz"]

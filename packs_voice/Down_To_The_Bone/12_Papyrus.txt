@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “We are monsters, the awfullest kind!”"
+image="12_Papyrus.png"
+dub_timestamps=[54.579]
+dub_characters=["Papyrus"]

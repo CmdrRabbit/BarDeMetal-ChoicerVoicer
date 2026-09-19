@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker laughing] “*chuckling*”"
+image="201_Joker laughing.png"
+dub_timestamps=[6.393]
+dub_characters=["Joker laughing"]

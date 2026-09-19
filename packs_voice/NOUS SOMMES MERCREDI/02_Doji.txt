@@ -1,0 +1,6 @@
+[data]
+
+caption="[Doji] “Nous sommes Mercredi. ça tombe bien, c'est le jour oû on sort les poubelles !”"
+image="02_Doji.png"
+dub_timestamps=[7.928]
+dub_characters=["Doji"]

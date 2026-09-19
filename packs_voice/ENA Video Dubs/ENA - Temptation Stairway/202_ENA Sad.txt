@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Sad] “I keep heawing voices inside my head... they teww me to eat my veggies...”"
+image="202_ENA Sad.png"
+dub_timestamps=[30.159]
+dub_characters=["ENA Sad"]

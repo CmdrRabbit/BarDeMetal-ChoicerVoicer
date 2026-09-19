@@ -1,0 +1,6 @@
+[data]
+
+caption="Le Mongolien"
+image="002_Cortex.jpg"
+dub_timestamps=[4.649]
+dub_characters=["Cortex"]

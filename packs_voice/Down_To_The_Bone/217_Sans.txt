@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Your consequences aren't easy to swallow.”"
+image="217_Sans.png"
+dub_timestamps=[83.627]
+dub_characters=["Sans"]

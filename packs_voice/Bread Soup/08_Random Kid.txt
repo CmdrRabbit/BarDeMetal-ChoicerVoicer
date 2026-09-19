@@ -1,0 +1,6 @@
+[data]
+
+caption="“Just get some rest. I'll go by something a bit more nutritious.”"
+image="08_Random Kid.png"
+dub_timestamps=[80.035]
+dub_characters=["Random Kid"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Sad] “YOU’RE ALL LIVING A LIE!!!”"
+image="208_ENA Sad.png"
+dub_timestamps=[625.351]
+dub_characters=["ENA Sad"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “-so hard, man.”"
+image="01_Ac7ionman.png"
+dub_timestamps=[0.000]
+dub_characters=["Ac7ionman"]

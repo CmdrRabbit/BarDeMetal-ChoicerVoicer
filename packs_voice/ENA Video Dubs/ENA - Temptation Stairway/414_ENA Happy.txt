@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “It looks like I'm the best and you're the worst! …wonder who got the chest hair... Where are we, anyways?”"
+image="414_ENA Happy.png"
+dub_timestamps=[931.551]
+dub_characters=["ENA Happy"]

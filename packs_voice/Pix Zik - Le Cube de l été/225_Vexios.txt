@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “mais... mais c'est complètement naze !”"
+image="225_Vexios.png"
+dub_timestamps=[152.072]
+dub_characters=["Vexios"]

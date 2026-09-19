@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brody Foxx] “Get it? Cuz she thought it was a concert”"
+image="04_Brody Foxx.png"
+dub_timestamps=[10.698]
+dub_characters=["Brody Foxx"]

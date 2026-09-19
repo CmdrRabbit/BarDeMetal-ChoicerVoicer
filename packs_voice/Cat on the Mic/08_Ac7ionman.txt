@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “KEVIN, SHUT THE FUCK UP MOTHERFUCKER!”"
+image="08_Ac7ionman.png"
+dub_timestamps=[16.575]
+dub_characters=["Ac7ionman"]

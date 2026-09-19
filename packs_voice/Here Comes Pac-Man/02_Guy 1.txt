@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guy 1] “Nope, can't help you man.”"
+image="02_Guy 1.png"
+dub_timestamps=[16.209]
+dub_characters=["Guy 1"]

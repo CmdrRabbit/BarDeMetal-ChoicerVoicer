@@ -1,0 +1,6 @@
+[data]
+
+caption="[Bird Lady] “Just keep it insiide~”"
+image="402_Bird Lady.png"
+dub_timestamps=[104.786]
+dub_characters=["Bird Lady"]

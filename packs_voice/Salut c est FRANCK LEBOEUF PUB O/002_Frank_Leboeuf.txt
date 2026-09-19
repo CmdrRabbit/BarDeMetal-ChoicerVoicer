@@ -1,0 +1,6 @@
+[data]
+
+caption="Vous voulez savoir combien vaut votre voiture ?"
+image="002_Frank_Leboeuf.jpg"
+dub_timestamps=[1.084]
+dub_characters=["Frank Leboeuf"]

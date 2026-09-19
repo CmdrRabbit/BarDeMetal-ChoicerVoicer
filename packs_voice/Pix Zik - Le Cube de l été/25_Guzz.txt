@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Faut le faire revenir. Aller, que tout le monde danse !”"
+image="25_Guzz.png"
+dub_timestamps=[141.355]
+dub_characters=["Guzz"]

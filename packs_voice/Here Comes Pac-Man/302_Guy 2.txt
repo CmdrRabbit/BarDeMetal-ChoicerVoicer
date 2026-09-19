@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guy 2] “No, Pacman! Drugs are bad!”"
+image="302_Guy 2.png"
+dub_timestamps=[13.809]
+dub_characters=["Guy 2"]

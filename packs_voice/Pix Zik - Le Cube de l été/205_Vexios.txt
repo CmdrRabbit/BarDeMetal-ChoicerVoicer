@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Eh attend moi !”"
+image="205_Vexios.png"
+dub_timestamps=[24.449]
+dub_characters=["Vexios"]

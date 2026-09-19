@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You know I've got a knack, for the trombone!”"
+image="250_Sans.png"
+dub_timestamps=[244.156]
+dub_characters=["Sans"]

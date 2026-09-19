@@ -1,0 +1,6 @@
+[data]
+
+caption="[Pacman] “PUSSIEEES!”"
+image="203_Pacman.png"
+dub_timestamps=[18.059]
+dub_characters=["Pacman"]

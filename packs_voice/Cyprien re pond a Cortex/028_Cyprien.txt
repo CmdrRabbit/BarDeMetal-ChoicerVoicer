@@ -1,0 +1,6 @@
+[data]
+
+caption="T'écris pas une ligne sans faire une faute"
+image="028_Cyprien.jpg"
+dub_timestamps=[58.842]
+dub_characters=["Cyprien"]

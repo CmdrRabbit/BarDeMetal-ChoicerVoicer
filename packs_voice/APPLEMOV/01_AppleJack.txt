@@ -1,0 +1,6 @@
+[data]
+
+caption="[AppleJack] “Boy, let me tell ya. I sure do love apples”"
+image="01_AppleJack.png"
+dub_timestamps=[1.581]
+dub_characters=["AppleJack"]

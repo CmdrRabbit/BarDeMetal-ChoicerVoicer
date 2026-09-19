@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “It's just a simple prank!”"
+image="06_Joker.png"
+dub_timestamps=[37.127]
+dub_characters=["Joker"]

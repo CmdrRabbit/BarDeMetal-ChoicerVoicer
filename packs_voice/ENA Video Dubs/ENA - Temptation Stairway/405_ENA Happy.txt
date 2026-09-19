@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Turrón, turrón!”"
+image="405_ENA Happy.png"
+dub_timestamps=[234.159]
+dub_characters=["ENA Happy"]

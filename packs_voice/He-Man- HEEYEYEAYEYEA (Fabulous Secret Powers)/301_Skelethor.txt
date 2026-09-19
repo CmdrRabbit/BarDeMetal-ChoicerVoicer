@@ -1,0 +1,6 @@
+[data]
+
+caption="[Skelethor] “AND, HE PRAYS”"
+image="301_Skelethor.png"
+dub_timestamps=[71.119]
+dub_characters=["Skelethor"]

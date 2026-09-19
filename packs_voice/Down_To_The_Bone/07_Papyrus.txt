@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “We don't see humans often.”"
+image="07_Papyrus.png"
+dub_timestamps=[30.939]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You'll lose your mind when you wander for hours.”"
+image="235_Sans.png"
+dub_timestamps=[165.084]
+dub_characters=["Sans"]

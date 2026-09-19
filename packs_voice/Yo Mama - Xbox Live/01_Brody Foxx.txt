@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brody Foxx] “Yo mama so stupid”"
+image="01_Brody Foxx.png"
+dub_timestamps=[0.139]
+dub_characters=["Brody Foxx"]

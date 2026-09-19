@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Sad] “(*ENA Noises*)”"
+image="206_ENA Sad.png"
+dub_timestamps=[99.800]
+dub_characters=["ENA Sad"]

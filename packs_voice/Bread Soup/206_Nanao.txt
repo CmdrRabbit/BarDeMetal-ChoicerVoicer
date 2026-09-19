@@ -1,0 +1,6 @@
+[data]
+
+caption="“It's a proper meal. It's called bread and water soup.”"
+image="206_Nanao.png"
+dub_timestamps=[46.088]
+dub_characters=["Nanao"]

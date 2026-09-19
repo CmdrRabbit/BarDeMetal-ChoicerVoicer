@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “Need a commission?”"
+image="302_Artist.png"
+dub_timestamps=[18.339]
+dub_characters=["Artist"]

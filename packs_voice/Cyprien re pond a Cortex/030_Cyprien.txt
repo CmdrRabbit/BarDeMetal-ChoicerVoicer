@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu veux absolument me rencontrer"
+image="030_Cyprien.jpg"
+dub_timestamps=[62.451]
+dub_characters=["Cyprien"]

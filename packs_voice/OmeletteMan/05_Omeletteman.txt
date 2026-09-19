@@ -1,0 +1,6 @@
+[data]
+
+caption="“I have a cookie, I bake last night.”"
+image="05_Omeletteman.jpg"
+dub_timestamps=[15.060]
+dub_characters=["Omeletteman"]

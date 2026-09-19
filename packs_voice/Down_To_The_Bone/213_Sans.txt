@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Because we monsters have our own divisions!”"
+image="213_Sans.png"
+dub_timestamps=[64.546]
+dub_characters=["Sans"]

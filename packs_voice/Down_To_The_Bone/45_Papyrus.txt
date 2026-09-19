@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Don't mess around with monsters!”"
+image="45_Papyrus.png"
+dub_timestamps=[227.635]
+dub_characters=["Papyrus"]

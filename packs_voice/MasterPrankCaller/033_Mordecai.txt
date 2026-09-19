@@ -1,0 +1,6 @@
+[data]
+
+caption="Pfft, whatever Stan-mana-stan-man. ha ha ha eh he… he"
+image="033_Mordecai.jpg"
+dub_timestamps=[93.700]
+dub_characters=["Mordecai"]

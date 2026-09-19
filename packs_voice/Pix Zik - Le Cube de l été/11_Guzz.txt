@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “L'autre jour, j'me balade sur la plage et il fait beau, il fait chaud, des cubes à perte de vue”"
+image="11_Guzz.png"
+dub_timestamps=[53.905]
+dub_characters=["Guzz"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="bref"
+image="040_Cyprien.jpg"
+dub_timestamps=[88.072]
+dub_characters=["Cyprien"]

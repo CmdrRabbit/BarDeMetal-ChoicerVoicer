@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “One day we'll make our way back to the surface!”"
+image="17_Papyrus.png"
+dub_timestamps=[73.909]
+dub_characters=["Papyrus"]

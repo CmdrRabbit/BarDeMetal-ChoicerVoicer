@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu m'as donné rendez-vous sur les champs élysées"
+image="031_Cyprien.jpg"
+dub_timestamps=[64.886]
+dub_characters=["Cyprien"]

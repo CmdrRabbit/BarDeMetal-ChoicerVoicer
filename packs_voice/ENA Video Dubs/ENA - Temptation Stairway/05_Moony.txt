@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “Yeah. But, it's a proper punishment.”"
+image="05_Moony.png"
+dub_timestamps=[51.636]
+dub_characters=["Moony"]

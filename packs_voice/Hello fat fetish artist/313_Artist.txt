@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “[I actually can't make it out] RIGHT WHERE YOU STAND!!”"
+image="313_Artist.png"
+dub_timestamps=[71.062]
+dub_characters=["Artist"]

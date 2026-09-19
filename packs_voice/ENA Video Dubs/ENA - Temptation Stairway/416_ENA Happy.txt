@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Can I ask for one more?”"
+image="416_ENA Happy.png"
+dub_timestamps=[958.608]
+dub_characters=["ENA Happy"]

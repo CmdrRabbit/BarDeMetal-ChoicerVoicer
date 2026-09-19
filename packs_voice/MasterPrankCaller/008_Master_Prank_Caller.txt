@@ -1,0 +1,6 @@
+[data]
+
+caption="Yeah, and hot wings. Get here quick okay, your mom is like totally starving."
+image="008_Master_Prank_Caller.jpg"
+dub_timestamps=[21.300]
+dub_characters=["Master Prank Caller"]

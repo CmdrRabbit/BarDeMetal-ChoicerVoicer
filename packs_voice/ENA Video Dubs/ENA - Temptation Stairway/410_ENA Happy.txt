@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “I have a bet to win.”"
+image="410_ENA Happy.png"
+dub_timestamps=[378.049]
+dub_characters=["ENA Happy"]

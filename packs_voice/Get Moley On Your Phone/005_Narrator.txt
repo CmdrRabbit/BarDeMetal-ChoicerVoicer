@@ -1,0 +1,6 @@
+[data]
+
+caption="MUAHAHAHAHAHAHAHAHAHAHAHAHA"
+image="005_Narrator.jpg"
+dub_timestamps=[17.327]
+dub_characters=["Narrator"]

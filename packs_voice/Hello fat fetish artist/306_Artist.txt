@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “YOU LISTEN HERE, MAN!”"
+image="306_Artist.png"
+dub_timestamps=[33.426]
+dub_characters=["Artist"]

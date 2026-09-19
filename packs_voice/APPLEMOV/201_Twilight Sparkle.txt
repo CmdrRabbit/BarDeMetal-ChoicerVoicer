@@ -1,0 +1,6 @@
+[data]
+
+caption="[Twilight Sparkle] “AppleJack, What are you doing? You can't eat all those fucking apples.”"
+image="201_Twilight Sparkle.png"
+dub_timestamps=[4.522]
+dub_characters=["Twilight Sparkle"]

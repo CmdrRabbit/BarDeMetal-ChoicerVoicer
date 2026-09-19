@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Excuse my brother, he's a bit eccentric!”"
+image="209_Sans.png"
+dub_timestamps=[44.889]
+dub_characters=["Sans"]

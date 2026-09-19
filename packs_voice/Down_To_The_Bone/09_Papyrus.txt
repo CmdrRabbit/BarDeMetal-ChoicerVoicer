@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Can it Sans! No time for banter!”"
+image="09_Papyrus.png"
+dub_timestamps=[42.529]
+dub_characters=["Papyrus"]

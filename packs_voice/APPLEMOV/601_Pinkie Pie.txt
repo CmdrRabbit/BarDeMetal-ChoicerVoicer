@@ -1,0 +1,6 @@
+[data]
+
+caption="[Pinkie Pie] “Damn AppleJack! You eat all those apples, you're gonna get a wicked bad tummy ache!”"
+image="601_Pinkie Pie.png"
+dub_timestamps=[47.406]
+dub_characters=["Pinkie Pie"]

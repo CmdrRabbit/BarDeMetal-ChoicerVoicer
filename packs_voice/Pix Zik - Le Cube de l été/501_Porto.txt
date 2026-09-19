@@ -1,0 +1,6 @@
+[data]
+
+caption="[Porto] “Aaah non ! Là tu vas te faire foutre Vexios”"
+image="501_Porto.png"
+dub_timestamps=[232.754]
+dub_characters=["Porto"]

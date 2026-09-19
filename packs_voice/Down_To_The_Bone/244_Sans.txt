@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You're all alone!”"
+image="244_Sans.png"
+dub_timestamps=[215.542]
+dub_characters=["Sans"]

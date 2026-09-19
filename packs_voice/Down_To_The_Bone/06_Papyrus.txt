@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “If you wanna look around!”"
+image="06_Papyrus.png"
+dub_timestamps=[26.000]
+dub_characters=["Papyrus"]

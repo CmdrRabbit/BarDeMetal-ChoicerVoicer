@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ulysses] “PUNISHMENT IS IMMINENT!”"
+image="604_Ulysses.png"
+dub_timestamps=[413.392]
+dub_characters=["Ulysses"]

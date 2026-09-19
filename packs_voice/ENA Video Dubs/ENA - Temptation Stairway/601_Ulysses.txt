@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ulysses] “The celebration is o-o-over, but it seems your g-g-gready soul brought you here, b-b-brought you here, brought you here. You are bearing w-w-witness to the incredulous residence of Our Great Runas, Great Runas, R-Runas, Runas, Runas. Unfortunate for you, the d-d-d-divine door is fully closed now, n-n-now.”"
+image="601_Ulysses.png"
+dub_timestamps=[337.943]
+dub_characters=["Ulysses"]

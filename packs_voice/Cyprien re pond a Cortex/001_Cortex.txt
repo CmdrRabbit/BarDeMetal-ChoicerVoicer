@@ -1,0 +1,6 @@
+[data]
+
+caption="Je vois pas pourquoi il y aurait eu un clash sur norman et il y aurais pas un clash sur cyprien"
+image="001_Cortex.jpg"
+dub_timestamps=[0.207]
+dub_characters=["Cortex"]

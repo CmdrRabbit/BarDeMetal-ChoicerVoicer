@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “A little peculiar (-iar, - iar, -iar)”"
+image="05_He-Man.png"
+dub_timestamps=[12.486]
+dub_characters=["He-Man"]

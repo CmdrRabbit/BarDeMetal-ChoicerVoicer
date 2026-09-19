@@ -1,0 +1,6 @@
+[data]
+
+caption="“And I flavor it with salt :3. I'll treat you sometime.”"
+image="207_Nanao.png"
+dub_timestamps=[55.763]
+dub_characters=["Nanao"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “NO WAY, The Great Runas is here! The bet's on, now let's get'em!”"
+image="07_Moony.png"
+dub_timestamps=[70.294]
+dub_characters=["Moony"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “NoOoOoOoOo! Must I assume there's no escape from these lands until that door opens? Well, how much longer until the next celebration?”"
+image="408_ENA Happy.png"
+dub_timestamps=[360.430]
+dub_characters=["ENA Happy"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Hello, master prank caller? This -"
+image="024_Mordecai.jpg"
+dub_timestamps=[68.500]
+dub_characters=["Mordecai"]

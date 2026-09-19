@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Nice weather! What conspiracies are we cooking on the menu today?”"
+image="401_ENA Happy.png"
+dub_timestamps=[150.526]
+dub_characters=["ENA Happy"]

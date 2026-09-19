@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “THE WRIST GAAAAAAAAAAAAME.”"
+image="14_The Nerd.png"
+dub_timestamps=[34.185]
+dub_characters=["The Nerd"]

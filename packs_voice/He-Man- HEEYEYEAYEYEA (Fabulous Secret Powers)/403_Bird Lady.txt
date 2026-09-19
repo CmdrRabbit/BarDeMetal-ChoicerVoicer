@@ -1,0 +1,6 @@
+[data]
+
+caption="[Bird Lady] “learn how to hide”"
+image="403_Bird Lady.png"
+dub_timestamps=[108.569]
+dub_characters=["Bird Lady"]

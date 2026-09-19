@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “I'm horrendously sorry,”"
+image="403_ENA Happy.png"
+dub_timestamps=[225.955]
+dub_characters=["ENA Happy"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “Half bit. Quarter bit.”"
+image="13_The Nerd.png"
+dub_timestamps=[31.716]
+dub_characters=["The Nerd"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “*finis la phrase de Guzz* -mec super cool !”"
+image="218_Vexios.png"
+dub_timestamps=[111.150]
+dub_characters=["Vexios"]

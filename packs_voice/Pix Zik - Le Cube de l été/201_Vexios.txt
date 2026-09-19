@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “C'est le signal !”"
+image="201_Vexios.png"
+dub_timestamps=[9.390]
+dub_characters=["Vexios"]

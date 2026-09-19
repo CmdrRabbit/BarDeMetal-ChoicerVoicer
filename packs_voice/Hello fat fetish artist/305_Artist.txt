@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “DON'T YOU TALK ABOUT THAT!! I'LL KILL YOU! I'LL KILL YOU WHERE YOU STAND, YOU SON OF A BITCH!!!”"
+image="305_Artist.png"
+dub_timestamps=[28.613]
+dub_characters=["Artist"]

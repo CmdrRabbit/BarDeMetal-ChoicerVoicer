@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Who's the real monster? Now you should know!”"
+image="218_Sans.png"
+dub_timestamps=[88.367]
+dub_characters=["Sans"]

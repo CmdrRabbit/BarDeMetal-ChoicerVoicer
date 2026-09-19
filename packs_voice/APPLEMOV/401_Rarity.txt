@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rarity] “Woah! Hey guys! Check it out! AppleJack's eatin' a shitload of apples!”"
+image="401_Rarity.png"
+dub_timestamps=[31.705]
+dub_characters=["Rarity"]

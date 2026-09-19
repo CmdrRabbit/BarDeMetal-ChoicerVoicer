@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Smells like The Creepypasta's ready!”"
+image="228_Sans.png"
+dub_timestamps=[138.517]
+dub_characters=["Sans"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “HEY! YOU LISTEN HERE!! YOU SON OF A BITCH!!!”"
+image="304_Artist.png"
+dub_timestamps=[25.959]
+dub_characters=["Artist"]

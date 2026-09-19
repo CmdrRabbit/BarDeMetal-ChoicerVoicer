@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “One day we'll make our way back to the surface!”"
+image="215_Sans.png"
+dub_timestamps=[73.895]
+dub_characters=["Sans"]

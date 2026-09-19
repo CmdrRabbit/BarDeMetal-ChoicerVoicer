@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Or full of love?”"
+image="226_Sans.png"
+dub_timestamps=[124.505]
+dub_characters=["Sans"]

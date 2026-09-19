@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “FUCK YOU, FUCK YOU, FUCK-”"
+image="316_Artist.png"
+dub_timestamps=[77.485]
+dub_characters=["Artist"]

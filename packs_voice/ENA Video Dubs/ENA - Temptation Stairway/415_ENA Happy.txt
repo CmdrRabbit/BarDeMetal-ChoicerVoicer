@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Dearest chum, could I inquire how your physical form was able to reach this place in such a short duration of time?”"
+image="415_ENA Happy.png"
+dub_timestamps=[948.563]
+dub_characters=["ENA Happy"]

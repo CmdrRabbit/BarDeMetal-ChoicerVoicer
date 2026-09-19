@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Come on that was a real... Rib-Tickler, aye! *Laugh*”"
+image="203_Sans.png"
+dub_timestamps=[13.075]
+dub_characters=["Sans"]

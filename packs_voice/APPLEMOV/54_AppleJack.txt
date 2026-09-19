@@ -1,0 +1,6 @@
+[data]
+
+caption="[AppleJack] “*Minecraft Drowned Noises*”"
+image="54_AppleJack.png"
+dub_timestamps=[138.576]
+dub_characters=["AppleJack"]

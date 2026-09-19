@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Because we monsters have our own divisions!”"
+image="15_Papyrus.png"
+dub_timestamps=[64.567]
+dub_characters=["Papyrus"]

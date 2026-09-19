@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You're only still alive because I made a promise.”"
+image="234_Sans.png"
+dub_timestamps=[160.358]
+dub_characters=["Sans"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Test the human with one of your puzzles?”"
+image="227_Sans.png"
+dub_timestamps=[131.372]
+dub_characters=["Sans"]

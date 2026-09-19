@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “*scoff* Nintendo 64. The Bit Wars. Huh.”"
+image="06_The Nerd.png"
+dub_timestamps=[17.502]
+dub_characters=["The Nerd"]

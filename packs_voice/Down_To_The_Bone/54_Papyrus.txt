@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You know your story's already been told!”"
+image="54_Papyrus.png"
+dub_timestamps=[261.119]
+dub_characters=["Papyrus"]

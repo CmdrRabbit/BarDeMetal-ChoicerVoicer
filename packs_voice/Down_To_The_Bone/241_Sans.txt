@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “The deeper you go, the messier it gets. If I had it my way, you'd already be dead. (Dead, Dead, Dead, Dead, Dead)”"
+image="241_Sans.png"
+dub_timestamps=[203.270]
+dub_characters=["Sans"]

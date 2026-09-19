@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Shepherd] “Ukhodi, Nash Velikiy Runas uzhe ne dayot goroskopy.”"
+image="702_The Shepherd.png"
+dub_timestamps=[477.292]
+dub_characters=["The Shepherd"]

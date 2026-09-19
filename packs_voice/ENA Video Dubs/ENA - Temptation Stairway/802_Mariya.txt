@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mariya] “Mazu anta darena no? ! Kono jibun daisuki kimootabanana shinja ga!”"
+image="802_Mariya.png"
+dub_timestamps=[613.004]
+dub_characters=["Mariya"]

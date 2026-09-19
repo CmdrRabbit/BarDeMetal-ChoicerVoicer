@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “Oooh, this is going to be SO good...”"
+image="01_Joker.png"
+dub_timestamps=[3.765]
+dub_characters=["Joker"]

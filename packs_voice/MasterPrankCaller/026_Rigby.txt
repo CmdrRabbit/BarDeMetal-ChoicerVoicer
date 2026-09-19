@@ -1,0 +1,6 @@
+[data]
+
+caption="Hmpf… Yeah buddy, it’s JO MAM-"
+image="026_Rigby.jpg"
+dub_timestamps=[72.100]
+dub_characters=["Rigby"]

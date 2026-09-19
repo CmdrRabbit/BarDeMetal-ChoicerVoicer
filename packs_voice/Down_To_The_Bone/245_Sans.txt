@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You're kinda boned!”"
+image="245_Sans.png"
+dub_timestamps=[220.581]
+dub_characters=["Sans"]

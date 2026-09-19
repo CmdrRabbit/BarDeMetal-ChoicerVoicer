@@ -1,0 +1,6 @@
+[data]
+
+caption="[Fille 1] “Eh ! Fils de cube ! Danser, c'est carrément pas swag !”"
+image="301_Fille 1.png"
+dub_timestamps=[64.600]
+dub_characters=["Fille 1"]

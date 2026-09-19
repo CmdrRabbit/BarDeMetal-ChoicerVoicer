@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You're stuck in The Underground!”"
+image="25_Papyrus.png"
+dub_timestamps=[107.523]
+dub_characters=["Papyrus"]

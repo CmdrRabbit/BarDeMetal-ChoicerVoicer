@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Because we monsters have our motivations!”"
+image="53_Papyrus.png"
+dub_timestamps=[256.339]
+dub_characters=["Papyrus"]

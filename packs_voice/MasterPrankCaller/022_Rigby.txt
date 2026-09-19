@@ -1,0 +1,6 @@
+[data]
+
+caption="Do you wanna be this guys son, or do you wanna be number one?"
+image="022_Rigby.jpg"
+dub_timestamps=[61.000]
+dub_characters=["Rigby"]

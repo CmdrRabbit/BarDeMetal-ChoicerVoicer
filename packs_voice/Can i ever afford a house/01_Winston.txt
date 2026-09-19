@@ -1,0 +1,6 @@
+[data]
+
+caption="[Winston] “Can i ever afford a house?”"
+image="01_Winston.png"
+dub_timestamps=[0.088]
+dub_characters=["Winston"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Moi je traine au champs élysées je sui VIP (tuff)"
+image="003_Cortex.jpg"
+dub_timestamps=[6.074]
+dub_characters=["Cortex"]

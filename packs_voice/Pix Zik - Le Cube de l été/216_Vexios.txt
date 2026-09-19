@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “*finis la phrase de Guzz* -se barrer !”"
+image="216_Vexios.png"
+dub_timestamps=[100.940]
+dub_characters=["Vexios"]

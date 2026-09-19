@@ -1,0 +1,7 @@
+[data]
+
+caption="[Phindoll] “The name's Phindoll, don't wear it out! DO YOU KNOW WHY CAMELS DON'T DO PROFESSIONAL WRESTLING? BECAUSE THEY—
+”"
+image="1003_Phindoll.png"
+dub_timestamps=[715.996]
+dub_characters=["Phindoll"]

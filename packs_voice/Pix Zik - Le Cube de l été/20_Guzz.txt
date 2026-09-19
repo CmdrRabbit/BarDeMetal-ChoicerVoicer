@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Si seulement j'pouvais te- *coupé par Vexios*”"
+image="20_Guzz.png"
+dub_timestamps=[115.723]
+dub_characters=["Guzz"]

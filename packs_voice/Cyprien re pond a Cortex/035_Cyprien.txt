@@ -1,0 +1,6 @@
+[data]
+
+caption="Retourne regarder des dessins animé Cortex t'es qu'un minus"
+image="035_Cyprien.jpg"
+dub_timestamps=[73.564]
+dub_characters=["Cyprien"]

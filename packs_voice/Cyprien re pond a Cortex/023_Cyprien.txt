@@ -1,0 +1,6 @@
+[data]
+
+caption="Première page"
+image="023_Cyprien.jpg"
+dub_timestamps=[48.890]
+dub_characters=["Cyprien"]

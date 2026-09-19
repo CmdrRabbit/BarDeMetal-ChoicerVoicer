@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Ah il faut que retrouve Vexios... Bon bah ça y est, je me suis trouvé !”"
+image="202_Vexios.png"
+dub_timestamps=[11.922]
+dub_characters=["Vexios"]

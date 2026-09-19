@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Ouais, mais je sais pas comment on pourrais faire”"
+image="09_Guzz.png"
+dub_timestamps=[47.480]
+dub_characters=["Guzz"]

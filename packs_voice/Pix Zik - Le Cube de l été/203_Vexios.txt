@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Oooh Guzz comment ça va ? Bah tiens met toi à l'aise hein, tu prendrais bien un thé ?”"
+image="203_Vexios.png"
+dub_timestamps=[15.610]
+dub_characters=["Vexios"]

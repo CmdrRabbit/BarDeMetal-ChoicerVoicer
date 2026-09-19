@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hey it's me, It's Omeletteman!”"
+image="03_Omeletteman.jpg"
+dub_timestamps=[09.140]
+dub_characters=["Omeletteman"]

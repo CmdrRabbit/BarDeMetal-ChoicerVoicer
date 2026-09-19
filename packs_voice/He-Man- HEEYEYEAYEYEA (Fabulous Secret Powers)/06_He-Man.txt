@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “And so I wake every morning and I step outside”"
+image="06_He-Man.png"
+dub_timestamps=[16.369]
+dub_characters=["He-Man"]

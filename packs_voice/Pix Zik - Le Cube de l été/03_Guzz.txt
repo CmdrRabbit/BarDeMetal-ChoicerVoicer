@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Faut que je retrouve Vexios”"
+image="03_Guzz.png"
+dub_timestamps=[10.647]
+dub_characters=["Guzz"]

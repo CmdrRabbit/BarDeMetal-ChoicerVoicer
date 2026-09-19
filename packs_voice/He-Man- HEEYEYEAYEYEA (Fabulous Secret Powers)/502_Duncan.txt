@@ -1,0 +1,6 @@
+[data]
+
+caption="[Duncan] “learn how to hide”"
+image="502_Duncan.png"
+dub_timestamps=[108.619]
+dub_characters=["Duncan"]

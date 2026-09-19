@@ -1,0 +1,6 @@
+[data]
+
+caption="Or visit jamster.com to get up to 20 products and subscribe for only 9.99 a month"
+image="012_Narrator.jpg"
+dub_timestamps=[24.578]
+dub_characters=["Narrator"]

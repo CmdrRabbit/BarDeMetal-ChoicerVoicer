@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu sais que tu es officiellement le magloire du rap français"
+image="041_Cyprien.jpg"
+dub_timestamps=[88.486]
+dub_characters=["Cyprien"]

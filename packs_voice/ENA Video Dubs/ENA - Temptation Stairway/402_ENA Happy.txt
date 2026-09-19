@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Verily! You preach true, honest words!”"
+image="402_ENA Happy.png"
+dub_timestamps=[173.101]
+dub_characters=["ENA Happy"]

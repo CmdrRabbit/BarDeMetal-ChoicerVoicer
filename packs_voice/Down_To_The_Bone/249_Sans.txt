@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “((Audio got cut)) Wmp-wmp-wommmmm”"
+image="249_Sans.png"
+dub_timestamps=[241.809]
+dub_characters=["Sans"]

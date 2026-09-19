@@ -1,0 +1,6 @@
+[data]
+
+caption="[Totally real cat] “*cutely meows :3*”"
+image="301_Totally real cat.png"
+dub_timestamps=[6.482]
+dub_characters=["Totally real cat"]

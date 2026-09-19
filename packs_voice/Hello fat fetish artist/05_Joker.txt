@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “Oh, calm down, there, calm down!”"
+image="05_Joker.png"
+dub_timestamps=[33.702]
+dub_characters=["Joker"]

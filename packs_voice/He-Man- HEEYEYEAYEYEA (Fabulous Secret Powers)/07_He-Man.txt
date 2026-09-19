@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “And I take a deep breath, and get real high!”"
+image="07_He-Man.png"
+dub_timestamps=[19.903]
+dub_characters=["He-Man"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Ca y est ça me revient ta tête d'obése moqueur"
+image="018_Cyprien.jpg"
+dub_timestamps=[38.510]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="Toi tu te fais recaler, hein cyprien"
+image="005_Cortex.jpg"
+dub_timestamps=[8.471]
+dub_characters=["Cortex"]

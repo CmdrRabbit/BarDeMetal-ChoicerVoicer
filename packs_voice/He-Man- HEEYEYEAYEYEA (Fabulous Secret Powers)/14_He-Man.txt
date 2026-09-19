@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “What's Goin' on?”"
+image="14_He-Man.png"
+dub_timestamps=[39.736]
+dub_characters=["He-Man"]

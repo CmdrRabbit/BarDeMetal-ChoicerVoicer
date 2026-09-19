@@ -1,0 +1,6 @@
+[data]
+
+caption="[Rainbow Dash] “Ahhh, No Way! I just said the same the you crazy cunt! *laughs*”"
+image="302_Rainbow Dash.png"
+dub_timestamps=[51.210]
+dub_characters=["Rainbow Dash"]

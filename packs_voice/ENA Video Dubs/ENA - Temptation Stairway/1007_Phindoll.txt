@@ -1,0 +1,6 @@
+[data]
+
+caption="[Phindoll] “Well, it's a fistfight, so prepare to scrap! Kerrr-POW!”"
+image="1007_Phindoll.png"
+dub_timestamps=[742.490]
+dub_characters=["Phindoll"]

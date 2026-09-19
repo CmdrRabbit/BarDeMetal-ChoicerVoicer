@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brody Foxx] “She bought tickets...”"
+image="02_Brody Foxx.png"
+dub_timestamps=[3.858]
+dub_characters=["Brody Foxx"]

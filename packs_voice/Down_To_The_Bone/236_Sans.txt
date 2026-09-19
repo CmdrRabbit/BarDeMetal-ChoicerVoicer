@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You might even decide to start talking to flowers!”"
+image="236_Sans.png"
+dub_timestamps=[170.048]
+dub_characters=["Sans"]

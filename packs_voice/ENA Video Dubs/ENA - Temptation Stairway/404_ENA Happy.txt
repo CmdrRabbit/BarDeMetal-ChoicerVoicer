@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “but I've been assigned to a sacred mission and I ought to make haste.”"
+image="404_ENA Happy.png"
+dub_timestamps=[228.139]
+dub_characters=["ENA Happy"]

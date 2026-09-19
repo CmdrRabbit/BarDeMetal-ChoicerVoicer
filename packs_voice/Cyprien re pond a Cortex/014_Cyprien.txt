@@ -1,0 +1,6 @@
+[data]
+
+caption="N'est pas suffisant"
+image="014_Cyprien.jpg"
+dub_timestamps=[31.232]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“What kind of soup? What's in it?”"
+image="04_Random Kid.png"
+dub_timestamps=[27.519]
+dub_characters=["Random Kid"]

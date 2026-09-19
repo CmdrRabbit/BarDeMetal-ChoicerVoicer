@@ -1,0 +1,6 @@
+[data]
+
+caption="Uhhhh, Stan…Stanmanson?"
+image="014_Rigby.jpg"
+dub_timestamps=[35.000]
+dub_characters=["Rigby"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Lord Verity] “your LAST!”"
+image="203_Lord Verity.png"
+dub_timestamps=[5.934]
+dub_characters=["Lord Verity"]

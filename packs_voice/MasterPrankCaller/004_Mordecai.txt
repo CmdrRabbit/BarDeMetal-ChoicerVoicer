@@ -1,0 +1,6 @@
+[data]
+
+caption="Yeah this is uhh pizza delivery guy. I have 50 pizzas here that you ordered. *quiet chuckles*"
+image="004_Mordecai.jpg"
+dub_timestamps=[10.100]
+dub_characters=["Mordecai"]

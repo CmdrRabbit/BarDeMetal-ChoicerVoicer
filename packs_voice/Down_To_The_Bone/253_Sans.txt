@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Because we monsters have our motivations!”"
+image="253_Sans.png"
+dub_timestamps=[256.339]
+dub_characters=["Sans"]

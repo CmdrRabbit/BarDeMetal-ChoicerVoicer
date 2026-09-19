@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “Yeah! You'd be walking around school and you got this on and everybody else is talking about what the new hot game system is gonna be.”"
+image="05_The Nerd.png"
+dub_timestamps=[10.391]
+dub_characters=["The Nerd"]

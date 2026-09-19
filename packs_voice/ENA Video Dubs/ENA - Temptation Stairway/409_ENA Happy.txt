@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “That's a lot! Nevertheless, I will find a way to reach The Great Runas and make my wish.”"
+image="409_ENA Happy.png"
+dub_timestamps=[371.926]
+dub_characters=["ENA Happy"]

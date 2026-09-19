@@ -1,0 +1,6 @@
+[data]
+
+caption="[Bird Lady] “Don't cry out loud ”"
+image="401_Bird Lady.png"
+dub_timestamps=[99.253]
+dub_characters=["Bird Lady"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Kidding! If you couldn't tell, I get so bored I amuse myself!”"
+image="242_Sans.png"
+dub_timestamps=[208.861]
+dub_characters=["Sans"]

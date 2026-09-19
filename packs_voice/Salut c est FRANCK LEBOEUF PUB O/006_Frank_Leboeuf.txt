@@ -1,0 +1,6 @@
+[data]
+
+caption="Et vendez ensuite votre voiture dans une de nos agences"
+image="006_Frank_Leboeuf.jpg"
+dub_timestamps=[10.212]
+dub_characters=["Frank Leboeuf"]

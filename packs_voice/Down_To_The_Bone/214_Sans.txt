@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Humans betrayed us and left us burnin'”"
+image="214_Sans.png"
+dub_timestamps=[69.209]
+dub_characters=["Sans"]

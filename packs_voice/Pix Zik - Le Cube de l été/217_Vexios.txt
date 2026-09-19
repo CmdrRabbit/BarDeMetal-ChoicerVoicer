@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “*finis la phrase de Guzz* -briser la nuque !”"
+image="217_Vexios.png"
+dub_timestamps=[104.216]
+dub_characters=["Vexios"]

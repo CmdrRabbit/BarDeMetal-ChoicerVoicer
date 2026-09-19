@@ -1,0 +1,6 @@
+[data]
+
+caption="[Artist] “I thought you were one of those quacks that don't take my art seriously!”"
+image="308_Artist.png"
+dub_timestamps=[47.002]
+dub_characters=["Artist"]

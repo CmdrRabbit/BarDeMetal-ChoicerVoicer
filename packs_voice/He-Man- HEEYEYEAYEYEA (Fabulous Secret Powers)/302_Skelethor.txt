@@ -1,0 +1,6 @@
+[data]
+
+caption="[Skelethor] “NYEAHHH”"
+image="302_Skelethor.png"
+dub_timestamps=[79.553]
+dub_characters=["Skelethor"]

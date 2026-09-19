@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Through all your travels, your sins will follow.”"
+image="18_Papyrus.png"
+dub_timestamps=[78.695]
+dub_characters=["Papyrus"]

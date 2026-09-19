@@ -1,0 +1,6 @@
+[data]
+
+caption="Yeah right, like your 50 pizza’s thing was way better"
+image="032_Rigby.jpg"
+dub_timestamps=[90.800]
+dub_characters=["Rigby"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “A little silly gag of mine!”"
+image="07_Joker.png"
+dub_timestamps=[39.233]
+dub_characters=["Joker"]

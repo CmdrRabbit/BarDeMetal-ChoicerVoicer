@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You've cut this story, down to the bone!”"
+image="21_Papyrus.png"
+dub_timestamps=[93.199]
+dub_characters=["Papyrus"]

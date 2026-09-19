@@ -1,0 +1,6 @@
+[data]
+
+caption="Et recevez rapidement son prix de vente"
+image="005_Frank_Leboeuf.jpg"
+dub_timestamps=[7.524]
+dub_characters=["Frank Leboeuf"]

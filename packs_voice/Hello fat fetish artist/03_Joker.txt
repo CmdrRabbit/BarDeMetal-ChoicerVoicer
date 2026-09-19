@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “Hello, fat fetish artist?”"
+image="03_Joker.png"
+dub_timestamps=[15.541]
+dub_characters=["Joker"]

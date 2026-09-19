@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “What?”"
+image="220_Sans.png"
+dub_timestamps=[99.225]
+dub_characters=["Sans"]

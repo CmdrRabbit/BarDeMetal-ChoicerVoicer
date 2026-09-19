@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Hé mais c'est pas c'que je voulais dire ! T'es qu'un espèce de sale- *coupé par Vexios*”"
+image="18_Guzz.png"
+dub_timestamps=[105.370]
+dub_characters=["Guzz"]

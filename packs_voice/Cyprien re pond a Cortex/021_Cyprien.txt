@@ -1,0 +1,6 @@
+[data]
+
+caption="Quand on recherche ton blaze, sur google image"
+image="021_Cyprien.jpg"
+dub_timestamps=[44.097]
+dub_characters=["Cyprien"]

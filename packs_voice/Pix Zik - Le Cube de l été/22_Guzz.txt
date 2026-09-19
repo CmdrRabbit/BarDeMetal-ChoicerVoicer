@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Euh, qui c'est qui s'est barré ?”"
+image="22_Guzz.png"
+dub_timestamps=[126.120]
+dub_characters=["Guzz"]

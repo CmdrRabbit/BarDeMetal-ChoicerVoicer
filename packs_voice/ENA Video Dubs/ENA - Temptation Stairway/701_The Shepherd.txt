@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Shepherd] “Akh... Yeshcho odin Ena-balamut.”"
+image="701_The Shepherd.png"
+dub_timestamps=[472.126]
+dub_characters=["The Shepherd"]

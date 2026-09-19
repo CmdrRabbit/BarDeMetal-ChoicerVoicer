@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “I don't know, seem like the bedroom of The Great Runas. It's pretty lame tho. And, by the way, Runas doesn't look all that \"handsome\" in person.”"
+image="11_Moony.png"
+dub_timestamps=[939.167]
+dub_characters=["Moony"]

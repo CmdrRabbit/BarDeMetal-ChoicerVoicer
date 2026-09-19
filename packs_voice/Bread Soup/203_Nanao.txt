@@ -1,0 +1,6 @@
+[data]
+
+caption="“I really am eating. This morning I had some soup!”"
+image="203_Nanao.png"
+dub_timestamps=[20.122]
+dub_characters=["Nanao"]

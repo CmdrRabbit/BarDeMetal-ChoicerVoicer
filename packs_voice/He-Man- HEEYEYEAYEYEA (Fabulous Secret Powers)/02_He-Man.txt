@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “Just to get it all out, what's in ma head, and”"
+image="02_He-Man.png"
+dub_timestamps=[6.136]
+dub_characters=["He-Man"]

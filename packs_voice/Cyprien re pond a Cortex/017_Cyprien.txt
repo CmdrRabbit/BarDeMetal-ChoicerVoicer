@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu viens d'avoir 30 ans"
+image="017_Cyprien.jpg"
+dub_timestamps=[37.062]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “Yes! I'd like to commission...a weight LOSS comic, please!”"
+image="04_Joker.png"
+dub_timestamps=[19.189]
+dub_characters=["Joker"]

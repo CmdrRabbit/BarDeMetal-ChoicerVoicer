@@ -1,0 +1,6 @@
+[data]
+
+caption="[Spike] “You, Alright?”"
+image="703_Spike.png"
+dub_timestamps=[137.104]
+dub_characters=["Spike"]

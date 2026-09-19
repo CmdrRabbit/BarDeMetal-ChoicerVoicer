@@ -1,0 +1,6 @@
+[data]
+
+caption="[Red Goon] “And he tries”"
+image="201_Red Goon.png"
+dub_timestamps=[57.386]
+dub_characters=["Red Goon"]

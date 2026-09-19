@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Vexios ! Il faut qu'on sauve l'été !”"
+image="04_Guzz.png"
+dub_timestamps=[19.090]
+dub_characters=["Guzz"]

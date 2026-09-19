@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “You will know nihilism.”"
+image="246_Sans.png"
+dub_timestamps=[225.186]
+dub_characters=["Sans"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “(Quiet) Ah-Ha ha ha!”"
+image="230_Sans.png"
+dub_timestamps=[144.761]
+dub_characters=["Sans"]

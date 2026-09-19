@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “Learn how to hide”"
+image="35_He-Man.png"
+dub_timestamps=[108.586]
+dub_characters=["He-Man"]

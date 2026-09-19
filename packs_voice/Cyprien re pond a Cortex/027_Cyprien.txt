@@ -1,0 +1,6 @@
+[data]
+
+caption="Retourne à l'école, tes vidéo on s'en tape"
+image="027_Cyprien.jpg"
+dub_timestamps=[56.195]
+dub_characters=["Cyprien"]

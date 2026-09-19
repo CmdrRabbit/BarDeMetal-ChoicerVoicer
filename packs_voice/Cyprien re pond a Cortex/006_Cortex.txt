@@ -1,0 +1,6 @@
+[data]
+
+caption="Avec tes blagues de merde"
+image="006_Cortex.jpg"
+dub_timestamps=[11.027]
+dub_characters=["Cortex"]

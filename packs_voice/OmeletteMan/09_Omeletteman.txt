@@ -1,0 +1,6 @@
+[data]
+
+caption="“Blueberry, Banana, White Chocolate.”"
+image="09_Omeletteman.jpg"
+dub_timestamps=[33.200]
+dub_characters=["Omeletteman"]

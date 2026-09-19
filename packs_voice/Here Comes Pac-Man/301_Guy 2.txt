@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guy 2] “Hey,  Pacman! What's up?”"
+image="301_Guy 2.png"
+dub_timestamps=[6.975]
+dub_characters=["Guy 2"]

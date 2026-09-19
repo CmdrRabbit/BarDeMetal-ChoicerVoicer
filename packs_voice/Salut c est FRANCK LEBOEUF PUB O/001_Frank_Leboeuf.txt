@@ -1,0 +1,6 @@
+[data]
+
+caption="Salut c'est Frank Leboeuf"
+image="001_Frank_Leboeuf.jpg"
+dub_timestamps=[0.000]
+dub_characters=["Frank Leboeuf"]

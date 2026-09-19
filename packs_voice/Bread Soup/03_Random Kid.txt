@@ -1,0 +1,6 @@
+[data]
+
+caption="“Honestly?”"
+image="03_Random Kid.png"
+dub_timestamps=[17.462]
+dub_characters=["Random Kid"]

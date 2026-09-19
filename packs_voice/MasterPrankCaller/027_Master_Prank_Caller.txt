@@ -1,0 +1,6 @@
+[data]
+
+caption="Heard it."
+image="027_Master_Prank_Caller.jpg"
+dub_timestamps=[75.000]
+dub_characters=["Master Prank Caller"]

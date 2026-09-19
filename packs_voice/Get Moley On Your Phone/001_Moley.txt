@@ -1,0 +1,6 @@
+[data]
+
+caption="You're so yummy and so sweet simply alright and proper"
+image="001_Moley.jpg"
+dub_timestamps=[0.000]
+dub_characters=["Moley"]

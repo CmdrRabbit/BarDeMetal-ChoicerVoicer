@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You'll lose your mind when you wander for hours.”"
+image="36_Papyrus.png"
+dub_timestamps=[165.093]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="*Bruit de cortex*"
+image="004_Cortex.jpg"
+dub_timestamps=[8.062]
+dub_characters=["Cortex"]

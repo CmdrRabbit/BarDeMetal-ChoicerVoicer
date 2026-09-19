@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “SHUT YOUR FUCKING MOUTH, MOTHERFUCKER, I CAN'T HEAR MY OWN THOUGHTS, YOU FAT FUCK!”"
+image="11_Ac7ionman.png"
+dub_timestamps=[25.029]
+dub_characters=["Ac7ionman"]

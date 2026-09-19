@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “Stop, stop bro- shut up. Shut th-”"
+image="10_Ac7ionman.png"
+dub_timestamps=[20.729]
+dub_characters=["Ac7ionman"]

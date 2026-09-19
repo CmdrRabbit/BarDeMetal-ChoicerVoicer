@@ -1,0 +1,6 @@
+[data]
+
+caption="Your name is Stan Stanmanson?"
+image="015_Master_Prank_Caller.jpg"
+dub_timestamps=[39.393]
+dub_characters=["Master Prank Caller"]

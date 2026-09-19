@@ -1,0 +1,6 @@
+[data]
+
+caption="T'as aucun talent et tu parle fort, tu veux te faire remarquer"
+image="039_Cyprien.jpg"
+dub_timestamps=[85.467]
+dub_characters=["Cyprien"]

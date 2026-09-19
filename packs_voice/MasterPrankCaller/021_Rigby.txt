@@ -1,0 +1,6 @@
+[data]
+
+caption="What?! You’re giving up? Dude, we can prank this guy!"
+image="021_Rigby.jpg"
+dub_timestamps=[57.600]
+dub_characters=["Rigby"]

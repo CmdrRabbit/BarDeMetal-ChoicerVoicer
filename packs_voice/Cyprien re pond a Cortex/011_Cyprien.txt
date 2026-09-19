@@ -1,0 +1,6 @@
+[data]
+
+caption="SE-BAS-TIEN"
+image="011_Cyprien.jpg"
+dub_timestamps=[25.450]
+dub_characters=["Cyprien"]

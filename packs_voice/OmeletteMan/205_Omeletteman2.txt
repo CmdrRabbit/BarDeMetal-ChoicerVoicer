@@ -1,0 +1,6 @@
+[data]
+
+caption="“Make it right and you won't swell.”"
+image="205_Omeletteman2.jpg"
+dub_timestamps=[24.150]
+dub_characters=["Omeletteman2"]

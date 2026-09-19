@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Brilliant Sans! That'll leave him befuddled! I dare you to try a bite of spaghetti!”"
+image="31_Papyrus.png"
+dub_timestamps=[133.917]
+dub_characters=["Papyrus"]

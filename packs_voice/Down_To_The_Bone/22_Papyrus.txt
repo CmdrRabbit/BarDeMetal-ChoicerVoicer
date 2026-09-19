@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “(Hey) Sans!”"
+image="22_Papyrus.png"
+dub_timestamps=[98.542]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Are you eating properly?”"
+image="02_Random Kid.png"
+dub_timestamps=[12.380]
+dub_characters=["Random Kid"]

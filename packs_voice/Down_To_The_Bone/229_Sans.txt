@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Sounds like someone's funny bone's broken!”"
+image="229_Sans.png"
+dub_timestamps=[143.370]
+dub_characters=["Sans"]

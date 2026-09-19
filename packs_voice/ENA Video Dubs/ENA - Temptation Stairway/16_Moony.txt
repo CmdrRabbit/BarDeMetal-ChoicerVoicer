@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “Alright!! I wished to be thinner!! So what?!”"
+image="16_Moony.png"
+dub_timestamps=[981.269]
+dub_characters=["Moony"]

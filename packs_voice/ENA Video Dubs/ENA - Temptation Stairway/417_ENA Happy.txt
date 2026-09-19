@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “Would you kindly reveal the wish you made to me?”"
+image="417_ENA Happy.png"
+dub_timestamps=[961.281]
+dub_characters=["ENA Happy"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brick Frog] “I will watch over your quest from here... climbing makes me itchy... plus... you know... It's fun to watch all the bodies falling...”"
+image="305_Brick Frog.png"
+dub_timestamps=[177.073]
+dub_characters=["Brick Frog"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “T'as raison, il faut qu'on fasse quelque chose !”"
+image="207_Vexios.png"
+dub_timestamps=[43.430]
+dub_characters=["Vexios"]

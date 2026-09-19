@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You're just lazy and apathetic!”"
+image="10_Papyrus.png"
+dub_timestamps=[47.493]
+dub_characters=["Papyrus"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Twilight Sparkle] “Go, AppleJack! Go!”"
+image="203_Twilight Sparkle.png"
+dub_timestamps=[54.821]
+dub_characters=["Twilight Sparkle"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Roberto] “Salut à tous les amis, c'est Roberto et il vient de se barrer !”"
+image="401_Roberto.png"
+dub_timestamps=[122.990]
+dub_characters=["Roberto"]

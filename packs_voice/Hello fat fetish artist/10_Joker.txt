@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “...AND IMMEDIATELY IN THE NEXT PANEL RUNNING ON A TREADMILL!”"
+image="10_Joker.png"
+dub_timestamps=[64.074]
+dub_characters=["Joker"]

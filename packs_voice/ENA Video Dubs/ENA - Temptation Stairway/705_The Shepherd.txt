@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Shepherd] “turron, turron, turron, turrrron!”"
+image="705_The Shepherd.png"
+dub_timestamps=[502.743]
+dub_characters=["The Shepherd"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Mariya] “Nani yo sore? !”"
+image="805_Mariya.png"
+dub_timestamps=[644.061]
+dub_characters=["Mariya"]

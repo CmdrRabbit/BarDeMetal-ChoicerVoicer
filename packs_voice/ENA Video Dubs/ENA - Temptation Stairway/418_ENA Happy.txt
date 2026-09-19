@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Happy] “CHEESE AND RICE MOONY!”"
+image="418_ENA Happy.png"
+dub_timestamps=[979.049]
+dub_characters=["ENA Happy"]

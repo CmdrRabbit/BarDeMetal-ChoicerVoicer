@@ -1,0 +1,6 @@
+[data]
+
+caption="[Winston] “How old is Taylor Swift?”"
+image="03_Winston.png"
+dub_timestamps=[9.284]
+dub_characters=["Winston"]

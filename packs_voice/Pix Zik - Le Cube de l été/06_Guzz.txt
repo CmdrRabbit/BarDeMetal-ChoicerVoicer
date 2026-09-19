@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Oh mon dieu C'EST HORRIBLE !”"
+image="06_Guzz.png"
+dub_timestamps=[33.522]
+dub_characters=["Guzz"]

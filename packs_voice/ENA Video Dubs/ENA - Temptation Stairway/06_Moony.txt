@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “(sighs) You hear that?”"
+image="06_Moony.png"
+dub_timestamps=[55.294]
+dub_characters=["Moony"]

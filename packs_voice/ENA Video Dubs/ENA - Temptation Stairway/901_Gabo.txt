@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gabo] “YES, THAT RIGHT, YES”"
+image="901_Gabo.png"
+dub_timestamps=[610.024]
+dub_characters=["Gabo"]

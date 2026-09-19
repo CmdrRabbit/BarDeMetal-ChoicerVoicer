@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “I'll find any skeletons inside your closet.”"
+image="257_Sans.png"
+dub_timestamps=[275.483]
+dub_characters=["Sans"]

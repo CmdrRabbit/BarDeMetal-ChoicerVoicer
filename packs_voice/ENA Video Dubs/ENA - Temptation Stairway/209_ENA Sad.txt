@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Sad] “WHY IS EVERYONE PUNCHING ME SO SOFTLY TODAY?! QUIT THE HITTING AND FINISH THE JOB!!”"
+image="209_ENA Sad.png"
+dub_timestamps=[748.939]
+dub_characters=["ENA Sad"]

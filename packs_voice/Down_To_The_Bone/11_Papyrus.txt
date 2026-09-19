@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “..Another bad joke and I'm FINISHED WITH HIM!”"
+image="11_Papyrus.png"
+dub_timestamps=[52.139]
+dub_characters=["Papyrus"]

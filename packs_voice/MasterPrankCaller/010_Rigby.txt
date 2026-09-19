@@ -1,0 +1,6 @@
+[data]
+
+caption="Let me take a crack at it."
+image="010_Rigby.jpg"
+dub_timestamps=[29.000]
+dub_characters=["Rigby"]

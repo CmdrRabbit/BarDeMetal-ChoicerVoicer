@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Alas, I'll hit them with my special attack!”"
+image="49_Papyrus.png"
+dub_timestamps=[239.276]
+dub_characters=["Papyrus"]

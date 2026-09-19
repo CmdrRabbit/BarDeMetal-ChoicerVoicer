@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “..When I stop you with some JUNIOR JUMBLE!”"
+image="48_Papyrus.png"
+dub_timestamps=[234.663]
+dub_characters=["Papyrus"]

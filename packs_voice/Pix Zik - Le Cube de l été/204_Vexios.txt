@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Mais comment ça sauver l'ÉTÉ ? Je viens de t'en proposer un à l'instant...”"
+image="204_Vexios.png"
+dub_timestamps=[20.760]
+dub_characters=["Vexios"]

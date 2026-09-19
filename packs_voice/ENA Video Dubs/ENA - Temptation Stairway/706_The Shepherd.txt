@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Shepherd] “Vozmozhno ty vyigral etu voynu, no proigral bitvu. Voz'mi eto ID krovi. Eto znachit ty sobirayesh' shchedryye predlozheniya dlya nas. Prodolzhay... vperod i vnesi svyatoy kodeks, potom naydi golubuyu dver'.”"
+image="706_The Shepherd.png"
+dub_timestamps=[509.416]
+dub_characters=["The Shepherd"]

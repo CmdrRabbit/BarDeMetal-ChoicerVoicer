@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “Look, there are already some people here. What idiots! Luckily, not many more will be showing up.”"
+image="02_Moony.png"
+dub_timestamps=[6.934]
+dub_characters=["Moony"]

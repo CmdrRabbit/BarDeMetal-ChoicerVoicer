@@ -1,0 +1,6 @@
+[data]
+
+caption="“Just get all the ingredients right.”"
+image="204_Omeletteman2.jpg"
+dub_timestamps=[18.060]
+dub_characters=["Omeletteman2"]

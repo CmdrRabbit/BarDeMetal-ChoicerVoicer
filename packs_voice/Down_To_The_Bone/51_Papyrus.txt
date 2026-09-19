@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “One more pun..and I'll be DONE!”"
+image="51_Papyrus.png"
+dub_timestamps=[246.612]
+dub_characters=["Papyrus"]

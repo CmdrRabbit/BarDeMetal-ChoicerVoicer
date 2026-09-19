@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “C'est le cube, de l'été ! C'est - le - cube, de l'été !”"
+image="29_Guzz.png"
+dub_timestamps=[209.917]
+dub_characters=["Guzz"]

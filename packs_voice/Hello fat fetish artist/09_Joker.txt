@@ -1,0 +1,6 @@
+[data]
+
+caption="[Joker] “Right, right! I'd like a picture of a person in their young college years eating a MASSIVE tub of ice cream!...”"
+image="09_Joker.png"
+dub_timestamps=[53.129]
+dub_characters=["Joker"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Ah..Enough!”"
+image="04_Papyrus.png"
+dub_timestamps=[15.595]
+dub_characters=["Papyrus"]

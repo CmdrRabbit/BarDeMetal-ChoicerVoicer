@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Oh yeah !”"
+image="224_Vexios.png"
+dub_timestamps=[137.373]
+dub_characters=["Vexios"]

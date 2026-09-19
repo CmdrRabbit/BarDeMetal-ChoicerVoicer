@@ -1,0 +1,6 @@
+[data]
+
+caption="T'étais déjà majeur"
+image="020_Cyprien.jpg"
+dub_timestamps=[42.648]
+dub_characters=["Cyprien"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You imbecile! That was very...clever.”"
+image="24_Papyrus.png"
+dub_timestamps=[101.937]
+dub_characters=["Papyrus"]

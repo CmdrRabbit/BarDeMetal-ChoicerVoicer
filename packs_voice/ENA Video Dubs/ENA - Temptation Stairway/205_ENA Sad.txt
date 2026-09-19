@@ -1,0 +1,6 @@
+[data]
+
+caption="[ENA Sad] “I CAN'T GO ON, I WON'T ACHIEVE ANYTHING!! S-SOMEONE, PLEASE END MY SUFF-”"
+image="205_ENA Sad.png"
+dub_timestamps=[89.041]
+dub_characters=["ENA Sad"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[He-Man] “And I scream, at the top of my lungs: ”"
+image="08_He-Man.png"
+dub_timestamps=[23.319]
+dub_characters=["He-Man"]

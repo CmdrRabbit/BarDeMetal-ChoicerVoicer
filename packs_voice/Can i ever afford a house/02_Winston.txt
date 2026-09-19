@@ -1,0 +1,6 @@
+[data]
+
+caption="[Winston] “What day is it today?”"
+image="02_Winston.png"
+dub_timestamps=[4.871]
+dub_characters=["Winston"]

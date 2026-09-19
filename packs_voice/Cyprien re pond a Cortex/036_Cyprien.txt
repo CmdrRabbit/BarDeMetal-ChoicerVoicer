@@ -1,0 +1,6 @@
+[data]
+
+caption="Si ta vie est une ligne de bus, pour toi c'est le terminus"
+image="036_Cyprien.jpg"
+dub_timestamps=[76.308]
+dub_characters=["Cyprien"]

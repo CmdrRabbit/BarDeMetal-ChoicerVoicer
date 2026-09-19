@@ -1,0 +1,6 @@
+[data]
+
+caption="Mais coller une feuille sur un T-Shirt"
+image="013_Cyprien.jpg"
+dub_timestamps=[29.540]
+dub_characters=["Cyprien"]

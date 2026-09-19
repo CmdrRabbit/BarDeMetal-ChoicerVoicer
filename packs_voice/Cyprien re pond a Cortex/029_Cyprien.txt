@@ -1,0 +1,6 @@
+[data]
+
+caption="D'ORTHOGRAFE"
+image="029_Cyprien.jpg"
+dub_timestamps=[61.100]
+dub_characters=["Cyprien"]

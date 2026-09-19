@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Attention mec, il va- *coupé par Vexios*”"
+image="16_Guzz.png"
+dub_timestamps=[98.555]
+dub_characters=["Guzz"]

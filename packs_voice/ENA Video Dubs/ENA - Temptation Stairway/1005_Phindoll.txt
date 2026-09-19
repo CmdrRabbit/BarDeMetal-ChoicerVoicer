@@ -1,0 +1,6 @@
+[data]
+
+caption="[Phindoll] “HAH, THAT'S DOLPHIN HUMOR FOR YAH”"
+image="1005_Phindoll.png"
+dub_timestamps=[731.490]
+dub_characters=["Phindoll"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “To mess with us takes a-lot of spine!”"
+image="211_Sans.png"
+dub_timestamps=[56.984]
+dub_characters=["Sans"]

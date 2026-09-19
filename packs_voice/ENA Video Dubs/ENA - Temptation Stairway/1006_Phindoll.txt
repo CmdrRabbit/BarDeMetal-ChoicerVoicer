@@ -1,0 +1,7 @@
+[data]
+
+caption="[Phindoll] “Things are Wicked! Seems like you're ready for the initial interview ritual.
+”"
+image="1006_Phindoll.png"
+dub_timestamps=[736.551]
+dub_characters=["Phindoll"]

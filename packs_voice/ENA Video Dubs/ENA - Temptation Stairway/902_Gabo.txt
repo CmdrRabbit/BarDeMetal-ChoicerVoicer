@@ -1,0 +1,6 @@
+[data]
+
+caption="[Gabo] “	SURPRISE LADY, YES.”"
+image="902_Gabo.png"
+dub_timestamps=[617.260]
+dub_characters=["Gabo"]

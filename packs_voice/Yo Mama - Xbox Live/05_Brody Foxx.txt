@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brody Foxx] “uhHUH! WHAT AN IDIOT!”"
+image="05_Brody Foxx.png"
+dub_timestamps=[14.034]
+dub_characters=["Brody Foxx"]

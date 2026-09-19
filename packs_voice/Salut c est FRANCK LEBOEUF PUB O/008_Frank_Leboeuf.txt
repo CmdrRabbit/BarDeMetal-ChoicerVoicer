@@ -1,0 +1,6 @@
+[data]
+
+caption="Mon conseil"
+image="008_Frank_Leboeuf.jpg"
+dub_timestamps=[15.585]
+dub_characters=["Frank Leboeuf"]

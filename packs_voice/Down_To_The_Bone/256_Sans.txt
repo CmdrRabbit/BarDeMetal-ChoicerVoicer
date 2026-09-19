@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “I've got my eye on you, so you just watch it.”"
+image="256_Sans.png"
+dub_timestamps=[271.022]
+dub_characters=["Sans"]

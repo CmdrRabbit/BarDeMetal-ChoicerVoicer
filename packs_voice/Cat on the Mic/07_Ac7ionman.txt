@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “THAT'S NOT A CAT, THAT'S YOU SCREAMING!”"
+image="07_Ac7ionman.png"
+dub_timestamps=[14.169]
+dub_characters=["Ac7ionman"]

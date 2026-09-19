@@ -1,0 +1,6 @@
+[data]
+
+caption="“Nanao?! You are overdoing it.”"
+image="07_Random Kid.png"
+dub_timestamps=[71.638]
+dub_characters=["Random Kid"]

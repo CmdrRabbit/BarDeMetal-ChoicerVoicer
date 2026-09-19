@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “They're scared of tiny children!”"
+image="247_Sans.png"
+dub_timestamps=[230.132]
+dub_characters=["Sans"]

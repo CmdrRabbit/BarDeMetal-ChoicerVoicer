@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Mec, faut qu'on le retrouve”"
+image="08_Guzz.png"
+dub_timestamps=[45.214]
+dub_characters=["Guzz"]

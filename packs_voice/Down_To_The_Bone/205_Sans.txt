@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “How was the fall?”"
+image="205_Sans.png"
+dub_timestamps=[23.677]
+dub_characters=["Sans"]

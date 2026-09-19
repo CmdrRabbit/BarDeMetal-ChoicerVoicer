@@ -1,0 +1,7 @@
+[data]
+
+caption="[Phindoll] “WoOoaOaoOah! HeeYY! What's the data, theta?!
+”"
+image="1001_Phindoll.png"
+dub_timestamps=[703.024]
+dub_characters=["Phindoll"]

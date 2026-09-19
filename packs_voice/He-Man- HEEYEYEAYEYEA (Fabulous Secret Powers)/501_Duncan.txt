@@ -1,0 +1,6 @@
+[data]
+
+caption="[Duncan] “just keep it inside”"
+image="501_Duncan.png"
+dub_timestamps=[104.819]
+dub_characters=["Duncan"]

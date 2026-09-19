@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “A-HA! I just had the bestest idea: we'll make a bet! Whoever reaches the top of The Great Runas and makes their with first has to pay the debts of the loser.”"
+image="04_Moony.png"
+dub_timestamps=[37.204]
+dub_characters=["Moony"]

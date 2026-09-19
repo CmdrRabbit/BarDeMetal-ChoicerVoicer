@@ -1,0 +1,6 @@
+[data]
+
+caption="*jsp* possecast, mais moi je vais faire des possecast, tu va voir je vais te montrer que je met à l'amende"
+image="045_Cortex.jpg"
+dub_timestamps=[114.362]
+dub_characters=["Cortex"]

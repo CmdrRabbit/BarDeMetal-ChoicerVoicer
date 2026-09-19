@@ -1,0 +1,6 @@
+[data]
+
+caption="“I have some fruits, and sweetness as well.”"
+image="06_Omeletteman.jpg"
+dub_timestamps=[21.120]
+dub_characters=["Omeletteman"]

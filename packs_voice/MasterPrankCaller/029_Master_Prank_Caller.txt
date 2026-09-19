@@ -1,0 +1,6 @@
+[data]
+
+caption="You got anything original?"
+image="029_Master_Prank_Caller.jpg"
+dub_timestamps=[78.000]
+dub_characters=["Master Prank Caller"]

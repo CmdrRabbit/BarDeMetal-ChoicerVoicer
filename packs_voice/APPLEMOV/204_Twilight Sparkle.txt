@@ -1,0 +1,6 @@
+[data]
+
+caption="[Twilight Sparkle] “Let me tell ya! That pony sure does love eating apples!”"
+image="204_Twilight Sparkle.png"
+dub_timestamps=[145.837]
+dub_characters=["Twilight Sparkle"]

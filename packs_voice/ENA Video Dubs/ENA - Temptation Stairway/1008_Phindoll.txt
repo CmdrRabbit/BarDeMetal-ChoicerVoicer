@@ -1,0 +1,6 @@
+[data]
+
+caption="[Phindoll] “Woah woah woah woah woah woah WOAH! Take a chill pill, I meant no ill-will! Here's the new prescription: no initial interview for you. Just stain the water red and the pyramid door will open. That's Door #5, my star! Chyah!”"
+image="1008_Phindoll.png"
+dub_timestamps=[756.179]
+dub_characters=["Phindoll"]

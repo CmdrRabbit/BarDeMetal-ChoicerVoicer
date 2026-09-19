@@ -1,0 +1,6 @@
+[data]
+
+caption="[Brick Frog] “Finally, language I can spit at!.. anyway, it seems you are... try-trying to climb The Great Runas to get a, a, a wish. My only hope is you achieve your... your righteous mission before this event expires.”"
+image="304_Brick Frog.png"
+dub_timestamps=[155.885]
+dub_characters=["Brick Frog"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Lord Verity] “i dont give a damn! *Maniacal laughing*”"
+image="205_Lord Verity.png"
+dub_timestamps=[10.572]
+dub_characters=["Lord Verity"]

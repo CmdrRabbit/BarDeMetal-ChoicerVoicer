@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ulysses] “In that case, your way to Our G-g-great Great Runas Runas, Runas, Runas is through the Holy c-c-Code, code behind you. B-b-but heed this warning, warning: desires are never fulfilled nor q-q-quenched. You will fail. Fail. Fail. Fail. Fail. Like the rest of them. Like the rest of them! Like the rest of them.”"
+image="603_Ulysses.png"
+dub_timestamps=[380.192]
+dub_characters=["Ulysses"]

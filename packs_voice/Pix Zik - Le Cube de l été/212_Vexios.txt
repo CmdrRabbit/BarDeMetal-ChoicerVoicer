@@ -1,0 +1,6 @@
+[data]
+
+caption="[Vexios] “Quoi ? Quoi ? Quoi ?”"
+image="212_Vexios.png"
+dub_timestamps=[83.390]
+dub_characters=["Vexios"]

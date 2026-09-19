@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Shepherd] “Ty shshsh... derzkiy shshsh... soplyak shshsh...! Nikto ne proydot! Velikiy Runas by byl ochen' zloy, yesli by kakoy-to prostak, kak ty, poyavilsya v yego lyubimom mest”"
+image="703_The Shepherd.png"
+dub_timestamps=[486.759]
+dub_characters=["The Shepherd"]

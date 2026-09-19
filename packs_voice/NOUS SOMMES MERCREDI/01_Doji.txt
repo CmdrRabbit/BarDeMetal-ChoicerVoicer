@@ -1,0 +1,6 @@
+[data]
+
+caption="[Doji] “J'avais l'intention de te donner une dernière chance, Gingka. Mais puisque tu insistes, je n'ai malheureusement pas le choix.”"
+image="01_Doji.png"
+dub_timestamps=[1.707]
+dub_characters=["Doji"]

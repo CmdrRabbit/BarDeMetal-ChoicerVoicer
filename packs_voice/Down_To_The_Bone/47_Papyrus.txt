@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “You've come far, but soon you'll stumble!”"
+image="47_Papyrus.png"
+dub_timestamps=[232.427]
+dub_characters=["Papyrus"]

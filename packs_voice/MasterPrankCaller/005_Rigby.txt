@@ -1,0 +1,6 @@
+[data]
+
+caption="*chuckles quietly*"
+image="005_Rigby.jpg"
+dub_timestamps=[14.800]
+dub_characters=["Rigby"]

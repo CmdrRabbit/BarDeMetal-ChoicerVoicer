@@ -1,0 +1,6 @@
+[data]
+
+caption="[Papyrus] “Stop it Sans, I'm done with the jokin!”"
+image="32_Papyrus.png"
+dub_timestamps=[141.117]
+dub_characters=["Papyrus"]

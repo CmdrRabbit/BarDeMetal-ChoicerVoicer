@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “(sighs) I'm giving you an advantage, you know. Just go!”"
+image="09_Moony.png"
+dub_timestamps=[104.351]
+dub_characters=["Moony"]

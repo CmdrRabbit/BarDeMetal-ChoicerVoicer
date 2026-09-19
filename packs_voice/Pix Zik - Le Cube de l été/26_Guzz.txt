@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guzz] “Euh... que tout le monde dance DEVANT SON ÉCRAN !”"
+image="26_Guzz.png"
+dub_timestamps=[154.555]
+dub_characters=["Guzz"]

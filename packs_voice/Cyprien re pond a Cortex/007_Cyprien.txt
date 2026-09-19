@@ -1,0 +1,6 @@
+[data]
+
+caption="Tu clash des que quelqu'un met une vidéo en ligne"
+image="007_Cyprien.jpg"
+dub_timestamps=[14.412]
+dub_characters=["Cyprien"]

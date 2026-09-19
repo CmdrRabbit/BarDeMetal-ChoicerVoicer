@@ -1,0 +1,6 @@
+[data]
+
+caption="…Hello?"
+image="036_Mordecai.jpg"
+dub_timestamps=[105.404]
+dub_characters=["Mordecai"]

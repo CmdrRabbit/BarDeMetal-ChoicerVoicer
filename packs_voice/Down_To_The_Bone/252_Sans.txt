@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “We can relate to your determination!”"
+image="252_Sans.png"
+dub_timestamps=[251.780]
+dub_characters=["Sans"]

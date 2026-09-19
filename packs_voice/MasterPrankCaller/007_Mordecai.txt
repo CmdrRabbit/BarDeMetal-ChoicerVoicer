@@ -1,0 +1,6 @@
+[data]
+
+caption="Uh.. you ordered 50 pizzas?"
+image="007_Mordecai.jpg"
+dub_timestamps=[18.844]
+dub_characters=["Mordecai"]

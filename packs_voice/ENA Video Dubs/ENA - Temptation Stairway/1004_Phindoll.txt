@@ -1,0 +1,6 @@
+[data]
+
+caption="[Phindoll] “(Dolphin humor)”"
+image="1004_Phindoll.png"
+dub_timestamps=[724.200]
+dub_characters=["Phindoll"]

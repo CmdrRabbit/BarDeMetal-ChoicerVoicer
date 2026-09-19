@@ -1,0 +1,6 @@
+[data]
+
+caption="[Guy 1] “Aw shit, here comes Pacman.”"
+image="01_Guy 1.png"
+dub_timestamps=[0.000]
+dub_characters=["Guy 1"]

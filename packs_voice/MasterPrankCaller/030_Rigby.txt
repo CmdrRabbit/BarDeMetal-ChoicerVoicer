@@ -1,0 +1,6 @@
+[data]
+
+caption="“Yeah hello”?? Dude that was the worst try yet! Time to put an end to this junk fest."
+image="030_Rigby.jpg"
+dub_timestamps=[80.400]
+dub_characters=["Rigby"]

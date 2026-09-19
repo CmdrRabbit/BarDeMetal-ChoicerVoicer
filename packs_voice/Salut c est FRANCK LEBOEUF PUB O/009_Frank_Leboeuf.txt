@@ -1,0 +1,6 @@
+[data]
+
+caption="Obtenez votre prix de vente sur vendezvotrevoiture.fr"
+image="009_Frank_Leboeuf.jpg"
+dub_timestamps=[16.582]
+dub_characters=["Frank Leboeuf"]

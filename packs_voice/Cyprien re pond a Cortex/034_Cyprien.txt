@@ -1,0 +1,6 @@
+[data]
+
+caption="Petite idée en tête (limite ça cyprien)"
+image="034_Cyprien.jpg"
+dub_timestamps=[72.133]
+dub_characters=["Cyprien"]

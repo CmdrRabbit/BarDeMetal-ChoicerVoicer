@@ -1,0 +1,6 @@
+[data]
+
+caption="[Ac7ionman] “FUCK!”"
+image="03_Ac7ionman.png"
+dub_timestamps=[6.382]
+dub_characters=["Ac7ionman"]

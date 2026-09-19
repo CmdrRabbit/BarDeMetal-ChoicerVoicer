@@ -1,0 +1,6 @@
+[data]
+
+caption="Hm Hm, let’s do it."
+image="023_Mordecai.jpg"
+dub_timestamps=[64.000]
+dub_characters=["Mordecai"]

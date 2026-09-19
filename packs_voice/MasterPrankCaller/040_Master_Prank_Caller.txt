@@ -1,0 +1,6 @@
+[data]
+
+caption="The 1980’s called… THEY WANT THEIR CELL PHONES BACK"
+image="040_Master_Prank_Caller.jpg"
+dub_timestamps=[117.000]
+dub_characters=["Master Prank Caller"]

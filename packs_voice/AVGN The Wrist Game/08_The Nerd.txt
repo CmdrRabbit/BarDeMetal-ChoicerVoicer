@@ -1,0 +1,6 @@
+[data]
+
+caption="[The Nerd] “32 bits.”"
+image="08_The Nerd.png"
+dub_timestamps=[23.694]
+dub_characters=["The Nerd"]

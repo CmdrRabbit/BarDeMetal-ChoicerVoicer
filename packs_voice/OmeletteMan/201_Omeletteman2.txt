@@ -1,0 +1,6 @@
+[data]
+
+caption="“HERE, WE, Go!”"
+image="201_Omeletteman2.jpg"
+dub_timestamps=[00.000]
+dub_characters=["Omeletteman2"]

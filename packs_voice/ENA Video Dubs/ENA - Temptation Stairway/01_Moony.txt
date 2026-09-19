@@ -1,0 +1,6 @@
+[data]
+
+caption="[Moony] “HEY, I-NA! Check out this neat trick!”"
+image="01_Moony.png"
+dub_timestamps=[2.408]
+dub_characters=["Moony"]

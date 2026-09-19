@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “We're happy you just dropped in.”"
+image="207_Sans.png"
+dub_timestamps=[33.350]
+dub_characters=["Sans"]

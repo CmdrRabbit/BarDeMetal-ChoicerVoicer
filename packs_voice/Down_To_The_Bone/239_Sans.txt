@@ -1,0 +1,6 @@
+[data]
+
+caption="[Sans] “Look, if I'm being honest, my brother ain't nothin' but harmless.”"
+image="239_Sans.png"
+dub_timestamps=[194.739]
+dub_characters=["Sans"]
