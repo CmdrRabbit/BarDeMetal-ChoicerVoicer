@@ -1,0 +1,6 @@
+[data]
+
+caption="“With you by my side...”"
+image="201_Lyra.png"
+dub_timestamps=[5.920]
+dub_characters=["Lyra"]

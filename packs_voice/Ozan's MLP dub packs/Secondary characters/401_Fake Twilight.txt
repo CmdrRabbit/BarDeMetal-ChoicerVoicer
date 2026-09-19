@@ -1,0 +1,6 @@
+[data]
+
+caption="“As the Princess of Friendship, I should set an example for all of Equestria”"
+image="401_Fake Twilight.png"
+dub_timestamps=[73.177]
+dub_characters=["Fake Twilight"]

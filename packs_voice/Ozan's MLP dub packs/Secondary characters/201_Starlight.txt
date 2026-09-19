@@ -1,0 +1,6 @@
+[data]
+
+caption="“*Panicking to stop Trixie*”"
+image="201_Starlight.png"
+dub_timestamps=[16.942]
+dub_characters=["Starlight"]

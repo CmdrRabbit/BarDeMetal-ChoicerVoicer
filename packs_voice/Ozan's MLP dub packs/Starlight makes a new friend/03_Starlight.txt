@@ -1,0 +1,6 @@
+[data]
+
+caption="“*Chuckle*”"
+image="03_Starlight.png"
+dub_timestamps=[20.811]
+dub_characters=["Starlight"]

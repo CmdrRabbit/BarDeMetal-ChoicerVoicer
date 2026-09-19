@@ -1,0 +1,6 @@
+[data]
+
+caption="“I need my ring today! No matter the cost!”"
+image="301_Cranky Doodle.png"
+dub_timestamps=[105.406]
+dub_characters=["Cranky Doodle"]

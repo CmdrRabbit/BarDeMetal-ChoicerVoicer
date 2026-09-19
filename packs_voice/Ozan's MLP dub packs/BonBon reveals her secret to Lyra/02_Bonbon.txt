@@ -1,0 +1,6 @@
+[data]
+
+caption="“There is nothing like a bestfriend, is there?”"
+image="02_Bonbon.png"
+dub_timestamps=[9.515]
+dub_characters=["Bonbon"]

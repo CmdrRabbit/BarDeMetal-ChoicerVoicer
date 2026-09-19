@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm calling it...”"
+image="210_Trixie.png"
+dub_timestamps=[105.757]
+dub_characters=["Trixie"]

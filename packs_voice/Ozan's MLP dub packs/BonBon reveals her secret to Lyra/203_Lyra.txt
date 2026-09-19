@@ -1,0 +1,6 @@
+[data]
+
+caption="“Anythings possible when you know somepony as well as we know eachother!”"
+image="203_Lyra.png"
+dub_timestamps=[12.877]
+dub_characters=["Lyra"]

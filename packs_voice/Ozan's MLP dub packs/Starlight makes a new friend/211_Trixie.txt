@@ -1,0 +1,6 @@
+[data]
+
+caption="“The Humble... and Penitent... Trixies Equestrian Apology Tour!”"
+image="211_Trixie.png"
+dub_timestamps=[107.247]
+dub_characters=["Trixie"]

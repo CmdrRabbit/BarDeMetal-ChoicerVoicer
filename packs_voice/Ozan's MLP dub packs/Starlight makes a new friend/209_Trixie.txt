@@ -1,0 +1,6 @@
+[data]
+
+caption="“The Great, and Powerful Trixie! Has come to perform a new stage show of grand illusion!”"
+image="209_Trixie.png"
+dub_timestamps=[97.571]
+dub_characters=["Trixie"]

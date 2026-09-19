@@ -1,0 +1,6 @@
+[data]
+
+caption="“Well you did say anypony and I just assumed that you trust me to make my own friends the way Princess Celestia trusted you.”"
+image="16_Starlight.png"
+dub_timestamps=[143.087]
+dub_characters=["Starlight"]

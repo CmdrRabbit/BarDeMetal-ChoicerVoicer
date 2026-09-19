@@ -1,0 +1,6 @@
+[data]
+
+caption="“Well isn't this quite the combination of secondary characters?”"
+image="503_Discord.png"
+dub_timestamps=[143.523]
+dub_characters=["Discord"]

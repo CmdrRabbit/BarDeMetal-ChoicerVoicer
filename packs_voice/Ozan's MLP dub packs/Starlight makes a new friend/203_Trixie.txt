@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm gonna start coming here every time I visit Ponyville.”"
+image="203_Trixie.png"
+dub_timestamps=[22.044]
+dub_characters=["Trixie"]

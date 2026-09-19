@@ -1,0 +1,6 @@
+[data]
+
+caption="“She's-”"
+image="12_Starlight.png"
+dub_timestamps=[68.136]
+dub_characters=["Starlight"]

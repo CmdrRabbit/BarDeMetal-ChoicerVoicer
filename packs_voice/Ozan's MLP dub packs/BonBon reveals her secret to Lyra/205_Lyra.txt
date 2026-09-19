@@ -1,0 +1,6 @@
+[data]
+
+caption="“Uh... I think its some sort of Bugbear. [chuckle]”"
+image="205_Lyra.png"
+dub_timestamps=[26.883]
+dub_characters=["Lyra"]

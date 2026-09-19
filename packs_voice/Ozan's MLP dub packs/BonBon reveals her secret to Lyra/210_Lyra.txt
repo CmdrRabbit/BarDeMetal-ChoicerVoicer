@@ -1,0 +1,6 @@
+[data]
+
+caption="“B-B-But the lunches... The-The long talks... The benches we've sat on...”"
+image="210_Lyra.png"
+dub_timestamps=[80.461]
+dub_characters=["Lyra"]

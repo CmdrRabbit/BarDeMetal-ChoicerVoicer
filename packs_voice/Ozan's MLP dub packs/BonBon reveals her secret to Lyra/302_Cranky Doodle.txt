@@ -1,0 +1,6 @@
+[data]
+
+caption="“As long as it dosent cost any extra...”"
+image="302_Cranky Doodle.png"
+dub_timestamps=[108.530]
+dub_characters=["Cranky Doodle"]

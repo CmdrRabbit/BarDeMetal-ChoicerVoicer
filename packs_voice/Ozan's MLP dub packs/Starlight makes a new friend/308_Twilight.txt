@@ -1,0 +1,6 @@
+[data]
+
+caption="“So, umm... What brings you to Ponyville?”"
+image="308_Twilight.png"
+dub_timestamps=[94.524]
+dub_characters=["Twilight"]

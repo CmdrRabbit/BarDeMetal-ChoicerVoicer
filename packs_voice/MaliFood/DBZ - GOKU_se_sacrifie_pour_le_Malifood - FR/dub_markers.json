@@ -1,0 +1,172 @@
+{
+  "title": "DBZ - GOKU se sacrifie pour le malifood - FR",
+  "subtitle": "\"Vis pour le poulet son gohan\"",
+  "authors": [
+    "xxweegeeplxx"
+  ],
+  "sourceFile": "Songoku se sacrifie pour le Malifood.mp4",
+  "hasDubVideo": true,
+  "generatedAt": "2026-09-15T13:47:28.262Z",
+  "markers": [
+    {
+      "order": 1,
+      "filename": "001_GOKU1.wav",
+      "start": 0,
+      "end": 1.452,
+      "character": "GOKU",
+      "caption": "NE FAIS PAS CA CELL!"
+    },
+    {
+      "order": 2,
+      "filename": "002_CELL1.wav",
+      "start": 1.452,
+      "end": 7.5,
+      "character": "CELL",
+      "caption": "*RIRE MALEFIQUE*"
+    },
+    {
+      "order": 3,
+      "filename": "003_CELL2.wav",
+      "start": 7.5,
+      "end": 17.5,
+      "character": "CELL",
+      "caption": "Ouah vu que san goku ne ma pas emmené mes aloco et pastel je vais me faire exploser avec la terre ouais. comme ca il n'y aura plus de malifood ha et vous irez manger des pates sans beurre"
+    },
+    {
+      "order": 4,
+      "filename": "004_GOHAN1.wav",
+      "start": 17.5,
+      "end": 18.2,
+      "character": "GOHAN",
+      "caption": "Wallah t'es un... (Baisé)"
+    },
+    {
+      "order": 5,
+      "filename": "005_VEGETA.wav",
+      "start": 18.2,
+      "end": 21,
+      "character": "VEGETA",
+      "caption": "et c'est tout? on peut pas céder?"
+    },
+    {
+      "order": 6,
+      "filename": "006_PICCOLO.wav",
+      "start": 21,
+      "end": 27,
+      "character": "PICCOLO",
+      "caption": "NOUS DEVONS L'EN EMPECHER! SI IL SE FAIT EXPLOSER NOUS NE POURRONS PLUS MANGER AU MALIFOOD!"
+    },
+    {
+      "order": 7,
+      "filename": "007_CELL3.wav",
+      "start": 27,
+      "end": 31,
+      "character": "CELL",
+      "caption": "*Rire maléfique*"
+    },
+    {
+      "order": 8,
+      "filename": "008_KRILLIN.wav",
+      "start": 31,
+      "end": 33.491,
+      "character": "KRILLIN",
+      "caption": "Une attitude vraiment..."
+    },
+    {
+      "order": 9,
+      "filename": "009_TEN_SHIN_HAN.wav",
+      "start": 33.491,
+      "end": 40,
+      "character": "TEN SHIN HAN",
+      "caption": "counia manmanw"
+    },
+    {
+      "order": 10,
+      "filename": "010_GOKU2.wav",
+      "start": 40,
+      "end": 45.8,
+      "character": "GOKU",
+      "caption": "J'ai beau réfléchir je ne voit qu'un seul moyen de sauver notre restaurant malifood, faites moi confiance."
+    },
+    {
+      "order": 11,
+      "filename": "011_GOKU3.wav",
+      "start": 45.8,
+      "end": 49,
+      "character": "GOKU",
+      "caption": "La passion du poulet vivera toujours dans nos coeur"
+    },
+    {
+      "order": 12,
+      "filename": "012_KRILLIN2.wav",
+      "start": 49,
+      "end": 51.3,
+      "character": "KRILLIN",
+      "caption": "NAAAAAAAN!"
+    },
+    {
+      "order": 13,
+      "filename": "013_GOKU4.wav",
+      "start": 51.3,
+      "end": 56.4,
+      "character": "GOKU",
+      "caption": "J'compte sur toi pour veiller sur le malifood, dis leur que j'aurait aimé manger un dernier poulet yassa."
+    },
+    {
+      "order": 14,
+      "filename": "014_GOHAN2.wav",
+      "start": 56.4,
+      "end": 59.5,
+      "character": "GOHAN",
+      "caption": "aaaaaahhhh...."
+    },
+    {
+      "order": 15,
+      "filename": "015_GOKU5.wav",
+      "start": 59.5,
+      "end": 64.5,
+      "character": "GOKU",
+      "caption": "Vis pour le poulet Son Gohan."
+    },
+    {
+      "order": 16,
+      "filename": "016_GOKU6.wav",
+      "start": 64.5,
+      "end": 69.634,
+      "character": "GOKU",
+      "caption": "Je n'oublierais jamais le maffé"
+    },
+    {
+      "order": 17,
+      "filename": "017_KAIO.wav",
+      "start": 69.634,
+      "end": 74.215,
+      "character": "KAIO",
+      "caption": "Tu joue a quoi? Tu joue a quoi? Tu joue a quoi? Tu joue a quoi? Eh dis qu'est-ce que la tu joue a quoi la..."
+    },
+    {
+      "order": 18,
+      "filename": "018_GOKU7.wav",
+      "start": 74.215,
+      "end": 76.8,
+      "character": "GOKU",
+      "caption": "Je suis désolé kaio, mais c'était pour sauver le restaurant..."
+    },
+    {
+      "order": 19,
+      "filename": "019_CELL4.wav",
+      "start": 76.8,
+      "end": 88,
+      "character": "CELL",
+      "caption": "MALIFOOD EHHHHH AAAAAHHHH..."
+    },
+    {
+      "order": 20,
+      "filename": "020_NARRATEUR.wav",
+      "start": 88,
+      "end": 109.157,
+      "character": "NARRATEUR",
+      "caption": "Le sacrifice de son goku,  a permis de sauver le restaurant malifood. Grace a lui, les client pourront venir manger sans crainte"
+    }
+  ]
+}

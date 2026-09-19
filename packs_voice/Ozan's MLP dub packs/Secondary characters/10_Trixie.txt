@@ -1,0 +1,6 @@
+[data]
+
+caption="“There is NOPONY else!”"
+image="10_Trixie.png"
+dub_timestamps=[129.755]
+dub_characters=["Trixie"]

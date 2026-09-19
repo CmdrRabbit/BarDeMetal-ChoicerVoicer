@@ -1,0 +1,6 @@
+[data]
+
+caption="“I know I said make friends with anypony but, well, with Trixies past and your past, I'm not so sure she's the best 'first friend'.”"
+image="310_Twilight.png"
+dub_timestamps=[122.428]
+dub_characters=["Twilight"]

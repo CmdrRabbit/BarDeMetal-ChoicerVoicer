@@ -1,0 +1,6 @@
+[data]
+
+caption="“She wasn't the nicest pony.”"
+image="313_Twilight.png"
+dub_timestamps=[140.688]
+dub_characters=["Twilight"]

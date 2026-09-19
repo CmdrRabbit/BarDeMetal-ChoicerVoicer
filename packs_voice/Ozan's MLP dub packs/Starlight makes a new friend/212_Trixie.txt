@@ -1,0 +1,6 @@
+[data]
+
+caption="“It's a working title.”"
+image="212_Trixie.png"
+dub_timestamps=[114.699]
+dub_characters=["Trixie"]

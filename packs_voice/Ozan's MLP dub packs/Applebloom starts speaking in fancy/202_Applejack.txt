@@ -1,0 +1,6 @@
+[data]
+
+caption="“My sister's speakin' in fancy!”"
+image="202_Applejack.png"
+dub_timestamps=[24.409]
+dub_characters=["Applejack"]

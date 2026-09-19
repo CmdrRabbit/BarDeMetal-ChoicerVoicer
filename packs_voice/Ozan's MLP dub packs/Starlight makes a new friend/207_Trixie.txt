@@ -1,0 +1,6 @@
+[data]
+
+caption="“We've... had our differences.”"
+image="207_Trixie.png"
+dub_timestamps=[82.306]
+dub_characters=["Trixie"]

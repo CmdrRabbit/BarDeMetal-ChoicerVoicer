@@ -1,0 +1,6 @@
+[data]
+
+caption="“I guess they do?”"
+image="303_Thorax.png"
+dub_timestamps=[57.483]
+dub_characters=["Thorax"]

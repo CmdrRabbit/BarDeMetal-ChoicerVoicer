@@ -1,0 +1,6 @@
+[data]
+
+caption="“I've been trying to make friends but its not easy.”"
+image="05_Starlight.png"
+dub_timestamps=[27.573]
+dub_characters=["Starlight"]

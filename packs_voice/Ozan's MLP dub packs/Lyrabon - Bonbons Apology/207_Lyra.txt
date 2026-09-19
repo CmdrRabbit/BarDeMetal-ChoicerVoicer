@@ -1,0 +1,6 @@
+[data]
+
+caption="“[laugs] Its sort of thrilling to reveal your deapest darkest secrets!”"
+image="207_Lyra.png"
+dub_timestamps=[37.719]
+dub_characters=["Lyra"]

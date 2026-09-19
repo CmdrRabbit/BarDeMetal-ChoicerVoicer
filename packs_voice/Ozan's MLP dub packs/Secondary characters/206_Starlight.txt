@@ -1,0 +1,6 @@
+[data]
+
+caption="“*Small gasp* But maybe Cadance is still safe.”"
+image="206_Starlight.png"
+dub_timestamps=[37.011]
+dub_characters=["Starlight"]

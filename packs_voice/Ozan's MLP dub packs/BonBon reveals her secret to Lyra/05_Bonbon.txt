@@ -1,0 +1,6 @@
+[data]
+
+caption="“Did you say Bugbear?”"
+image="05_Bonbon.png"
+dub_timestamps=[30.570]
+dub_characters=["Bonbon"]

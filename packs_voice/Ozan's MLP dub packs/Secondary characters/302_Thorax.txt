@@ -1,0 +1,6 @@
+[data]
+
+caption="“Yes?”"
+image="302_Thorax.png"
+dub_timestamps=[52.860]
+dub_characters=["Thorax"]

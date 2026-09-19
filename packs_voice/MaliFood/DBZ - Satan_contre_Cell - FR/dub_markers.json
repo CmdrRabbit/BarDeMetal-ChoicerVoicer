@@ -1,0 +1,92 @@
+{
+  "title": "DBZ - Satan contre Cell - FR",
+  "subtitle": "Le combat de Mr Satan (Hercule) Contre Cell. (Mr satan a bu de la Wax)",
+  "authors": [
+    "xxweegeeplxx"
+  ],
+  "sourceFile": "Satan (Hercule) contre Cell (Après avoir été au Malifood).mp4",
+  "hasDubVideo": true,
+  "generatedAt": "2026-09-16T08:01:56.806Z",
+  "markers": [
+    {
+      "order": 1,
+      "filename": "001_CELL1.wav",
+      "start": 3.359,
+      "end": 7.198,
+      "character": "CELL",
+      "caption": "Wa tout le monde est réuni. Qui m'affronte en premier?"
+    },
+    {
+      "order": 2,
+      "filename": "002_SATAN1.wav",
+      "start": 7.198,
+      "end": 9.8,
+      "character": "MR SATAN",
+      "caption": "C'est moi ton adversaire Cell! C'est fini pour toi !"
+    },
+    {
+      "order": 3,
+      "filename": "003_GOKU.wav",
+      "start": 9.8,
+      "end": 14,
+      "character": "GOKU",
+      "caption": "Cell a mangé un poulet Yassa au malifood! Tu va te faire massacrer si tu y va!"
+    },
+    {
+      "order": 4,
+      "filename": "004_PRRESENTATEUR.wav",
+      "start": 14,
+      "end": 17.594,
+      "character": "PRRESENTATEUR",
+      "caption": "*étonnement*"
+    },
+    {
+      "order": 5,
+      "filename": "005_TEN_SHIN_HAN.wav",
+      "start": 17.594,
+      "end": 18.874,
+      "character": "TEN SHIN HAN",
+      "caption": "TOI COMPRENDRE OU QUOI?\n(TU NE COMPRENDS PAS OU QUOI?)"
+    },
+    {
+      "order": 6,
+      "filename": "006_SATAN2.wav",
+      "start": 18.874,
+      "end": 23.832,
+      "character": "MR SATAN",
+      "caption": "Il a peut être mangé du poullet Yassa mais moi j'ai bu de la WAX au malifood. Il n'a aucune chance contre moi"
+    },
+    {
+      "order": 7,
+      "filename": "007_CELL2.wav",
+      "start": 23.832,
+      "end": 26.4,
+      "character": "CELL",
+      "caption": "Wa qu'est-ce qu'il raconte son grosse tête à lui?"
+    },
+    {
+      "order": 8,
+      "filename": "008_CELL2bis.wav",
+      "start": 26.4,
+      "end": 34.548,
+      "character": "CELL",
+      "caption": "Je n'ai jamais vu de boisson WAX a Malifood lieusaint Rue de paris"
+    },
+    {
+      "order": 9,
+      "filename": "009_SATAN3.wav",
+      "start": 34.548,
+      "end": 41.106,
+      "character": "MR SATAN",
+      "caption": "*Cri de Guerrier*"
+    },
+    {
+      "order": 10,
+      "filename": "010_CELL3.wav",
+      "start": 41.106,
+      "end": 47.9,
+      "character": "CELL",
+      "caption": "Wa je vais retourner au Malifood pour aller boire cette boisson WAX ensuite je détruirai toute la terre ouais"
+    }
+  ]
+}

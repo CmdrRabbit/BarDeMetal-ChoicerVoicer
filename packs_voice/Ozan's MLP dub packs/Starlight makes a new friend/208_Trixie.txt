@@ -1,0 +1,6 @@
+[data]
+
+caption="“What matters is, Twilight gave me a second chance, and I appreciate it.”"
+image="208_Trixie.png"
+dub_timestamps=[84.628]
+dub_characters=["Trixie"]

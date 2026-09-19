@@ -1,0 +1,6 @@
+[data]
+
+caption="“First, how do we know that you're really you?”"
+image="218_Starlight.png"
+dub_timestamps=[150.072]
+dub_characters=["Starlight"]

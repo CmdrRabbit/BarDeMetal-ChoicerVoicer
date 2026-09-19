@@ -1,0 +1,6 @@
+[data]
+
+caption="“It was me who captured the Bugbear. I had to go deep cover here in Ponyville and assume the name Bonbon”"
+image="11_Bonbon.png"
+dub_timestamps=[62.869]
+dub_characters=["Bonbon"]

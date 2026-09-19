@@ -1,0 +1,6 @@
+[data]
+
+caption="“Are you saying out whole friendship was based on a lie?!?!”"
+image="209_Lyra.png"
+dub_timestamps=[72.319]
+dub_characters=["Lyra"]

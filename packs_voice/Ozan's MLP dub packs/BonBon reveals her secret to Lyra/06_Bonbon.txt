@@ -1,0 +1,6 @@
+[data]
+
+caption="“It found me!”"
+image="06_Bonbon.png"
+dub_timestamps=[32.750]
+dub_characters=["Bonbon"]

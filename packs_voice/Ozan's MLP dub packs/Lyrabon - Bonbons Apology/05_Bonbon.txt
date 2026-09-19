@@ -1,0 +1,6 @@
+[data]
+
+caption="“[chuckles] Thats what bestfriends are for!”"
+image="05_Bonbon.png"
+dub_timestamps=[41.820]
+dub_characters=["Bonbon"]

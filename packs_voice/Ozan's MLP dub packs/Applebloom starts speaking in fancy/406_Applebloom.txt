@@ -1,0 +1,6 @@
+[data]
+
+caption="“Je parle Français?!”"
+image="406_Applebloom.png"
+dub_timestamps=[22.002]
+dub_characters=["Applebloom"]

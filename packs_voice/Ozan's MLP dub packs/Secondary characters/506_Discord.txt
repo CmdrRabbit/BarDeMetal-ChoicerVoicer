@@ -1,0 +1,6 @@
+[data]
+
+caption="“*yawning followed by gasp*”"
+image="506_Discord.png"
+dub_timestamps=[170.381]
+dub_characters=["Discord"]

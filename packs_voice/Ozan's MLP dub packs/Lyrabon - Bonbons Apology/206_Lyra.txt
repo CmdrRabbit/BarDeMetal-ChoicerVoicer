@@ -1,0 +1,6 @@
+[data]
+
+caption="“All of them!”"
+image="206_Lyra.png"
+dub_timestamps=[34.677]
+dub_characters=["Lyra"]

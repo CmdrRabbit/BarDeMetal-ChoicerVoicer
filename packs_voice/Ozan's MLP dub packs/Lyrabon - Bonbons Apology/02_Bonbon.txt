@@ -1,0 +1,6 @@
+[data]
+
+caption="“Our friends have done it! they've defeated the Bugbear!”"
+image="02_Bonbon.png"
+dub_timestamps=[1.877]
+dub_characters=["Bonbon"]

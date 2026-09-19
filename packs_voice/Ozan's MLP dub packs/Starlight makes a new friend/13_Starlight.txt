@@ -1,0 +1,6 @@
+[data]
+
+caption="“You know eachother?”"
+image="13_Starlight.png"
+dub_timestamps=[79.081]
+dub_characters=["Starlight"]

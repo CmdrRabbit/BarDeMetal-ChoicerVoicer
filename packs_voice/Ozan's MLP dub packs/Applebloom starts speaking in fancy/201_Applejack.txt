@@ -1,0 +1,6 @@
+[data]
+
+caption="“No known cure?!”"
+image="201_Applejack.png"
+dub_timestamps=[4.864]
+dub_characters=["Applejack"]

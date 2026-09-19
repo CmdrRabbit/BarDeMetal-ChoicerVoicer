@@ -1,0 +1,6 @@
+[data]
+
+caption="“Celestia, Luna, Cadance, Shining Armour, Flurry Heart, Twilight and her friends! We need to-”"
+image="220_Starlight.png"
+dub_timestamps=[168.260]
+dub_characters=["Starlight"]

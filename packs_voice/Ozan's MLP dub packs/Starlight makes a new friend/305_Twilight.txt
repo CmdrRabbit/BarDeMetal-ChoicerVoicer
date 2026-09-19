@@ -1,0 +1,6 @@
+[data]
+
+caption="“Powerful?”"
+image="305_Twilight.png"
+dub_timestamps=[67.119]
+dub_characters=["Twilight"]

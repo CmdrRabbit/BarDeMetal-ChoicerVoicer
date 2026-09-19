@@ -1,0 +1,6 @@
+[data]
+
+caption="“I never thought that it'd be able to track me... But now... it has...”"
+image="12_Bonbon.png"
+dub_timestamps=[68.014]
+dub_characters=["Bonbon"]

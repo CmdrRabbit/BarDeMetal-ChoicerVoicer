@@ -1,0 +1,100 @@
+{
+  "title": "DBZ - GOKU abandonne pour aller au malifood",
+  "subtitle": "GOKU abandonne son combat contre Cell pour aller au malifood",
+  "authors": [
+    "xxweegeeplxx"
+  ],
+  "sourceFile": "Pub Mali Food 77 eeehhh Mali food .mp4",
+  "hasDubVideo": true,
+  "generatedAt": "2026-09-15T12:16:57.351Z",
+  "markers": [
+    {
+      "order": 1,
+      "filename": "001_GOKU1.wav",
+      "start": 5.805,
+      "end": 13.8,
+      "character": "GOKU",
+      "caption": "J'abandonne le combat Cell.  J'ai beaucoup trop faim pour continuer à te combattre. Je vais aller manger un bon maffé au Malifood et je reviendrai me battre"
+    },
+    {
+      "order": 2,
+      "filename": "002_CELL1.wav",
+      "start": 13.8,
+      "end": 16,
+      "character": "CELL",
+      "caption": "EH MALIFOOD?!"
+    },
+    {
+      "order": 3,
+      "filename": "003_VEGETA.wav",
+      "start": 16,
+      "end": 18.6,
+      "character": "VEGETA",
+      "caption": "QUOI?! IL VEUT ALLER AU MALIFOOD SANS NOUS?"
+    },
+    {
+      "order": 4,
+      "filename": "004_KRILLIN.wav",
+      "start": 18.6,
+      "end": 21.5,
+      "character": "KRILLIN",
+      "caption": "Une décision vraiment..."
+    },
+    {
+      "order": 5,
+      "filename": "005_TRUNKS.wav",
+      "start": 21.5,
+      "end": 23,
+      "character": "TRUNKS",
+      "caption": "TUE L'HOMME CREVETTE"
+    },
+    {
+      "order": 6,
+      "filename": "006_TEN_SHIN_HAN.wav",
+      "start": 23,
+      "end": 25.5,
+      "character": "TEN SHIN HAN",
+      "caption": "ti ma cocumbie counia manmanw"
+    },
+    {
+      "order": 7,
+      "filename": "007_Cojan.wav",
+      "start": 25.5,
+      "end": 26.6,
+      "character": "GOHAN",
+      "caption": "*OH*"
+    },
+    {
+      "order": 8,
+      "filename": "008_PICCOLO.wav",
+      "start": 26.6,
+      "end": 30.021,
+      "character": "PICCOLO",
+      "caption": "TU N'A PAS LE DROIT D'ALLER MANGER AU MALIFOOD SANS NOUS!"
+    },
+    {
+      "order": 9,
+      "filename": "009_CELL2.wav",
+      "start": 30.021,
+      "end": 35.55,
+      "character": "CELL",
+      "caption": "Ouah sangoku ramène moi les aloco et les pastel sinon je détruit toute la terre ouais"
+    },
+    {
+      "order": 10,
+      "filename": "010_GOKU2.wav",
+      "start": 35.55,
+      "end": 39.4,
+      "character": "GOKU",
+      "caption": "Ne t'en fais pas Cell, je t'apporterais tes aloco et tes pastel"
+    },
+    {
+      "order": 11,
+      "filename": "011_GOKU3.wav",
+      "start": 39.4,
+      "end": 43.979,
+      "character": "GOKU",
+      "caption": "Il est temps pour moi d'y aller, on se retrouve à lieusaint les amis!"
+    }
+  ]
+}

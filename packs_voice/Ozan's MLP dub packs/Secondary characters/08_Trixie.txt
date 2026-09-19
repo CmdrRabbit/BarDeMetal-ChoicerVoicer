@@ -1,0 +1,6 @@
+[data]
+
+caption="“If Starlight says you're on our side, I believe her. But maybe just stay over there for now, Okay?”"
+image="08_Trixie.png"
+dub_timestamps=[98.189]
+dub_characters=["Trixie"]

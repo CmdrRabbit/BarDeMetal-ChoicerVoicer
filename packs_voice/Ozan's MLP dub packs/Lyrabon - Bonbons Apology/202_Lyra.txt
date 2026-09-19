@@ -1,0 +1,6 @@
+[data]
+
+caption="“No, I did not.”"
+image="202_Lyra.png"
+dub_timestamps=[21.563]
+dub_characters=["Lyra"]

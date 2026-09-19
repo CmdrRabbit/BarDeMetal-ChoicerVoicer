@@ -1,0 +1,6 @@
+[data]
+
+caption="“Trixie, this is Thorax, he's a reformed Changeling”"
+image="213_Starlight.png"
+dub_timestamps=[87.018]
+dub_characters=["Starlight"]

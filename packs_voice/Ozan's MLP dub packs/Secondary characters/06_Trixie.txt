@@ -1,0 +1,6 @@
+[data]
+
+caption="“We're doomed!”"
+image="06_Trixie.png"
+dub_timestamps=[29.140]
+dub_characters=["Trixie"]

@@ -1,0 +1,76 @@
+{
+  "title": "Dragon Ball Z - Cell va manger au Malifood - VF/FRA",
+  "subtitle": "L'iconique scène de malifood entre picolo et Cell",
+  "authors": [
+    "xxweegeeplxx"
+  ],
+  "sourceFile": "Cell a manger du poulet au restaurant MALI FOOD.mp4",
+  "hasDubVideo": true,
+  "generatedAt": "2026-09-15T10:08:29.574Z",
+  "markers": [
+    {
+      "order": 1,
+      "filename": "001_Cell_01.wav",
+      "start": 6.4,
+      "end": 12.1,
+      "character": "Cell",
+      "caption": "Waa picolo ton grosse tête de namek qu'est ce qui t'arrive? Pourquoi tu ne bouge pas ouais? Tu n'a pas mangé?"
+    },
+    {
+      "order": 2,
+      "filename": "002_Picolo_01.wav",
+      "start": 12.1,
+      "end": 16.281,
+      "character": "Piccolo",
+      "caption": "Il y a une odeur de poulet qui dégage de son aura je suis sur de la connaitre!"
+    },
+    {
+      "order": 3,
+      "filename": "003_Cell_02.wav",
+      "start": 16.281,
+      "end": 20.8,
+      "character": "Cell",
+      "caption": "\"HE HE HE HE HE \"    \"HE HE HE HE HE\""
+    },
+    {
+      "order": 4,
+      "filename": "004_Picolo_02.wav",
+      "start": 20.8,
+      "end": 28.296,
+      "character": "Piccolo",
+      "caption": "Attend CELL, ce n'est pas possible!  Ton énergie dégage une odeur de poullet Yassa! Ou est que tu est parti manger?!"
+    },
+    {
+      "order": 5,
+      "filename": "005_Cell_03.wav",
+      "start": 28.296,
+      "end": 36.328,
+      "character": "Cell",
+      "caption": "Moi je suis parti manger  à MALIFOOD de lieusaint \"Hé Hé\" rue de de paris et ils mon servis du poulet yassa avec aloco et bissap"
+    },
+    {
+      "order": 6,
+      "filename": "006_line_09.wav",
+      "start": 36.328,
+      "end": 37.6,
+      "character": "Piccolo",
+      "caption": "QUOI?!?"
+    },
+    {
+      "order": 7,
+      "filename": "007_Cell_4.wav",
+      "start": 37.6,
+      "end": 42.7,
+      "character": "Cell",
+      "caption": "Ah je vais absorber C17 et C18 et je retourne a malifood ouais"
+    },
+    {
+      "order": 8,
+      "filename": "008_Picolo_4.wav",
+      "start": 42.7,
+      "end": 45.883,
+      "character": "Piccolo",
+      "caption": "Ahhhh c'est incroyable..."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Shall I continue?”"
+image="505_Discord.png"
+dub_timestamps=[161.205]
+dub_characters=["Discord"]

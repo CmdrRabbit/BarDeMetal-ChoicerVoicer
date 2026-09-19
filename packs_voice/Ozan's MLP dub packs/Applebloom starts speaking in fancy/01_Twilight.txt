@@ -1,0 +1,6 @@
+[data]
+
+caption="“It says here there's no known cure!”"
+image="01_Twilight.png"
+dub_timestamps=[2.122]
+dub_characters=["Twilight"]

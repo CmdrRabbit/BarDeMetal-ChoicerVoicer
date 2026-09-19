@@ -1,0 +1,6 @@
+[data]
+
+caption="“Princess Twilight said:”"
+image="305_Thorax.png"
+dub_timestamps=[70.905]
+dub_characters=["Thorax"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hi, it's a pleasure to-”"
+image="306_Thorax.png"
+dub_timestamps=[95.776]
+dub_characters=["Thorax"]

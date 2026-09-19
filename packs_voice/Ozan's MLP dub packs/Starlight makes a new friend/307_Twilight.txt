@@ -1,0 +1,6 @@
+[data]
+
+caption="“You could say that.”"
+image="307_Twilight.png"
+dub_timestamps=[80.634]
+dub_characters=["Twilight"]

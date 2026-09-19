@@ -1,0 +1,6 @@
+[data]
+
+caption="“They took Fluttershy?”"
+image="507_Discord.png"
+dub_timestamps=[173.870]
+dub_characters=["Discord"]

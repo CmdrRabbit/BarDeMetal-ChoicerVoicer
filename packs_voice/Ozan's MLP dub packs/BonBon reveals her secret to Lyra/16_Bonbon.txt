@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'll see you at the wedding.”"
+image="16_Bonbon.png"
+dub_timestamps=[98.545]
+dub_characters=["Bonbon"]

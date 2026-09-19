@@ -1,0 +1,6 @@
+[data]
+
+caption="“I... I don't know”"
+image="216_Starlight.png"
+dub_timestamps=[124.717]
+dub_characters=["Starlight"]

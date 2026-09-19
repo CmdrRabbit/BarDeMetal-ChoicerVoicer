@@ -1,0 +1,6 @@
+[data]
+
+caption="“-Okay, Okay, I believe you! We don't need the whole speech.”"
+image="212_Starlight.png"
+dub_timestamps=[81.040]
+dub_characters=["Starlight"]

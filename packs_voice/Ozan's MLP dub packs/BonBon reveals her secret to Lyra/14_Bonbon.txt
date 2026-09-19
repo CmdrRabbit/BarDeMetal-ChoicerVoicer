@@ -1,0 +1,6 @@
+[data]
+
+caption="“It was all real. You're my very best friend.”"
+image="14_Bonbon.png"
+dub_timestamps=[87.368]
+dub_characters=["Bonbon"]

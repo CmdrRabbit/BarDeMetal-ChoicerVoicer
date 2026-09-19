@@ -1,0 +1,6 @@
+[data]
+
+caption="“And obviously Twilight and the others.”"
+image="205_Starlight.png"
+dub_timestamps=[35.239]
+dub_characters=["Starlight"]

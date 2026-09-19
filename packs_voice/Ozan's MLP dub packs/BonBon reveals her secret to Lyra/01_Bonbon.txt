@@ -1,0 +1,6 @@
+[data]
+
+caption="“I have to admit, when Matilda said we needed this place ready by today, I was a little nervous.”"
+image="01_Bonbon.png"
+dub_timestamps=[0.893]
+dub_characters=["Bonbon"]

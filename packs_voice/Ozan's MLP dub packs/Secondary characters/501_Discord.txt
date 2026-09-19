@@ -1,0 +1,6 @@
+[data]
+
+caption="“You know whenever ponies talk about powerful magic, they always leave me out.”"
+image="501_Discord.png"
+dub_timestamps=[135.423]
+dub_characters=["Discord"]

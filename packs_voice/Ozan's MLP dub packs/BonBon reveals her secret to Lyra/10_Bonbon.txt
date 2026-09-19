@@ -1,0 +1,6 @@
+[data]
+
+caption="“Celestia demanded complete deniability.”"
+image="10_Bonbon.png"
+dub_timestamps=[57.801]
+dub_characters=["Bonbon"]

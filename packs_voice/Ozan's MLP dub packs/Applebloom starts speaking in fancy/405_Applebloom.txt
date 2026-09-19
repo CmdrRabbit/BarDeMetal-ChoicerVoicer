@@ -1,0 +1,6 @@
+[data]
+
+caption="“*gasp* Qu'est Que C'est?!”"
+image="405_Applebloom.png"
+dub_timestamps=[20.163]
+dub_characters=["Applebloom"]

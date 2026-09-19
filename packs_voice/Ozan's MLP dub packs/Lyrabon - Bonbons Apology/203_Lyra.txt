@@ -1,0 +1,6 @@
+[data]
+
+caption="“And you're not the only one with a secret, y'know.”"
+image="203_Lyra.png"
+dub_timestamps=[24.311]
+dub_characters=["Lyra"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Trixie!?”"
+image="306_Twilight.png"
+dub_timestamps=[73.298]
+dub_characters=["Twilight"]

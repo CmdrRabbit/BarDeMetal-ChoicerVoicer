@@ -1,0 +1,6 @@
+[data]
+
+caption="“*tiny gasp* They took Cadance, Shining Armour AND Flurry Heart!”"
+image="307_Thorax.png"
+dub_timestamps=[109.603]
+dub_characters=["Thorax"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“When it escaped, we had to shutter the whole agency... Every last shred of evidence of the organisation in existance was destroyed.”"
+image="09_Bonbon.png"
+dub_timestamps=[51.126]
+dub_characters=["Bonbon"]

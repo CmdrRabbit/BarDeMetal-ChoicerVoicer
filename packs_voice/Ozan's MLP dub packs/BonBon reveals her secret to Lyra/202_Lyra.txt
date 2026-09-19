@@ -1,0 +1,6 @@
+[data]
+
+caption="“I knew we'd get it done in time.”"
+image="202_Lyra.png"
+dub_timestamps=[7.633]
+dub_characters=["Lyra"]

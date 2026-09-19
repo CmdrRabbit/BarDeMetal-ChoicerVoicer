@@ -1,0 +1,6 @@
+[data]
+
+caption="“*deep sigh* This is just what I needed”"
+image="01_Starlight.png"
+dub_timestamps=[10.144]
+dub_characters=["Starlight"]

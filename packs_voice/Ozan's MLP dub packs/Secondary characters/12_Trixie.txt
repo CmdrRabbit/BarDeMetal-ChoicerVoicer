@@ -1,0 +1,6 @@
+[data]
+
+caption="“*Worried noise* I think I have a pretty good idea where she might be...”"
+image="12_Trixie.png"
+dub_timestamps=[192.272]
+dub_characters=["Trixie"]

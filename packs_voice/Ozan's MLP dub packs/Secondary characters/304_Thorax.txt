@@ -1,0 +1,6 @@
+[data]
+
+caption="“You were there when Spike defended me to the Ponies of the Crystal Empire.”"
+image="304_Thorax.png"
+dub_timestamps=[66.900]
+dub_characters=["Thorax"]

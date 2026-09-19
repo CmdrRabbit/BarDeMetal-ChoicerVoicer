@@ -1,0 +1,6 @@
+[data]
+
+caption="“What is it this time? A creature from The Everfree Forest?”"
+image="04_Bonbon.png"
+dub_timestamps=[23.276]
+dub_characters=["Bonbon"]

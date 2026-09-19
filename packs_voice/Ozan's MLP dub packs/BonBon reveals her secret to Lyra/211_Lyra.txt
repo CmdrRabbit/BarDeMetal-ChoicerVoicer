@@ -1,0 +1,6 @@
+[data]
+
+caption="“None of that was real?”"
+image="211_Lyra.png"
+dub_timestamps=[85.014]
+dub_characters=["Lyra"]

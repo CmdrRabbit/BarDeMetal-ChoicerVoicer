@@ -1,0 +1,6 @@
+[data]
+
+caption="“The cause of the breakout was never discovered.”"
+image="02_Twilight.png"
+dub_timestamps=[7.138]
+dub_characters=["Twilight"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Attention, everypony!”"
+image="01_Bonbon.png"
+dub_timestamps=[0.168]
+dub_characters=["Bonbon"]

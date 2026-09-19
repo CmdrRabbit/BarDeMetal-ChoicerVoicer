@@ -1,0 +1,6 @@
+[data]
+
+caption="“But the Changelings have all the Princesses!”"
+image="05_Trixie.png"
+dub_timestamps=[27.474]
+dub_characters=["Trixie"]

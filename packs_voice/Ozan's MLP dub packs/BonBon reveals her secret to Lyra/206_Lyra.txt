@@ -1,0 +1,6 @@
+[data]
+
+caption="“What are you talking about, Bonbon...?”"
+image="206_Lyra.png"
+dub_timestamps=[34.188]
+dub_characters=["Lyra"]

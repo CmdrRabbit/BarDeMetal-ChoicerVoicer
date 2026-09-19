@@ -1,0 +1,6 @@
+[data]
+
+caption="“No known cure?!”"
+image="301_Spike.png"
+dub_timestamps=[4.864]
+dub_characters=["Spike"]

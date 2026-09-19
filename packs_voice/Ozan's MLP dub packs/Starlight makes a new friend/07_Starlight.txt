@@ -1,0 +1,6 @@
+[data]
+
+caption="“I may have been a....tiiiny bit... completely and utterly evil...”"
+image="07_Starlight.png"
+dub_timestamps=[34.563]
+dub_characters=["Starlight"]

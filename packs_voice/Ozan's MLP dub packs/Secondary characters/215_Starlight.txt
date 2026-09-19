@@ -1,0 +1,6 @@
+[data]
+
+caption="“What did you mean there's no help? Did the Changelings get Cadance too?”"
+image="215_Starlight.png"
+dub_timestamps=[105.527]
+dub_characters=["Starlight"]

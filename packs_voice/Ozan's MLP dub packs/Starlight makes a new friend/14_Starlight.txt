@@ -1,0 +1,6 @@
+[data]
+
+caption="“*Whispers* That's kind of a mouthfull?”"
+image="14_Starlight.png"
+dub_timestamps=[113.291]
+dub_characters=["Starlight"]

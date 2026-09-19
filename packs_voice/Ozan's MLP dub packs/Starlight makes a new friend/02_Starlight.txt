@@ -1,0 +1,6 @@
+[data]
+
+caption="“You ever have one of those days?”"
+image="02_Starlight.png"
+dub_timestamps=[16.023]
+dub_characters=["Starlight"]

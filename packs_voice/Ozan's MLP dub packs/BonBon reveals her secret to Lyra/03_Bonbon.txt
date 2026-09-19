@@ -1,0 +1,6 @@
+[data]
+
+caption="“What was that?”"
+image="03_Bonbon.png"
+dub_timestamps=[19.319]
+dub_characters=["Bonbon"]

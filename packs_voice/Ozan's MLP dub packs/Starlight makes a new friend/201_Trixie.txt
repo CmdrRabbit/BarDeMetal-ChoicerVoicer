@@ -1,0 +1,6 @@
+[data]
+
+caption="“*sigh* Tell me about it.”"
+image="201_Trixie.png"
+dub_timestamps=[13.437]
+dub_characters=["Trixie"]

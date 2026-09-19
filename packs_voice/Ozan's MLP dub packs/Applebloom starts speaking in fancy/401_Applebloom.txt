@@ -1,0 +1,6 @@
+[data]
+
+caption="“No known cure?!”"
+image="401_Applebloom.png"
+dub_timestamps=[4.864]
+dub_characters=["Applebloom"]

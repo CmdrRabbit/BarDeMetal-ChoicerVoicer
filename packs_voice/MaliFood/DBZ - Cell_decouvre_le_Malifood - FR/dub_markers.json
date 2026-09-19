@@ -1,0 +1,60 @@
+{
+  "title": "DBZ - Cell découvre le Malifood - FR",
+  "subtitle": "le moment clé quand cell a découvert Malifood",
+  "authors": [
+    "xxweegeeplxx"
+  ],
+  "sourceFile": "Comment Cell a découvert le MALIFOOD .mp4",
+  "hasDubVideo": true,
+  "generatedAt": "2026-09-16T08:30:31.524Z",
+  "markers": [
+    {
+      "order": 1,
+      "filename": "001_CELL1.wav",
+      "start": 1.782,
+      "end": 5.018,
+      "character": "CELL",
+      "caption": "*Tchhhip*"
+    },
+    {
+      "order": 2,
+      "filename": "002_Civil1.wav",
+      "start": 5.018,
+      "end": 10.693,
+      "character": "Civil",
+      "caption": "*cris de Peur*"
+    },
+    {
+      "order": 3,
+      "filename": "003_CELL2.wav",
+      "start": 10.693,
+      "end": 15.08,
+      "character": "CELL",
+      "caption": "Dis moi ou on mange le poulet Yassa et les alloco dans cette ville ouais"
+    },
+    {
+      "order": 4,
+      "filename": "004_CIVIL2.wav",
+      "start": 15.08,
+      "end": 19.33,
+      "character": "Civil",
+      "caption": "*accent créole* Si vous vlez manger bon poulet, fo way Malifood lieusaint "
+    },
+    {
+      "order": 5,
+      "filename": "005_CELL3.wav",
+      "start": 19.33,
+      "end": 24.814,
+      "character": "CELL",
+      "caption": "Wa merci ton grosse tête la!"
+    },
+    {
+      "order": 6,
+      "filename": "006_Civil3.wav",
+      "start": 24.814,
+      "end": 27,
+      "character": "Civil",
+      "caption": "*cris de Peur*"
+    }
+  ]
+}

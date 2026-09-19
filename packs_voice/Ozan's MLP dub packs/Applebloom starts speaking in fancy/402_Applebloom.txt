@@ -1,0 +1,6 @@
+[data]
+
+caption="“Oh no!”"
+image="402_Applebloom.png"
+dub_timestamps=[13.410]
+dub_characters=["Applebloom"]

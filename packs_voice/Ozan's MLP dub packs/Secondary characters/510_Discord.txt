@@ -1,0 +1,6 @@
+[data]
+
+caption="“I was trying to take us right to Futtershy but there is no Fluttershy.”"
+image="510_Discord.png"
+dub_timestamps=[184.922]
+dub_characters=["Discord"]

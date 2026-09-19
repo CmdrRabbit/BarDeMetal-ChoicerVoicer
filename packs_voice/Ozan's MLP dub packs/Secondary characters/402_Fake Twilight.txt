@@ -1,0 +1,6 @@
+[data]
+
+caption="“But today, it was Spike who taught me-”"
+image="402_Fake Twilight.png"
+dub_timestamps=[78.397]
+dub_characters=["Fake Twilight"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“I cooked them up and ate them!”"
+image="205_Lyra.png"
+dub_timestamps=[32.410]
+dub_characters=["Lyra"]

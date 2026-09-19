@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm not from here either.”"
+image="04_Starlight.png"
+dub_timestamps=[25.839]
+dub_characters=["Starlight"]

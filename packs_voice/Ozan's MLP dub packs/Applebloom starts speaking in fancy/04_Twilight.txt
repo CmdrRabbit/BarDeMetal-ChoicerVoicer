@@ -1,0 +1,6 @@
+[data]
+
+caption="“She needs help! (so real for that)”"
+image="04_Twilight.png"
+dub_timestamps=[27.035]
+dub_characters=["Twilight"]

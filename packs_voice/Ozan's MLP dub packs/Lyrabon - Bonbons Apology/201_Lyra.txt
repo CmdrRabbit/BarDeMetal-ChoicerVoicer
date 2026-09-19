@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hello.”"
+image="201_Lyra.png"
+dub_timestamps=[10.127]
+dub_characters=["Lyra"]

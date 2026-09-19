@@ -1,0 +1,6 @@
+[data]
+
+caption="“Plus de Marques de Cutie!”"
+image="404_Applebloom.png"
+dub_timestamps=[18.205]
+dub_characters=["Applebloom"]

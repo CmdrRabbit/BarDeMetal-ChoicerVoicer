@@ -1,0 +1,6 @@
+[data]
+
+caption="“You're right. I trust you. Just be back in time for the dinner.”"
+image="315_Twilight.png"
+dub_timestamps=[153.295]
+dub_characters=["Twilight"]

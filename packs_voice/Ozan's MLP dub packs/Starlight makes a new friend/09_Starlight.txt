@@ -1,0 +1,6 @@
+[data]
+
+caption="“Twilight, guess what, I made a new friend!”"
+image="09_Starlight.png"
+dub_timestamps=[59.091]
+dub_characters=["Starlight"]

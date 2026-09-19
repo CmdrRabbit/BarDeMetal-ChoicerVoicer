@@ -1,0 +1,6 @@
+[data]
+
+caption="“*still gasping for air”"
+image="02_Trixie.png"
+dub_timestamps=[20.701]
+dub_characters=["Trixie"]

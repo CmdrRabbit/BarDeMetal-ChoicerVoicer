@@ -1,0 +1,6 @@
+[data]
+
+caption="“Uh, Queen Chrysalis only said they took Luna and Celestia”"
+image="204_Starlight.png"
+dub_timestamps=[32.285]
+dub_characters=["Starlight"]

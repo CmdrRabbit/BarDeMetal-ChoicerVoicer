@@ -1,0 +1,6 @@
+[data]
+
+caption="“Y'know those expensive imported oats you were saving for a special occasion?”"
+image="204_Lyra.png"
+dub_timestamps=[27.267]
+dub_characters=["Lyra"]

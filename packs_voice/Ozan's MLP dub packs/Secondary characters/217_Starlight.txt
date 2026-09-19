@@ -1,0 +1,6 @@
+[data]
+
+caption="“There has to be some pony else who can handle this!”"
+image="217_Starlight.png"
+dub_timestamps=[127.508]
+dub_characters=["Starlight"]

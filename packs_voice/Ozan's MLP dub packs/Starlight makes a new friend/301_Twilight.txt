@@ -1,0 +1,6 @@
+[data]
+
+caption="“Soup spoon, Salad fork, pasta spoon, Strawberry pick!”"
+image="301_Twilight.png"
+dub_timestamps=[48.620]
+dub_characters=["Twilight"]

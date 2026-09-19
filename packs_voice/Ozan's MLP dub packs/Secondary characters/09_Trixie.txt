@@ -1,0 +1,6 @@
+[data]
+
+caption="“Yeah Starlight, What are we gonna do?”"
+image="09_Trixie.png"
+dub_timestamps=[121.805]
+dub_characters=["Trixie"]

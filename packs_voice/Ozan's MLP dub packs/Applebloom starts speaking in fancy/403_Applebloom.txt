@@ -1,0 +1,6 @@
+[data]
+
+caption="“Sacre bleu!”"
+image="403_Applebloom.png"
+dub_timestamps=[17.002]
+dub_characters=["Applebloom"]

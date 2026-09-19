@@ -1,0 +1,6 @@
+[data]
+
+caption="“Theres some monster attacking Ponyville or something...”"
+image="204_Lyra.png"
+dub_timestamps=[20.866]
+dub_characters=["Lyra"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“And the Cutie Pocks dissapeared as mysteriously as they arrived!”"
+image="03_Twilight.png"
+dub_timestamps=[9.734]
+dub_characters=["Twilight"]

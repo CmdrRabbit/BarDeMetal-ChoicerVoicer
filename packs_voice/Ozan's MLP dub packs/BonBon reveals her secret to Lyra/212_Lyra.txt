@@ -1,0 +1,6 @@
+[data]
+
+caption="“Fine. But we're gonna talk about this later!”"
+image="212_Lyra.png"
+dub_timestamps=[101.258]
+dub_characters=["Lyra"]

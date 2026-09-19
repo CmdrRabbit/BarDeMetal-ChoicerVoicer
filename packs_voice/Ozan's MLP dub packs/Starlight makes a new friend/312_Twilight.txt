@@ -1,0 +1,6 @@
+[data]
+
+caption="“Its just...”"
+image="312_Twilight.png"
+dub_timestamps=[139.475]
+dub_characters=["Twilight"]

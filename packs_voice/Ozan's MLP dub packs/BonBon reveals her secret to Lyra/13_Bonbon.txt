@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm sorry, Lyra, I couldn't tell you for your own protection!”"
+image="13_Bonbon.png"
+dub_timestamps=[76.699]
+dub_characters=["Bonbon"]

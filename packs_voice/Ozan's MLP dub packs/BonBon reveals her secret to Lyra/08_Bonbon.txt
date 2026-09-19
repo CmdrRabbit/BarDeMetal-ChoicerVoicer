@@ -1,0 +1,6 @@
+[data]
+
+caption="“or at least I did until the Bugbear went missing from Tartarus a few years back.”"
+image="08_Bonbon.png"
+dub_timestamps=[44.632]
+dub_characters=["Bonbon"]

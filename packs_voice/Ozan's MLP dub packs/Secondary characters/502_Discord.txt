@@ -1,0 +1,6 @@
+[data]
+
+caption="“If I werent so evolved I might decide to take it personally.”"
+image="502_Discord.png"
+dub_timestamps=[139.572]
+dub_characters=["Discord"]

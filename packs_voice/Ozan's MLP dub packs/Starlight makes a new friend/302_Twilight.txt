@@ -1,0 +1,6 @@
+[data]
+
+caption="“I'm beginning to think that, after friendship, the greatest magic of all... Is proper silverware placement! *chuckles to self*”"
+image="302_Twilight.png"
+dub_timestamps=[52.202]
+dub_characters=["Twilight"]

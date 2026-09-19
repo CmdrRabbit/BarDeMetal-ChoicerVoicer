@@ -1,0 +1,6 @@
+[data]
+
+caption="“*annoyed sigh*”"
+image="317_Twilight.png"
+dub_timestamps=[166.056]
+dub_characters=["Twilight"]

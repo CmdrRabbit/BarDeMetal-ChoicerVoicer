@@ -1,0 +1,6 @@
+[data]
+
+caption="“My name isn't Bonbon... It's Special Agent Sweetie drops... I work for a super secret anti monster agency in Canterlot.”"
+image="07_Bonbon.png"
+dub_timestamps=[37.157]
+dub_characters=["Bonbon"]

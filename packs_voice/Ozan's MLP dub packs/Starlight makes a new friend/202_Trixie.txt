@@ -1,0 +1,6 @@
+[data]
+
+caption="“For me, they're all one of those days.”"
+image="202_Trixie.png"
+dub_timestamps=[18.183]
+dub_characters=["Trixie"]

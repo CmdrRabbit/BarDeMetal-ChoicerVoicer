@@ -1,0 +1,6 @@
+[data]
+
+caption="“Where are Twilight and the girls?”"
+image="504_Discord.png"
+dub_timestamps=[147.955]
+dub_characters=["Discord"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Princess...”"
+image="206_Trixie.png"
+dub_timestamps=[69.769]
+dub_characters=["Trixie"]

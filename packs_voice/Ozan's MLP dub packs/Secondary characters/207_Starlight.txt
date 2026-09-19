@@ -1,0 +1,6 @@
+[data]
+
+caption="“Our best bet is to get to the Crystal Empire before the Changelings do.”"
+image="207_Starlight.png"
+dub_timestamps=[39.047]
+dub_characters=["Starlight"]

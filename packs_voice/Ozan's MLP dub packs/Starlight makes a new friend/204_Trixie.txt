@@ -1,0 +1,6 @@
+[data]
+
+caption="“Ponies judge me on my past too.”"
+image="204_Trixie.png"
+dub_timestamps=[40.487]
+dub_characters=["Trixie"]

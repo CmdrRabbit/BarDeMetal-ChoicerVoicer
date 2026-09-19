@@ -1,0 +1,6 @@
+[data]
+
+caption="“Everypony with powerful magic is already gone!”"
+image="11_Trixie.png"
+dub_timestamps=[132.176]
+dub_characters=["Trixie"]

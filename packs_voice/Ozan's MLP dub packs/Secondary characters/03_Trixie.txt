@@ -1,0 +1,6 @@
+[data]
+
+caption="“I can't deal with this! *gasp* I'm just a performer!”"
+image="03_Trixie.png"
+dub_timestamps=[21.963]
+dub_characters=["Trixie"]
