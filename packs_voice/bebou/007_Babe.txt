@@ -1,0 +1,6 @@
+[data]
+
+caption="Est-ce que tu me gnogni 🥺😊❤️😻 ?"
+image="007_Babe.jpg"
+dub_timestamps=[13.967]
+dub_characters=["Babe"]

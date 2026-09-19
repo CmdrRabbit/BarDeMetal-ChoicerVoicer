@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "lose",
+		"game_winner": "win",
+		"intro_greet": "intro",
+		"score_0": "score0",
+		"score_1": "score1",
+		"score_2": "score2",
+		"score_3": "score3",
+		"score_4": "score4",
+		"score_5": "score5"
+	},
+	"color1": "35e1ea",
+	"color2": "ffffff",
+	"introduction": "I... Am",
+	"name": "Steve"
+}

@@ -1,0 +1,157 @@
+{
+	"host_type": "basic",
+	"match_multiplayer": {
+		"end": {
+			"congrats_goodbye": [
+				"Congratulations! Everybody did great! I hope to see you all next time on the Choicer Voicer!"
+			],
+			"final_score": [
+				"Okay, everyone, that's game! Now let's see which of our challengers came out on top!"
+			],
+			"tie_win": [
+				"My, my, looks like we've got a tie!"
+			],
+			"tie_win_end": [
+				"...and <player>!"
+			],
+			"tie_win_start": [
+				"That means today's winners are <player>..."
+			],
+			"winner": [
+				"Wow! Looks like today's winner is <player>!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Greetings, friends! Welcome to the Choicer Voicer!\nI'm <host_name>, and I'll be your host today!"
+			],
+			"b_contestants": [
+				"Let's all give a warm welcome to today's challengers!"
+			],
+			"c_judges": [
+				"And let's welcome our lovely panel of judges, as well!"
+			],
+			"d_explanation": [
+				"Our challengers today will have to match their voice to the clips we'll be presenting.",
+				"Buckle up, because it's time for the first round!"
+			]
+		},
+		"judging": {
+			"judged_player": [
+				"<points> for <player>!"
+			],
+			"post_judging": [
+				"...and there you have it!"
+			]
+		},
+		"round": {
+			"a_get_ready": [
+				"Alright, <player>, it's your turn!\nGood luck!"
+			],
+			"b_post_record": [
+				"You all did great! Let's hear how those came out!"
+			],
+			"c_post_listen": [
+				"Great performances all around, guys! Now let's hear from our judges!"
+			],
+			"round_final": [
+				"Looks like we're at the final round, everybody! It all rides on this!"
+			],
+			"round_next": [
+				"Alright then, contestants, it's time for round <round>!"
+			]
+		}
+	},
+	"match_singleplayer": {
+		"end": {
+			"final_score": [
+				"Okay, everyone, that's game! Now let's see how our challenger did!"
+			],
+			"lose_0": [
+				"0 points? Now that's a real shame...\nI'm sorry things turned out this way, but I'm sure you'll do better next time!"
+			],
+			"lose_barely": [
+				"Ouch! Looks like you lost just by a hair! Don't worry, though, I'm sure you'll get it next time!"
+			],
+			"lose_standard": [
+				"Aw, don't be sad! You might not have won this time, but I'm sure you'll do better next time!"
+			],
+			"win_100": [
+				"Wow! A perfect score!\nYou don't see that every day!\nCongratulations!"
+			],
+			"win_barely": [
+				"Way to hang in there! Congratulations!"
+			],
+			"win_standard": [
+				"Looks like you won! I'm sorry we don't have a prize for you, but I hope you'll come back again!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Greetings, friends! Welcome to the Choicer Voicer!\nI'm <host_name>, and I'll be your host today!"
+			],
+			"b_contestant": [
+				"Let's all give a warm welcome to our challenger, <player>!"
+			],
+			"c_judges": [
+				"And let's welcome our lovely panel of judges, as well!"
+			],
+			"d_explanation": [
+				"Our challenger today will have to match their voice to the clips we'll be presenting.",
+				"Buckle up, because it's time for the first round!"
+			]
+		},
+		"judging": {
+			"score_0": [
+				"Really?\nDid all of you forget to hit your buzzers or something?"
+			],
+			"score_1": [
+				"Look on the bright side, it could be worse!"
+			],
+			"score_2": [
+				"Not bad! Keep trying!"
+			],
+			"score_3": [
+				"Looks like you did a great job!"
+			],
+			"score_4": [
+				"Looks like you did a great job!"
+			],
+			"score_5": [
+				"Wow, look at that! Seems like you got a perfect score!\nHow wonderful!"
+			],
+			"score_6": [
+				"TEST"
+			]
+		},
+		"round": {
+			"b_post_record": [
+				"Wonderful. Let's play that back..."
+			],
+			"c_post_listen": [
+				"A spectacular performance! Now let's hear from our judges!"
+			],
+			"round_final": [
+				"Looks like we're at the final round, everybody! It all rides on this!"
+			],
+			"round_next": [
+				"Alright then, get ready for round <round>!"
+			]
+		}
+	},
+	"name": "Mr. Boss",
+	"twitch_standard": {
+		"a_audience_turn_1": [
+			"To everyone watching at home, now's the time to cast your vote. Get ready!"
+		],
+		"b_audience_turn_2": [
+			"Let's see if <player> made you smile!"
+		],
+		"c_polls_closed": [
+			"And that's that! Let's see our verdict!"
+		],
+		"intro_audience": [
+			"...and you're going to be voting today, viewers! That's right, everyone watching at home gets to cast their vote!"
+		]
+	}
+}

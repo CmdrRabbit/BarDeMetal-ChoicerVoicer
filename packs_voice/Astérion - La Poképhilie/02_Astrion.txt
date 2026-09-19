@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Je voulais vous parler d'un sujet assez TABOU et EPIQUE”"
+image="02_Astrion.png"
+dub_timestamps=[11.635]
+dub_characters=["Astrion"]

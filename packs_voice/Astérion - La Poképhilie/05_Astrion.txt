@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Mais me dire que nous n'avez jamais pensé à ceci serait mentir”"
+image="05_Astrion.png"
+dub_timestamps=[23.615]
+dub_characters=["Astrion"]

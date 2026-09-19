@@ -1,0 +1,6 @@
+[data]
+
+caption="“OH MY GAAH!”"
+image="202_Ayumu Kasuga.png"
+dub_timestamps=[13.892]
+dub_characters=["Ayumu Kasuga"]

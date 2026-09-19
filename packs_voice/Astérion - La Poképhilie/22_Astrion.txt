@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Avec leur attaques Hypnose, vous risquez de vous retrouver dans des situations auquel vous n'avez jamais songés...”"
+image="22_Astrion.png"
+dub_timestamps=[74.250]
+dub_characters=["Astrion"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="*grunts*"
+image="07_Chiyo-Chichi.png"
+dub_timestamps=[41.467]
+dub_characters=["Chiyo-Chichi"]

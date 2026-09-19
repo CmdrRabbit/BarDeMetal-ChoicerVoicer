@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Ne vous trompez pas de queue avec Dracaufeu, où vous risquez d'avoir le feu au cul”"
+image="18_Astrion.png"
+dub_timestamps=[64.175]
+dub_characters=["Astrion"]

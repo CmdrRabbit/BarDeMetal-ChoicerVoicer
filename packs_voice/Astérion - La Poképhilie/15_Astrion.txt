@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “A moins d'être sado-maso, ne demandez pas à un Insécateur où à un Kraboss de vous faire une branlette”"
+image="15_Astrion.png"
+dub_timestamps=[51.645]
+dub_characters=["Astrion"]

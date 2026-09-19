@@ -1,0 +1,6 @@
+[data]
+
+caption="“When will you wear wigs?”"
+image="04_Dom.png"
+dub_timestamps=[24.485]
+dub_characters=["Dom"]

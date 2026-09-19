@@ -1,0 +1,6 @@
+[data]
+
+caption="“Hello everynyan!”"
+image="01_Chiyo-Chichi.png"
+dub_timestamps=[7.631]
+dub_characters=["Chiyo-Chichi"]

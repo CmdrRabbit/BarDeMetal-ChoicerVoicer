@@ -1,0 +1,6 @@
+[data]
+
+caption="“Tori attara?”"
+image="204_Ayumu Kasuga.png"
+dub_timestamps=[24.544]
+dub_characters=["Ayumu Kasuga"]

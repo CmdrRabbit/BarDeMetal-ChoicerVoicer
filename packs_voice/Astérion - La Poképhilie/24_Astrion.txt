@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Celui qui demande une branlette à un smogo où à un Noenoeuf est une tête de noeud...”"
+image="24_Astrion.png"
+dub_timestamps=[84.399]
+dub_characters=["Astrion"]

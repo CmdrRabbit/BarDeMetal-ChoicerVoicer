@@ -1,0 +1,6 @@
+[data]
+
+caption="“No, I have not.”"
+image="202_Elijah.png"
+dub_timestamps=[20.195]
+dub_characters=["Elijah"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “tellement leur nombre est gigantesque...”"
+image="08_Astrion.png"
+dub_timestamps=[32.525]
+dub_characters=["Astrion"]

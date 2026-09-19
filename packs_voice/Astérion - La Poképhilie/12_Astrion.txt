@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “On pourrait même trouver une utilité pour le poireau du  Canartichaud”"
+image="12_Astrion.png"
+dub_timestamps=[41.587]
+dub_characters=["Astrion"]

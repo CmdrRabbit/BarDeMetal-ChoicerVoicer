@@ -1,0 +1,6 @@
+[data]
+
+caption="“BHAHAHAHAHAHA”"
+image="204_Elijah.png"
+dub_timestamps=[26.884]
+dub_characters=["Elijah"]

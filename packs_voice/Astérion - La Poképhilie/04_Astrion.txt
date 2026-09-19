@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Traitez moi de pervers si vous le voulez”"
+image="04_Astrion.png"
+dub_timestamps=[21.762]
+dub_characters=["Astrion"]

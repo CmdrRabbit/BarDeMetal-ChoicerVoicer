@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Rayage de casque si vous le faites avec un Pokémon de type roche ”"
+image="23_Astrion.png"
+dub_timestamps=[80.064]
+dub_characters=["Astrion"]

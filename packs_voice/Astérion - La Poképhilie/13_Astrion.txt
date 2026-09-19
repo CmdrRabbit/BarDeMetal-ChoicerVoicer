@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Cependant, il ne faut pas faire n'importe quoi avec n'importe quel pokémon”"
+image="13_Astrion.png"
+dub_timestamps=[45.574]
+dub_characters=["Astrion"]

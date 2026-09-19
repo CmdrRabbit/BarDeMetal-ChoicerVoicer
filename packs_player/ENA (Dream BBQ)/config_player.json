@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "lose",
+		"game_winner": "win",
+		"intro_greet": "greet",
+		"score_0": "score0",
+		"score_1": "score1",
+		"score_2": "score2",
+		"score_3": "score5",
+		"score_4": "score5",
+		"score_5": "score5"
+	},
+	"color1": "99c1cd",
+	"color2": "df3c35",
+	"introduction": "The two-faced salesperson,",
+	"name": "ƎNA"
+}

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Professeur John Victor à votre écoute, chers internautes du soir.”"
+image="01_Astrion.png"
+dub_timestamps=[7.104]
+dub_characters=["Astrion"]

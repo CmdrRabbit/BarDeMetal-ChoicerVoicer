@@ -1,0 +1,6 @@
+[data]
+
+caption="Est-ce que tu me gnok ? 🥰🥺😊"
+image="005_Babe.jpg"
+dub_timestamps=[8.682]
+dub_characters=["Babe"]

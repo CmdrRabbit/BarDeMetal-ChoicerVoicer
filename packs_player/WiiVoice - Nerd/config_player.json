@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "game_loser",
+		"game_winner": "game_winner",
+		"intro_greet": "talk_greet",
+		"score_0": "score_1",
+		"score_1": "score_1",
+		"score_2": "score_2",
+		"score_3": "score_3",
+		"score_4": "score_4",
+		"score_5": "score_5"
+	},
+	"name" : "Nerd Emoji",
+	"color1" : "E0E0E0",
+	"color2" : "483817",
+	"introduction" : "The best at doing death poses: "
+}

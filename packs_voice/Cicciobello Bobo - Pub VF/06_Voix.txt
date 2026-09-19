@@ -1,0 +1,6 @@
+[data]
+
+caption="“Cicciobello Bobo - il a toujours besoin de toi !”"
+image="Voix.png"
+dub_timestamps=[14.20]
+dub_characters=["Voix"]

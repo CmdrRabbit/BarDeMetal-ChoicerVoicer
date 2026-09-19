@@ -1,0 +1,6 @@
+[data]
+
+caption="“Oh tu es toujours malade.. essayons une piqûre”"
+image="Voix.png"
+dub_timestamps=[09.20]
+dub_characters=["Voix"]

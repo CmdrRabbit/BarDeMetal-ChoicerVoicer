@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Enfin bref, pour en revenir au sujet”"
+image="06_Astrion.png"
+dub_timestamps=[26.954]
+dub_characters=["Astrion"]

@@ -1,0 +1,83 @@
+{
+	"host_type" : "basic",
+	"name" : "Idksterling",
+	"match_singleplayer" : {
+		"intro" : {
+			"a_welcome" : [
+					"Alright my fellow skibidis and cameraheads, it's time to start this goofy ahh backrooms show",
+					"It's me, <host_name>. I will be your Pibby glitch-core host tonite"],
+			"b_contestant" : ["And here is the Huggywuggy PLUH wannabe.\nEveryone, welcome <player>!"],
+			"c_judges" : [
+				"These are our judges, they are no KaiCenat IShowSpeed Freddy Fazbear style sigmas, but they know how to mog",
+				"they have been edging to hear you goon so glhf"],
+			"d_explanation" : [
+				"You know how this Ohio thug shaker game operates, but I will explain it again",
+				"Hear funni, recreate funni",
+				"then our mewing judges will 1,2 buckle your shoe\nWho asked Amirite???",
+				"and now, main character,\nprove that you the GOAT!"]
+		},
+		"round" : {
+			"b_post_record" : ["sheeeeesh, <player>! Let's listen to that ASMR"],
+			"c_post_listen" : ["Chat, let's hear what the judges have to say"],
+			"round_next" : ["round <round>. Don't be a sussy baka now"],
+			"round_final" : [
+				"It is the W finale! Start the phonk music!",
+				"embrace the brainrot and give it your best!"]
+		},
+		"judging" : {
+			"score_0" : ["By Quandale Dingle, Big Chungus and holy Peppino, that was some real L"],
+			"score_1" : ["Ehrmm...what the sigma?\nBlud has no aura fr fr"],
+			"score_2" : ["Mid, are you from Ohio or something? smh"],
+			"score_3" : ["Keep yapping like that and you will fanum tax your way to W rizz victory"],
+			"score_4" : ["Someone cooked here!\nGonna hit that griddy baby Gronk style"],
+			"score_5" : ["THAT SHIT BUSSIN!!! LIL BRO'S SKIBIDI RIZZ WORKS!"]
+		},
+		"end" : {
+			"final_score" : ["Well, this is it, let's see if you are really goated with the sauce"],
+			"win_standard" : ["Rizztastic, 1000 vbucks will be sent to your fortnite account!"],
+			"win_barely" : ["Ayo, thought it was ohiover for you there, but your level 10 gyatt saved your skin!"],
+			"win_100" : [
+				"Just received a message that you have been invited to the next tiktok rizz party,",
+				"because your score is a perfect 100! You are a chad, a legend and a major goat!"],
+			"lose_standard" : ["If you maybe stopped gooning in yo cave you would have won this no cap"],
+			"lose_barely" : ["Oi Oi Oi, baka! You almost had this, what happened lil bro?"],
+			"lose_0" : [
+				"LMAOOOOOOOOOOOOO"]
+		}
+	},
+	"match_multiplayer" : {
+		"intro" : {
+			"a_welcome" : [
+					"Alright my fellow skibidis and cameraheads, it's time to start this goofy ahh backrooms show",
+					"It's me, <host_name>. I will be your Andrew Tate Pibby glitch-core host tonite"],
+			"b_contestants" : ["There's mutliple of you now? wha da heeeeeellll???"],
+			"c_judges" : ["I hope you are using the brainrot jury mod or I am coming for you"],
+			"d_explanation" : [
+				"You know how this Ohio thug shaker game operates, but I will explain it again",
+				"Hear funni, recreate funni",
+				"then our mewing judges will 1,2 buckle your shoe\nWho asked Amirite???",
+				"and now, main character,\nprove that you the GOAT!"]
+		},
+		"round" : {
+			"a_get_ready" : ["Oi oi oi, <player>,\ndon't be a sussy baka now!"],
+			"b_post_record" : ["gj ya all ya were bussin it real good out there G"],
+			"c_post_listen" : ["Chat, let's hear what the judges have to say"],
+			"round_next" : ["Those who know: only in balkans , it's round <round>! now!"],
+			"round_final" : [
+					"This is it my fellow GavinZBeats phonk listeners, the finale!",
+					"5 likes for part 2"]
+		},
+		"judging" : {
+			"judged_player" : ["This fella <player> gets whoopin <points>"],
+			"post_judging" : ["Hope you are not soyfacing or coping about your scores"]
+		},
+		"end" : {
+			"winner" : ["The winner today is <player>! Expect your vocal work to be seen in my next sigma compilation"],
+			"tie_win" : ["Huh?"],
+			"tie_win_start" : ["Multiple winners? there can only be one skibidi sigma...but ohio well... it's <player>..."],
+			"tie_win_end" : ["...and this guy, <player>!"],
+			"congrats_goodbye" : ["Never make me do multiplayer mode again you chudjaks, I work single"],
+			"final_score" : ["English or spanish? Here is the final score!"]
+		}
+	}
+}

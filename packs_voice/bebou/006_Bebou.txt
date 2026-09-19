@@ -1,0 +1,6 @@
+[data]
+
+caption="Je te gnok même 😘😻❤️"
+image="006_Bebou.jpg"
+dub_timestamps=[11.826]
+dub_characters=["Bebou"]

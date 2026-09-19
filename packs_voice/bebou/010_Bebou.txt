@@ -1,0 +1,6 @@
+[data]
+
+caption="Mmmmmmmmmmmmmmmmmmouaahhh 🥵🥰😻❤️😻😻"
+image="010_Bebou.jpg"
+dub_timestamps=[20.455]
+dub_characters=["Bebou"]

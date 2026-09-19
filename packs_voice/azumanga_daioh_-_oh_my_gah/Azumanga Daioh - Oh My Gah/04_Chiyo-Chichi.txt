@@ -1,0 +1,6 @@
+[data]
+
+caption="“Musume ga America ni iku no desu”"
+image="04_Chiyo-Chichi.png"
+dub_timestamps=[21.748]
+dub_characters=["Chiyo-Chichi"]

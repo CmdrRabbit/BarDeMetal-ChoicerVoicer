@@ -1,0 +1,6 @@
+[data]
+
+caption="“Nande anta e gosabettoru?”"
+image="203_Ayumu Kasuga.png"
+dub_timestamps=[19.123]
+dub_characters=["Ayumu Kasuga"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “IMAGINEZ ”"
+image="09_Astrion.png"
+dub_timestamps=[34.336]
+dub_characters=["Astrion"]

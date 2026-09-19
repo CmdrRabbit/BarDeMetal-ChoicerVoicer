@@ -1,0 +1,84 @@
+{
+	"host_type" : "basic",
+	"name" : "Matt",
+	"match_singleplayer" : {
+		"intro" : {
+			"a_welcome" : [
+					"It's yet again time to find out the one with the choicest voice in the game of Choicer Voicer!",
+					"Hello everyone I'm <host_name>. I shall be your host for tonight!"],
+			"b_contestant" : ["Let our tonight's contestant introduce themselves.\nTake it away <player>!"],
+			"c_judges" : [
+				"And of course let us not forget the familiar faces that will be rating <player>'s performance tonight...",
+				"Everyone please meet tonight's judges everyone!"],
+			"d_explanation" : [
+				"The rules of the game are quite simple.",
+				"Our contestant has to match a sound clip with their own voice.",
+				"Then our judges will rate accuracy of <player>'s performance",
+				"Without further a do...\nLet's jump right into it with the first round!"]
+		},
+		"round" : {
+			"b_post_record" : ["Thank you <player>! Let's hear your performance."],
+			"c_post_listen" : ["And now let's hear the opinion of the judges."],
+			"round_next" : ["It's now time for round <round>. Get ready <player>"],
+			"round_final" : [
+				"It's the final round!",
+				"I hope <player> is ready, because it's your final chance!\nMake it count!"]
+		},
+		"judging" : {
+			"score_0" : ["Well that sure was a doozy\nBetter luck next round!"],
+			"score_1" : ["It looks like the judges were not pleased with <player>'s performance\nHopefully the next round you'll do better!"],
+			"score_2" : ["Good attempt <player>, but I hope you'll do better next round!"],
+			"score_3" : ["That's a passing score. Keep going <player>!"],
+			"score_4" : ["You managed to impress the judges! Good job!"],
+			"score_5" : ["Oh that's perfect!\nWay to go <player>!"]
+		},
+		"end" : {
+			"final_score" : ["It's time to wrap it up!\nLet's see <player>'s final score!"],
+			"win_standard" : ["Congratulations!\nThat was an excellent performance all around!"],
+			"win_barely" : ["Congratulations!\nFor a second it looked like <player> wouldn't make it. Well done!"],
+			"win_100" : [
+				"Not everyday a contestant makes <host_name> surprised!",
+				"That's a perfect score <player>!\nCongratulations on having the Choicest Voice!"],
+			"lose_standard" : ["<player> had a good attempt this time round, but sadly it was not enough to win!\nBetter luck next time!"],
+			"lose_barely" : ["<player> came so close, but sadly it was not enough to win tonight\nYou have a great potential to win next time though!"],
+			"lose_0" : [
+				"Huh...",
+				"Thank you for watching everyone!"]
+		}
+	},
+	"match_multiplayer" : {
+		"intro" : {
+			"a_welcome" : [
+					"It's yet again time to find out the one with the choicest voice in the game of Choicer Voicer!",
+					"Hello everyone I'm <host_name>. I shall be your host for tonight!"],
+			"b_contestants" : ["And here are our tonight's contestants!"],
+			"c_judges" : ["Let's not forget about tonight's judges as well!"],
+			"d_explanation" : [
+				"For any new viewers and contestants alike, rules of the game are quite simple",
+				"Our contestants get provided with a sound clip that they have to match with their own voice as accurately as possible.",
+				"Then our judges will rate accuracy of contestant's performance",
+				"Without further a do...\nLet's jump right into it with the first round!"]
+		},
+		"round" : {
+			"a_get_ready" : ["<player>,\nget ready, it's your turn!"],
+			"b_post_record" : ["Thank you everyone! Let's see your performances."],
+			"c_post_listen" : ["Now let's hear opinions of our judges..."],
+			"round_next" : ["Everyone, get ready for the round <round>!"],
+			"round_final" : [
+					"It's now time for the final round everyone!",
+					"Contestants, make it count."]
+		},
+		"judging" : {
+			"judged_player" : ["<points> for <player>!"],
+			"post_judging" : ["...and there you have it! Thank you everyone!"]
+		},
+		"end" : {
+			"winner" : ["Tonight's winner is <player>!"],
+			"tie_win" : ["We don't see it too often, it's a tie!"],
+			"tie_win_start" : ["Our winners for today are <player>..."],
+			"tie_win_end" : ["...and <player>!"],
+			"congrats_goodbye" : ["Thank you everyone! Tune in next time for yet another match of The Choicer Voicer!"],
+			"final_score" : ["Let's see the final score..."]
+		}
+	}
+}

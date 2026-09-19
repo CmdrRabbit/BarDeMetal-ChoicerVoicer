@@ -1,0 +1,140 @@
+{
+	"host_type": "basic",
+	"match_multiplayer": {
+		"end": {
+			"congrats_goodbye": [
+				"Congratulations! We hope to see you all again on this 'game'!"
+			],
+			"final_score": [
+				"And that's a wrap, test subjects! Now, whose performance came out on top?"
+			],
+			"tie_win": [
+				"Goodness, it appears we have conflicting test results!"
+			],
+			"tie_win_end": [
+				"...and <player>!"
+			],
+			"tie_win_start": [
+				"Our winners for today are <player>..."
+			],
+			"winner": [
+				"And it looks like today's winner is <player>!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Welcome the Aperture Science Computer Aided Enrichment Center! \nI'm <host_name>, and I'll make sure you will have a pleasant evening!"
+			],
+			"b_contestants": [
+				"Audience, please give a round of applause for today's test subjects!"
+			],
+			"c_judges": [
+				"...and in this corner, we have a panel of judges! A panel of judges that Aperture Since has confirmed not to be influenced by me."
+			],
+			"d_explanation": [
+				"For any new viewers at home, the goal of the game is for them to expertly match various audio clips, using their own voice.",
+				"Now, with introductions out of the way, the testing begins shortly!"
+			]
+		},
+		"judging": {
+			"judged_player": [
+				"<points> for <player>!"
+			],
+			"post_judging": [
+				"...and there you have it!"
+			]
+		},
+		"round": {
+			"a_get_ready": [
+				"<player>,\nget ready, it's your turn!"
+			],
+			"b_post_record": [
+				"Let's hear how that turned out."
+			],
+			"c_post_listen": [
+				"You did 'very well' but which of our judges will vote for your performance?"
+			],
+			"round_final": [
+				"Last chance, test subjects! It's the final round."
+			],
+			"round_next": [
+				"Alright test subjects, get ready for round <round>!"
+			]
+		}
+	},
+	"match_singleplayer": {
+		"end": {
+			"final_score": [
+				"And with that, this testing has concluded! Let's see the test results!"
+			],
+			"lose_0": [
+				"Good. The judges are giving you a fair score. Couldn't have rated that better myself."
+			],
+			"lose_barely": [
+				"I'm sorry, you just barely would've made it!\nBut considering your performance that might be for the best..."
+			],
+			"lose_standard": [
+				"What a shame, it's not enough this time around. But do please bring your daughter to test next time!"
+			],
+			"win_100": [
+				"Outstanding! You've blown the judges away! As a reward we will give you 'two' Aperture Science complementary 'cakes'!"
+			],
+			"win_barely": [
+				"Only barely! I think the judges need a little adjustment of their personality. \nBy my calculations, you shouldn't have won at all."
+			],
+			"win_standard": [
+				"Congratulations! You've won the match! Now go behind the stage an receive your complementary 'cake'!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Welcome to the Aperture Science Computer Aided Enrichment Center! And I will be acting as the host for this nonsensical entertainment you call a 'game'."
+			],
+			"b_contestant": [
+				"Audience, please give a round of applause for today's test subject, <player>!"
+			],
+			"c_judges": [
+				"...and in this corner, we have a panel of judges! A panel of judges that Aperture Since has confirmed not to be influenced by me."
+			],
+			"d_explanation": [
+				"For any new viewers at home, the goal is for test subjects to expertly match various audio clips, using their own voice.",
+				"Now, with introductions out of the way, the testing begins now!"
+			]
+		},
+		"judging": {
+			"score_0": [
+				"Well...\nBy my own calculations, that was about expected."
+			],
+			"score_1": [
+				"Seems the judges weren't impressed...\nI wonder why."
+			],
+			"score_2": [
+				"Hmmm... Let me talk to the judges for a bit. \nThey've been too easy on you, right?"
+			],
+			"score_3": [
+				"In my opinion that could've been better. But alas, I'm not judging. Shame."
+			],
+			"score_4": [
+				"That was only a moderate performance I'd say. But the judges seem to like it."
+			],
+			"score_5": [
+				"I think the judges are a bit... 'too supportive'... I'll have a little chat with them later! \nBut good work! I guess."
+			]
+		},
+		"round": {
+			"b_post_record": [
+				"Let's hear how that turned out."
+			],
+			"c_post_listen": [
+				"You did (very well) but which of our judges will vote for your performance?"
+			],
+			"round_final": [
+				"It's the final round. Time to give it your all."
+			],
+			"round_next": [
+				"It's now time for round <round>."
+			]
+		}
+	},
+	"name": "GlaDOS"
+}

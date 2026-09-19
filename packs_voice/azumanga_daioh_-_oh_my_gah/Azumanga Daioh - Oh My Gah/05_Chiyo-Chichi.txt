@@ -1,0 +1,6 @@
+[data]
+
+caption="“Toire wanai, wagahai ha neko de aru”"
+image="05_Chiyo-Chichi.png"
+dub_timestamps=[26.077]
+dub_characters=["Chiyo-Chichi"]

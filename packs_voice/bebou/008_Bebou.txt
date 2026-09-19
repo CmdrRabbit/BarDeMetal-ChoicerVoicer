@@ -1,0 +1,6 @@
+[data]
+
+caption="je te gnogni 🥺😻😘❤️❤️"
+image="008_Bebou.jpg"
+dub_timestamps=[17.004]
+dub_characters=["Bebou"]

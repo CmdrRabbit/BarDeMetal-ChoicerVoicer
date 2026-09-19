@@ -1,0 +1,6 @@
+[data]
+
+caption="“Mon cicciobello tes joues sont rouges tu es malade”"
+image="Voix.png"
+dub_timestamps=[00.10]
+dub_characters=["Voix"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Vitamines, lait.. du sirop - tiens mon Cicciobello”"
+image="Voix.png"
+dub_timestamps=[06.30] 
+dub_characters=["Voix"]

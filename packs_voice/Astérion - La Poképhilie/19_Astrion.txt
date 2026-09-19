@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Fantominus n'est pas une boule de geisha...”"
+image="19_Astrion.png"
+dub_timestamps=[68.390]
+dub_characters=["Astrion"]

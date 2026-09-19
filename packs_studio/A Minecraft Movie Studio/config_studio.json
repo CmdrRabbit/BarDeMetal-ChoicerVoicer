@@ -1,0 +1,15 @@
+{
+	"audio": {
+		"music_studio_loop_start": 0,
+		"music_studio_loop_start_README": "For WAV, the start must be the SAMPLE. For MP3 and OGG, it must be the TIME, in seconds."
+	},
+	"recording_overlay_colors": {
+		"block_border": "80e5ff",
+		"body": "d1f6ff",
+		"playbar": "cc0000",
+		"record_backlight": "a1d6d5",
+		"record_light": "7dcde3",
+		"user_color": "078b09ff",
+		"voice_color": "6b3f11ff"
+	}
+}

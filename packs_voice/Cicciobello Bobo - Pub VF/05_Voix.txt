@@ -1,0 +1,6 @@
+[data]
+
+caption="“Ah ça y est je t'ai guéri”"
+image="Voix.png"
+dub_timestamps=[13.00]
+dub_characters=["Voix"]

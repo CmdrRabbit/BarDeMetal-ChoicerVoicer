@@ -1,0 +1,6 @@
+[data]
+
+caption="Oui my babe ❤️"
+image="002_Bebou.jpg"
+dub_timestamps=[2.983]
+dub_characters=["Bebou"]

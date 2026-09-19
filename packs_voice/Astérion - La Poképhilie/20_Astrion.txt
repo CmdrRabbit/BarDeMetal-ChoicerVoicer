@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Je vous déconseille fortement les pokémons de type psy”"
+image="20_Astrion.png"
+dub_timestamps=[71.167]
+dub_characters=["Astrion"]

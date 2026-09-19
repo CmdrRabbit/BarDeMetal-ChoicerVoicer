@@ -1,0 +1,17 @@
+{
+	"name" : "Spinaci le croco",
+	"color1" : "accbd1",
+	"color2" : "ffffff",
+	"introduction" : "le mec il est trop cringe",
+	"audio_assignment" : {
+		"intro_greet" : "talk_greet",
+		"score_0" : "talk_upset",
+		"score_1" : "talk_upset",
+		"score_2" : "",
+		"score_3" : "",
+		"score_4" : "talk_cheer",
+		"score_5" : "talk_cheer",
+		"game_winner" : "talk_cheer",
+		"game_loser" : "talk_upset"
+	}
+}

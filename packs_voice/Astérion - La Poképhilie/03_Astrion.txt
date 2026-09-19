@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Il s'agit de l'amour et fantasmes de l'Homme envers les pokémons, plus couramment appelée la Pokephilie”"
+image="03_Astrion.png"
+dub_timestamps=[15.257]
+dub_characters=["Astrion"]

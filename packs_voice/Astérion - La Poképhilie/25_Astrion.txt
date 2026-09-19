@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Dernier point avant de vous quitter, si l'envie de fantasme sur les Pokémons ne vous botte pas, il reste toujours le professeur chen :)”"
+image="25_Astrion.png"
+dub_timestamps=[88.715]
+dub_characters=["Astrion"]

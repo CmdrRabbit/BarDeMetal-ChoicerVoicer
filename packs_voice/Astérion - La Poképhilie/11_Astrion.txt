@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Sac-de-noeud pour les fondues du manga avec les tentacules....”"
+image="11_Astrion.png"
+dub_timestamps=[38.438]
+dub_characters=["Astrion"]

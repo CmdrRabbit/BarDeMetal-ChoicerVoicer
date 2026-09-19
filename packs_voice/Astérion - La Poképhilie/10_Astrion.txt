@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Un Lippoutou vous prenant pour une sucette... ”"
+image="10_Astrion.png"
+dub_timestamps=[35.600]
+dub_characters=["Astrion"]

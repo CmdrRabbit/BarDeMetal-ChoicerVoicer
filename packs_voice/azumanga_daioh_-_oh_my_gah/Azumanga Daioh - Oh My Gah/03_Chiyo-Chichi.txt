@@ -1,0 +1,6 @@
+[data]
+
+caption="“Uh, i wish, i were a bird”"
+image="03_Chiyo-Chichi.png"
+dub_timestamps=[15.342]
+dub_characters=["Chiyo-Chichi"]

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Vite ta température - ohlala tu as d'la fièvre”"
+image="Voix.png"
+dub_timestamps=[03.10]
+dub_characters=["Voix"]

@@ -1,0 +1,140 @@
+{
+	"host_type": "basic",
+	"match_multiplayer": {
+		"end": {
+			"congrats_goodbye": [
+				"Congratulations! We hope to see you all again on The Choicer Voicer!"
+			],
+			"final_score": [
+				"And that's a wrap, contestants! Now, whose performance came out on top?"
+			],
+			"tie_win": [
+				"Goodness, it appears we have a stalemate!"
+			],
+			"tie_win_end": [
+				"...and <player>!"
+			],
+			"tie_win_start": [
+				"Our winners for today are <player>..."
+			],
+			"winner": [
+				"And it looks like today's winner is <player>!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Welcome to The Choicer Voicer!\nI'm <host_name>, and I'll be your host for today's game!"
+			],
+			"b_contestants": [
+				"Audience, please give a round of applause for today's contestants!"
+			],
+			"c_judges": [
+				"...and in this corner, we have a panel of judges! Consider yourselves lucky I won't judge this time."
+			],
+			"d_explanation": [
+				"For any new viewers at home, the goal of the game is for them to expertly match various audio clips, using their own voice.",
+				"Now, with introductions out of the way, the missions begins shortly!"
+			]
+		},
+		"judging": {
+			"judged_player": [
+				"<points> for <player>!"
+			],
+			"post_judging": [
+				"...and there you have it!"
+			]
+		},
+		"round": {
+			"a_get_ready": [
+				"<player>,\nget ready, it's your turn!"
+			],
+			"b_post_record": [
+				"Good job! Let's hear how that turned out."
+			],
+			"c_post_listen": [
+				"Oh dear... but which of our judges will vote for your performance?"
+			],
+			"round_final": [
+				"Last chance, contestants! It's the final round. Let's make this a show to remember!"
+			],
+			"round_next": [
+				"Alright contestants, get ready for round <round>!"
+			]
+		}
+	},
+	"match_singleplayer": {
+		"end": {
+			"final_score": [
+				"And with that, this mission has concluded! Let's see what your final score is!"
+			],
+			"lose_0": [
+				"Ah, hmm...\nI think I will have to call the sniper on you. Uhm... to help you improve... of course..."
+			],
+			"lose_barely": [
+				"I'm sorry, you just barely would've made it!\nBut considering your performance that might be for the best..."
+			],
+			"lose_standard": [
+				"What a shame, it's not enough this time around."
+			],
+			"win_100": [
+				"Outstanding! You've blown the judges away! Though I certainly wouldn't have been this easy on you!"
+			],
+			"win_barely": [
+				"Hmm... only barely! If I'd have voted you won't be this lucky!"
+			],
+			"win_standard": [
+				"Congratulations! You've won the match! Good work!"
+			]
+		},
+		"intro": {
+			"a_welcome": [
+				"Welcome to The Choicer Voicer!\nI'm <host_name>, and I'll be your host for today's game!"
+			],
+			"b_contestant": [
+				"Audience, please give a round of applause for today's contestant, <player>!"
+			],
+			"c_judges": [
+				"...and in this corner, we have a panel of judges! Consider yourself lucky I won't judge this time."
+			],
+			"d_explanation": [
+				"For any new viewers at home, the goal is for contestants to expertly match various audio clips, using their own voice.",
+				"Now, with introductions out of the way, the missions begins shortly!"
+			]
+		},
+		"judging": {
+			"score_0": [
+				"Well...\nCan't say I wasn't expecting that."
+			],
+			"score_1": [
+				"Seems the judges weren't impressed...\nWhat a pity."
+			],
+			"score_2": [
+				"Hmmm... I certainly would not have voted for you. \nTry a little harder next time, hm?"
+			],
+			"score_3": [
+				"In my opinion that could've been better. But alas, I'm not judging. Shame."
+			],
+			"score_4": [
+				"That was only a moderate performance I'd say. But the judges seem to like it."
+			],
+			"score_5": [
+				"Well, consider me impressed! Good work!"
+			]
+		},
+		"round": {
+			"b_post_record": [
+				"Good job! Let's hear how that turned out."
+			],
+			"c_post_listen": [
+				"Oh dear... but which of our judges will vote for your performance?"
+			],
+			"round_final": [
+				"It's the final round. Time to give it your all. Don't let me down!"
+			],
+			"round_next": [
+				"It's now time for round <round>. Get ready!"
+			]
+		}
+	},
+	"name": "The Administrator"
+}

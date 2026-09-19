@@ -1,0 +1,6 @@
+[data]
+
+caption="“*sigh* In the photoshoots you do with Vouge magazine and cosmopolitan and uh Entertainment Weekly Time magazine, your hair changes dramatically uh from short to long. Do you wear wigs?”"
+image="01_Dom.png"
+dub_timestamps=[0.000]
+dub_characters=["Dom"]

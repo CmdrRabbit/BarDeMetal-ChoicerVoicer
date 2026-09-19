@@ -1,0 +1,18 @@
+{
+	"judge1": {
+		"name": "Zombie"
+	},
+	"judge2": {
+		"name": "Skeleton"
+	},
+	"judge3": {
+		"name": "Creeper"
+	},
+	"judge4": {
+		"name": "Pink Sheep"
+	},
+	"judge5": {
+		"name": "Garret 'The Garbage Man' Garrison"
+	},
+	"play_voices_with_blips": true
+}

@@ -1,0 +1,6 @@
+[data]
+
+caption="“Mori zen shushou”"
+image="206_Ayumu Kasuga.png"
+dub_timestamps=[38.710]
+dub_characters=["Ayumu Kasuga"]

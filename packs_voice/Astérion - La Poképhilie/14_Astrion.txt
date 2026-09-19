@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “En voici plusieurs exemples:”"
+image="14_Astrion.png"
+dub_timestamps=[49.236]
+dub_characters=["Astrion"]

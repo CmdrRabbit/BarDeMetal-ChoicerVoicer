@@ -1,0 +1,6 @@
+[data]
+
+caption="Mouah 👄❤️😻😍🥰"
+image="009_Babe.jpg"
+dub_timestamps=[18.703]
+dub_characters=["Babe"]

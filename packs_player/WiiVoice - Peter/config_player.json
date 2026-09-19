@@ -1,0 +1,17 @@
+{
+	"audio_assignment": {
+		"game_loser": "game_loser",
+		"game_winner": "game_winner",
+		"intro_greet": "talk_greet",
+		"score_0": "score_1",
+		"score_1": "score_1",
+		"score_2": "score_2",
+		"score_3": "score_3",
+		"score_4": "score_4",
+		"score_5": "score_5"
+	},
+	"color1": "0A49B3",
+	"color2": "FFD920",
+	"introduction": "The Minecraft sex haver: ",
+	"name": "Peter"
+}

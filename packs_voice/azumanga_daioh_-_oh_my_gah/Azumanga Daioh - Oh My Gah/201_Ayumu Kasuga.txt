@@ -1,0 +1,6 @@
+[data]
+
+caption="*gasp*"
+image="201_Ayumu Kasuga.png"
+dub_timestamps=[9.494]
+dub_characters=["Ayumu Kasuga"]

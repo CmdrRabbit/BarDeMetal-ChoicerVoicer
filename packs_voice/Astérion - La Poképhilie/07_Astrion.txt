@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Les possibilités érotiques avec les pokémons sont infinies!”"
+image="07_Astrion.png"
+dub_timestamps=[29.069]
+dub_characters=["Astrion"]

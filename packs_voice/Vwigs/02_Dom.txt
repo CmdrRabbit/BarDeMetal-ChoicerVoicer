@@ -1,0 +1,6 @@
+[data]
+
+caption="“Have you worn wigs?”"
+image="02_Dom.png"
+dub_timestamps=[17.817]
+dub_characters=["Dom"]

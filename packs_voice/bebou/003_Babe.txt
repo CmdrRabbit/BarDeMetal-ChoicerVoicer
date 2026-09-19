@@ -1,0 +1,6 @@
+[data]
+
+caption="Est-ce que tu m'aiiimes ? 👉👈❤️"
+image="003_Babe.jpg"
+dub_timestamps=[4.562]
+dub_characters=["Babe"]

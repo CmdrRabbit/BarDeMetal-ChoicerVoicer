@@ -1,0 +1,6 @@
+[data]
+
+caption="Je t'adore 🥺😻"
+image="004_Bebou.jpg"
+dub_timestamps=[7.050]
+dub_characters=["Bebou"]

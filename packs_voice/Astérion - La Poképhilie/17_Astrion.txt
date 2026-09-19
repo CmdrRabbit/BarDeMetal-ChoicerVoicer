@@ -1,0 +1,6 @@
+[data]
+
+caption="[Astrion] “Où vous connaîtrez le même destin que Claude François”"
+image="17_Astrion.png"
+dub_timestamps=[61.094]
+dub_characters=["Astrion"]

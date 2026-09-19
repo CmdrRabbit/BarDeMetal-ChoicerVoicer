@@ -1,0 +1,6 @@
+[data]
+
+caption="“Nekodenakereba, nanida to iu noda?”"
+image="06_Chiyo-Chichi.png"
+dub_timestamps=[30.010]
+dub_characters=["Chiyo-Chichi"]
